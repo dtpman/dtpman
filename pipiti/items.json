@@ -1,0 +1,2410 @@
+{
+ "book": "중3 동아(윤정미) Lesson 5 · Pattern 1 현재분사 / Pattern 2 as+원급+as",
+ "deck_title": "Lesson 5  Grammar Build Up 객관식",
+ "items": [
+  {
+   "id": "001",
+   "label": "Pattern 1 · 01번",
+   "topic": "현재분사",
+   "passage": "버스를 기다리는 소녀는 나의 친구다.\n→ The girl ______________ for the bus is my friend.",
+   "prompt": "다음 우리말을 영작하고자 할 때, 빈칸에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① wait",
+    "② waited",
+    "③ waiting",
+    "④ waits",
+    "⑤ is waiting"
+   ],
+   "kind": "choice",
+   "answer": "③ waiting",
+   "explanation": "the girl이 버스를 기다리고 있는 능동적인 상황이므로 현재분사 waiting이 알맞다."
+  },
+  {
+   "id": "002",
+   "label": "Pattern 1 · 02번",
+   "topic": "현재분사",
+   "passage": "The boy ______________ to music is Eric.",
+   "prompt": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① listen",
+    "② listening",
+    "③ listened",
+    "④ to listen",
+    "⑤ has listened"
+   ],
+   "kind": "choice",
+   "answer": "② listening",
+   "explanation": "the boy를 수식할 수 있는 현재분사가 들어가야 한다."
+  },
+  {
+   "id": "003",
+   "label": "Pattern 1 · 03번",
+   "topic": "현재분사",
+   "passage": "The girl called out the man ______________ a bike.",
+   "prompt": "다음 빈칸에 들어갈 말로 알맞은 것은?",
+   "choices": [
+    "① ride",
+    "② rode",
+    "③ ridden",
+    "④ riding",
+    "⑤ has ridden"
+   ],
+   "kind": "choice",
+   "answer": "④ riding",
+   "explanation": "분사가 명사를 수식하는 경우, 명사와 능동/진행 관계일 때는 현재분사(동사원형+ing)를 씀. 일반적으로 명사 앞에서 수식하지만 목적어, 보어, 부사(구) 등 다른 어구와 함께 수식할 때는 명사 뒤에서 수식한다."
+  },
+  {
+   "id": "004",
+   "label": "Pattern 1 · 04번",
+   "topic": "현재분사",
+   "passage": "This is the book ______________ by Mark Twain.",
+   "prompt": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① write",
+    "② wrote",
+    "③ written",
+    "④ writing",
+    "⑤ to write"
+   ],
+   "kind": "choice",
+   "answer": "③ written",
+   "explanation": "명사 the book을 꾸며주는 분사가 들어갈 자리로, 명사와의 관계가 수동이므로 written이 적절하다."
+  },
+  {
+   "id": "005",
+   "label": "Pattern 1 · 05번",
+   "topic": "현재분사",
+   "passage": "The people ____________ the movie look so bored.",
+   "prompt": "다음 빈칸에 들어갈 말로 가장 적절한 것은? (정답 2개)",
+   "choices": [
+    "① watch",
+    "② watching",
+    "③ are watching",
+    "④ who watching",
+    "⑤ who are watching"
+   ],
+   "kind": "choice",
+   "answer": "②, ⑤   (② watching  /  ⑤ who are watching)",
+   "explanation": "the people을 수식해줄 수 있는 현재분사 watching과, 주격 관계대명사절 who are watching이 빈칸에 들어갈 수 있다."
+  },
+  {
+   "id": "006",
+   "label": "Pattern 1 · 06번",
+   "topic": "현재분사",
+   "passage": "버스 정류장에 서 있는 소년은 나의 남동생이다.\n(is, my brother, the boy, at the bus stop, standing)",
+   "prompt": "다음 우리말과 일치하도록 괄호 안의 단어를 나열할 때, 네 번째 오는 것은?",
+   "choices": [
+    "① is",
+    "② my brother",
+    "③ the boy",
+    "④ at the bus stop",
+    "⑤ standing"
+   ],
+   "kind": "choice",
+   "answer": "① is",
+   "explanation": "The boy standing at the bus stop is my brother.가 완전한 문장이다."
+  },
+  {
+   "id": "007",
+   "label": "Pattern 1 · 07번",
+   "topic": "현재분사",
+   "passage": "나는 흰 바지를 입은 소년을 보았다.",
+   "prompt": "다음 우리말을 바르게 영작한 것은?",
+   "choices": [
+    "① I saw a boy worn white jeans.",
+    "② A boy was wearing white jeans.",
+    "③ I saw a boy wearing white jeans.",
+    "④ A boy wearing white jeans saw me.",
+    "⑤ I was seeing a boy wear white jeans."
+   ],
+   "kind": "choice",
+   "answer": "③ I saw a boy wearing white jeans.",
+   "explanation": "현재분사나 과거분사는 명사를 수식하는 형용사 형태로 쓸 수 있다. 단독으로 명사를 수식할 때는 명사 앞에 오고, 목적어, 보어, 부사(구) 다른 어구와 함께 명사를 수식하는 경우에는 명사 뒤에 온다."
+  },
+  {
+   "id": "008",
+   "label": "Pattern 1 · 08번",
+   "topic": "현재분사",
+   "passage": "There is a boy. He is dancing to music.\n→ There is a boy _________________________.",
+   "prompt": "다음 두 문장을 한 문장으로 바꿀 때, 빈칸에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① whom is dancing to music",
+    "② who dancing to music",
+    "③ is dancing to music",
+    "④ dancing to music",
+    "⑤ dances to music"
+   ],
+   "kind": "choice",
+   "answer": "④ dancing to music",
+   "explanation": "a boy를 수식할 수 있는 현재분사구가 빈칸에 들어가야 한다."
+  },
+  {
+   "id": "009",
+   "label": "Pattern 1 · 09번",
+   "topic": "현재분사",
+   "passage": "• Why don't you throw away the (A)_______ cups?\n• The girl (B)_______ sunglasses is my sister.\n",
+   "prompt": "다음 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "①  (A) break   (B) worn",
+    "②  (A) broken   (B) wearing",
+    "③  (A) broken   (B) worn",
+    "④  (A) breaking   (B) wearing",
+    "⑤  (A) breaking   (B) wear"
+   ],
+   "kind": "choice",
+   "answer": "②  (A) broken   (B) wearing",
+   "explanation": "현재분사나 과거분사는 명사를 수식하는 형용사 형태로 쓸 수 있다. 단독으로 명사를 수식할 때는 명사 앞에 오고, 목적어, 보어, 부사(구) 다른 어구와 함께 명사를 수식하는 경우에는 명사 뒤에 온다.\n현재분사는 '능동'의 성격이, 과거분사는 '수동'의 성격을 가지고 있다.\n(A) 깨진 컵\n(B) 선글라스를 쓰고 있는 소녀"
+  },
+  {
+   "id": "010",
+   "label": "Pattern 1 · 10번",
+   "topic": "현재분사",
+   "passage": "• I picked up the leaves (A)_______ on the ground.\n• Tom drew a bird (B)_______ in the sky.\n",
+   "prompt": "다음 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "①  (A) fall   (B) fly",
+    "②  (A) fallen   (B) flying",
+    "③  (A) falling   (B) to fly",
+    "④  (A) fell   (B) flew",
+    "⑤  (A) to fall   (B) to flying"
+   ],
+   "kind": "choice",
+   "answer": "②  (A) fallen   (B) flying",
+   "explanation": "현재분사나 과거분사는 명사를 수식하는 형용사 형태로 쓸 수 있다. 단독으로 명사를 수식할 때는 명사 앞에 오고, 목적어, 보어, 부사(구) 다른 어구와 함께 명사를 수식하는 경우에는 명사 뒤에 온다.\n현재분사는 '능동'의 성격이, 과거분사는 '수동'의 성격을 가지고 있다.\n(A) 땅에 떨어진 잎들\n(B) 하늘에 나는 새"
+  },
+  {
+   "id": "011",
+   "label": "Pattern 1 · 11번",
+   "topic": "현재분사",
+   "passage": "• There is a bridge (A)_______ two towns.\n• There is a tunnel (B)_______ to the town.\n",
+   "prompt": "다음 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "①  (A) connected   (B) connecting",
+    "②  (A) connecting   (B) connected",
+    "③  (A) connected   (B) connected",
+    "④  (A) connecting   (B) connecting",
+    "⑤  (A) connect   (B) connection"
+   ],
+   "kind": "choice",
+   "answer": "②  (A) connecting   (B) connected",
+   "explanation": "(A) 명사와의 관계가 능동이므로 connecting\n(B) 명사와의 관계가 수동이므로 connected"
+  },
+  {
+   "id": "012",
+   "label": "Pattern 1 · 12번",
+   "topic": "현재분사",
+   "passage": "• Don't pick the flowers (A)_______ in the garden.\n• The girl (B)_______ the flowers in the garden is my friend, Jisun.\n",
+   "prompt": "다음 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "①  (A) planting   (B) planted",
+    "②  (A) planted   (B) planting",
+    "③  (A) planting   (B) planting",
+    "④  (A) planted   (B) is planting",
+    "⑤  (A) are planting   (B) is planting"
+   ],
+   "kind": "choice",
+   "answer": "②  (A) planted   (B) planting",
+   "explanation": "(A) the flowers는 사람에 의해 심어진 수동의 의미이므로 과거분사 planted가 알맞다.\n(B) the girl은 직접 꽃을 심는 능동의 입장이므로 planting이 알맞다."
+  },
+  {
+   "id": "013",
+   "label": "Pattern 1 · 13번",
+   "topic": "현재분사",
+   "passage": "• There are two people (A)_______ for the subway.\n• I don't like most of the pictures (B)_______ at the party.\n",
+   "prompt": "다음 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "①  (A) waited   (B) take",
+    "②  (A) waited   (B) taken",
+    "③  (A) waited   (B) took",
+    "④  (A) waiting   (B) taken",
+    "⑤  (A) waiting   (B) taking"
+   ],
+   "kind": "choice",
+   "answer": "④  (A) waiting   (B) taken",
+   "explanation": "(A) two people이 지하철을 기다리고 있는 능동의 상황이므로 현재분사 waiting이 알맞다.\n(B) the pictures는 사람에 의해 사진이 찍히는 수동의 의미이므로 과거분사 taken이 알맞다."
+  },
+  {
+   "id": "014",
+   "label": "Pattern 1 · 14번",
+   "topic": "현재분사",
+   "passage": "• Yujin likes this novel (A)_______ by Leo Tolstoy.\n• Do you know the man (B)_______ at the lake?\n",
+   "prompt": "다음 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "①  (A) wrote   (B) look",
+    "②  (A) write   (B) looked",
+    "③  (A) written   (B) looking",
+    "④  (A) to write   (B) to look",
+    "⑤  (A) writing   (B) looking"
+   ],
+   "kind": "choice",
+   "answer": "③  (A) written   (B) looking",
+   "explanation": "(A) this novel은 Leo Tolstoy에 의해서 쓰이는 대상이므로 과거분사 written이 수식할 수 있다.\n(B) the man은 호수를 바라보고 있는 능동적인 주체이므로 현재분사 looking이 수식할 수 있다."
+  },
+  {
+   "id": "015",
+   "label": "Pattern 1 · 15번",
+   "topic": "현재분사",
+   "passage": "• The cat (A)________ on the bench is my pet.\n•Have you read a book (B)________ by William Shakespeare?\n",
+   "prompt": "다음 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "①  (A) slept   (B) to write",
+    "②  (A) being slept   (B) written",
+    "③  (A) slept   (B) writing",
+    "④  (A) sleeping   (B) written",
+    "⑤  (A) sleeping   (B) writing"
+   ],
+   "kind": "choice",
+   "answer": "④  (A) sleeping   (B) written",
+   "explanation": "분사와 수식받는 명사 사이의 관계가 능동/진행일 때는 현재분사, 수동/완료일 때는 과거분사를 쓴다."
+  },
+  {
+   "id": "016",
+   "label": "Pattern 1 · 16번",
+   "topic": "현재분사",
+   "passage": "A: Look at the pictures ⓐ_______ by me in the park.\nB: Awesome! The kids ⓑ_______ on the bench are very cute.\n",
+   "prompt": "다음 대화의 빈칸 ⓐ, ⓑ에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "①  ⓐ take   ⓑ sit",
+    "②  ⓐ taking   ⓑ sitting",
+    "③  ⓐ taking   ⓑ sat",
+    "④  ⓐ taken   ⓑ sit",
+    "⑤  ⓐ taken   ⓑ sitting"
+   ],
+   "kind": "choice",
+   "answer": "⑤  ⓐ taken   ⓑ sitting",
+   "explanation": "(A) the pictures는 나에 의해서 찍히는 수동의 대상이므로 과거분사 taken이 알맞다.\n(B) the kids는 벤치에 앉아 있는 능동의 상황이므로 sitting이 알맞다."
+  },
+  {
+   "id": "017",
+   "label": "Pattern 1 · 17번",
+   "topic": "현재분사",
+   "passage": "• I threw away the (A)_______ glasses.\n• The picture (B)_______ in yellow is my daughter's.\n• Mary told me some (C)_______ news.\n",
+   "prompt": "Which pair is suitable for the blanks (A), (B), (C)?",
+   "choices": [
+    "①  (A) broken   (B) painted   (C) shocking",
+    "②  (A) broken   (B) painted   (C) shocked",
+    "③  (A) breaking   (B) painted   (C) shocking",
+    "④  (A) breaking   (B) painting   (C) shocked",
+    "⑤  (A) breaking   (B) painting   (C) shocking"
+   ],
+   "kind": "choice",
+   "answer": "①  (A) broken   (B) painted   (C) shocking",
+   "explanation": "현재분사나 과거분사는 명사를 수식하는 형용사 형태로 쓸 수 있다. 단독으로 명사를 수식할 때는 명사 앞에 오고, 목적어, 보어, 부사(구) 다른 어구와 함께 명사를 수식하는 경우에는 명사 뒤에 온다.\n현재분사는 '능동'의 성격이, 과거분사는 '수동'의 성격을 가지고 있다.\n(A) 깨진 안경\n(B) 노란색으로 그려진 그림\n(C) 충격적인 소식"
+  },
+  {
+   "id": "018",
+   "label": "Pattern 1 · 18번",
+   "topic": "현재분사",
+   "passage": "• The most famous thing in France is the Eiffel Tower (A)_______ in 1889.\n• My father is the man (B)_______ a rest under the tree.\n• In the movie, she watched ghosts (C)_______ people.\n",
+   "prompt": "다음 글의 빈칸 (A), (B), (C)에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "①  (A) building   (B) take   (C) attacking",
+    "②  (A) building   (B) taking   (C) attacked",
+    "③  (A) built   (B) taking   (C) attack",
+    "④  (A) built   (B) taking   (C) attacked",
+    "⑤  (A) built   (B) take   (C) attacking"
+   ],
+   "kind": "choice",
+   "answer": "③  (A) built   (B) taking   (C) attack",
+   "explanation": "현재분사나 과거분사는 명사를 수식하는 형용사 형태로 쓸 수 있다. 단독으로 명사를 수식할 때는 명사 앞에 오고, 목적어, 보어, 부사(구) 다른 어구와 함께 명사를 수식하는 경우에는 명사 뒤에 온다.\n현재분사는 '능동'의 성격이, 과거분사는 '수동'의 성격을 가지고 있다.\n지각동사(hear, see, taste, smell, feel 등)는 목적격보어자리에 동사원형 또는 현재분사가 온다."
+  },
+  {
+   "id": "019",
+   "label": "Pattern 1 · 19번",
+   "topic": "현재분사",
+   "passage": "• I have an old book (A)_______ in Chinese.\n• The car (B)_______ in the accident was mine.\n• There are hundreds of people (C)_______ in the factory.\n",
+   "prompt": "다음 글의 빈칸 (A), (B), (C)에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "①  (A) writing   (B) breaking   (C) work",
+    "②  (A) writing   (B) breaking   (C) worked",
+    "③  (A) written   (B) broken   (C) working",
+    "④  (A) written   (B) broken   (C) worked",
+    "⑤  (A) written   (B) breaking   (C) working"
+   ],
+   "kind": "choice",
+   "answer": "③  (A) written   (B) broken   (C) working",
+   "explanation": "(A) an old book은 쓰이는 수동의 대상이므로 과거분사의 수식을 받는다.\n(B) the car도 고장이 나는 수동의 대상이므로 과거분사의 수식을 받는다.\n(C) people이 일을 하고 있는 능동적인 상황이므로 현재분사의 수식을 받는다."
+  },
+  {
+   "id": "020",
+   "label": "Pattern 1 · 20번",
+   "topic": "현재분사",
+   "passage": "• Justin was (A)_______ to hear about the accident.\n• This book has many (B)_______ stories.\n• I bought a (C)_______ car because I didn't have much money.\n• Hard (D)_______ eggs are my favorite food.\n",
+   "prompt": "다음 글의 빈칸 (A)~(D)에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "①  (A) surprised   (B) touching   (C) used   (D) boiled",
+    "②  (A) surprised   (B) touched   (C) using   (D) boiled",
+    "③  (A) surprising   (B) touched   (C) using   (D) boiled",
+    "④  (A) surprising   (B) touching   (C) using   (D) boiling",
+    "⑤  (A) surprising   (B) touching   (C) used   (D) boiled"
+   ],
+   "kind": "choice",
+   "answer": "①  (A) surprised   (B) touching   (C) used   (D) boiled",
+   "explanation": "(A) Justin이 놀라운 감정을 느끼는 것이므로 과거분사\n(B) 이야기들이 감동을 주는 것이므로 현재분사\n(C) 자동차가 이용된 것이므로 과거분사\n(D) 달걀이 삶아진 것이므로 과거분사\n분사와 수식받는 명사의 관계에 따라 현재분사인지 과거분사인지를 구분한다."
+  },
+  {
+   "id": "021",
+   "label": "Pattern 1 · 21번",
+   "topic": "현재분사",
+   "passage": "• Peter walked on the (A)(falling / fallen) leaves.\n• I think his success is really (B)(surprising / surprised).\n• There was a very (C)(interesting / interested) article in the newspaper.\n",
+   "prompt": "다음 괄호 (A), (B), (C) 안에서 어법에 맞는 표현으로 가장 적절한 것은?",
+   "choices": [
+    "①  (A) falling   (B) surprising   (C) interesting",
+    "②  (A) fallen   (B) surprising   (C) interesting",
+    "③  (A) falling   (B) surprised   (C) interested",
+    "④  (A) fallen   (B) surprised   (C) interested",
+    "⑤  (A) falling   (B) surprised   (C) interesting"
+   ],
+   "kind": "choice",
+   "answer": "②  (A) fallen   (B) surprising   (C) interesting",
+   "explanation": "현재분사나 과거분사는 명사를 수식하는 형용사 형태로 쓸 수 있다. 단독으로 명사를 수식할 때는 명사 앞에 오고, 목적어, 보어, 부사(구) 다른 어구와 함께 명사를 수식하는 경우에는 명사 뒤에 온다.\n현재분사는 '능동'의 성격이, 과거분사는 '수동'의 성격을 가지고 있다."
+  },
+  {
+   "id": "022",
+   "label": "Pattern 1 · 22번",
+   "topic": "현재분사",
+   "passage": "• A ship ⓐ[[carry]] a horse into a small island sank during a terrible storm.\n• Do you know the man ⓑ[[take]] to the hospital?\n• There are three boxes ⓒ[[leave]] on the table.\n• I have found my bag ⓓ[[steal]] last week.\n• People ⓔ[[invite]] to the party had to wear a suit.",
+   "prompt": "다음 문장의 밑줄 친 ⓐ~ⓔ를 어법에 맞게 고친  것은?",
+   "choices": [
+    "① ⓐ - carried",
+    "② ⓑ - who was taken",
+    "③ ⓒ - leaved",
+    "④ ⓓ - stole",
+    "⑤ ⓔ - were invited"
+   ],
+   "kind": "choice",
+   "answer": "② ⓑ - who was taken",
+   "explanation": "① carry는 carrying으로 고쳐야 한다.\n③ leave의 과거분사형은 left이다.\n④ steal의 과거분사형은 stolen이다.\n⑤ 주격 관계대명사를 써서 who were invited로 고쳐야 알맞다."
+  },
+  {
+   "id": "023",
+   "label": "Pattern 1 · 23번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분의 어법이 옳은 것은?",
+   "choices": [
+    "① 소녀가 자전거를 타고 있는 남자를 소리쳐 불렀다.\n→ A girl called out to [[the man ride a bike]].",
+    "② 개를 산책시키는 여자가 노인에게 말했다.\n→ [[The lady walked her dog]] talked to the old man.",
+    "③ 소년이 빨간 모자를 쓰고 있는 소녀에게 공을 던졌다.\n→ The boy threw the ball to [[the girl worn a red cap]].",
+    "④ 오리들을 따라가는 남자는 몇 송이 꽃을 갖고 있다.\n→ [[The man following the ducks]] has some flowers.",
+    "⑤ 소녀는 공원에서 산책하는 소년을 보았다.\n→ The girl saw [[the boy take a walk]] in the park."
+   ],
+   "kind": "choice",
+   "answer": "④ 오리들을 따라가는 남자는 몇 송이 꽃을 갖고 있다.  → [[The man following the ducks]] has some flowers.",
+   "explanation": "① → the man riding a bike\n② → The lady walking her dog\n③ → the girl wearing a red cap\n⑤ → the boy taking a walk"
+  },
+  {
+   "id": "024",
+   "label": "Pattern 1 · 24번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 두 문장을 한 문장으로 만들고자 할 때, 적절하지 않은 것은?",
+   "choices": [
+    "① Harry drew a cat. It was eating a fish.\n→ Harry drew a cat eating a fish.",
+    "② I know the man. He is wearing a blue jacket.\n→ I know the man wearing a blue jacket.",
+    "③ I don't know the boy. He's coming toward us.\n→ I don't know the boy coming toward us.",
+    "④ She couldn't avoid the ball. It was flying toward her.\n→ She couldn't avoid the ball flying toward her.",
+    "⑤ That woman won a gold medal in the Olympics.\nShe is swimming in the sea.\n→ That woman won a gold medal in the Olympics swimming in the sea."
+   ],
+   "kind": "choice",
+   "answer": "⑤ That woman won a gold medal in the Olympics.  She is swimming in the sea.  → That woman won a gold medal in the Olympics swimming in the sea.",
+   "explanation": "→ That woman swimming in the sea won a gold medal in the Olympics."
+  },
+  {
+   "id": "025",
+   "label": "Pattern 1 · 25번",
+   "topic": "현재분사",
+   "passage": "• I love spaghetti (A)(cook) by my mom.\n• I heard the phone (B)(ring).\n• The boy (C)(sit) on the bench is my nephew.\n",
+   "prompt": "다음 괄호 (A), (B), (C) 안에 주어진 동사의 형태가 알맞은 것끼리 짝지어진 것은?",
+   "choices": [
+    "①  (A) cooking   (B) ringing   (C) sitting",
+    "②  (A) cooked   (B) to ring   (C) sit",
+    "③  (A) cooking   (B) ringing   (C) to sit",
+    "④  (A) cooked   (B) ringing   (C) sitting",
+    "⑤  (A) cooking   (B) to ring   (C) sat"
+   ],
+   "kind": "choice",
+   "answer": "④  (A) cooked   (B) ringing   (C) sitting",
+   "explanation": "현재분사나 과거분사는 명사를 수식하는 형용사 형태로 쓸 수 있다. 단독으로 명사를 수식할 때는 명사 앞에 오고, 목적어, 보어, 부사(구) 다른 어구와 함께 명사를 수식하는 경우에는 명사 뒤에 온다.\n현재분사는 '능동'의 성격이, 과거분사는 '수동'의 성격을 가지고 있다.\n지각동사(hear, see, taste, smell, feel 등)는 목적격보어자리에 동사원형 또는 현재분사가 온다."
+  },
+  {
+   "id": "026",
+   "label": "Pattern 1 · 26번",
+   "topic": "현재분사",
+   "passage": "• The students found some (A)(hide) treasure.\n• There was a coat (B)(hang) on the wall.\n• This is the theater (C)(build) in 1940.\n• Look at the cute kids (D)(dance) on the stage.\n• My grandparents have a beautiful house (E)(surround) by mountains.\n",
+   "prompt": "Which is appropriate for (A)~(E)?",
+   "choices": [
+    "①  (A) hiding   (B) hanged   (C) built   (D) danced   (E) surrounding",
+    "②  (A) hiding   (B) hanging   (C) building   (D) dancing   (E) surrounded",
+    "③  (A) hidden   (B) hanging   (C) building   (D) danced   (E) surrounding",
+    "④  (A) hidden   (B) hanging   (C) built   (D) dancing   (E) surrounded",
+    "⑤  (A) hidden   (B) hanged   (C) built   (D) dancing   (E) surrounded"
+   ],
+   "kind": "choice",
+   "answer": "④  (A) hidden   (B) hanging   (C) built   (D) dancing   (E) surrounded",
+   "explanation": "(A) 보물은 숨겨져 있는 수동의 대상이므로 과거분사 hidden으로 쓴다.\n(B) hang은 자동사로 쓰이기 때문에 현재분사 hanging으로 써야 한다.\n(C) 극장은 지어지는 수동의 대상이므로 과거분사 built로 써야 한다.\n(D) 아이들이 춤을 추고 있기 때문에 현재분사 dancing으로 써야 한다.\n(E) 집이 산에 의해 둘러싸여 있는 수동의 대상이므로 과거분사 surrounded로 써야 한다."
+  },
+  {
+   "id": "027",
+   "label": "Pattern 1 · 27번",
+   "topic": "현재분사",
+   "passage": "• Some of the people (invite) to the party didn't come.\n• He put his (sleep) baby down gently.\n• This is the house (belong) to Mr. Kent.\n• I read a short story (write) by O. Henry.\n• My father sells the flowers (plant) in the garden.",
+   "prompt": "다음 괄호 안에 주어진 동사의 형태가 알맞은 것끼리 짝지어진 것은?",
+   "choices": [
+    "① invited, sleeping, belonging, written, planted",
+    "② invited, slept, belonged, written, planting",
+    "③ inviting, sleep, to belong, writing, plant",
+    "④ to invite, slept, belonging, write, to plant",
+    "⑤ invited, sleeping, to belong, to write, planted"
+   ],
+   "kind": "choice",
+   "answer": "① invited, sleeping, belonging, written, planted",
+   "explanation": "• Some of the people (invite) to the party didn't come. → people이 파티에 초대된 수동의 대상이므로 과거분사 invited의 수식을 받는다.\n• He put his (sleep) baby down gently. → baby가 잠을 자는 주체이므로 현재분사 sleeping이 알맞다.\n• This is the house (belong) to Mr. Kent. → belong은 자동사이므로 현재분사 형태를 취한다.\n• I read a short story (write) by O. Henry. → a short story가 오 헨리에 의해 쓰인 수동의 대상이므로 과거분사 written의 수식을 받는다.\n• My father sells the flowers (plant) in the garden. → flowers가 정원에서 자라게 되는 수동의 대상이므로 과거분사 planted의 수식을 받는다."
+  },
+  {
+   "id": "028",
+   "label": "Pattern 1 · 28번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 괄호 안의 단어를 분사(participle)로 바꾸어 빈칸에 넣을 때, 분사의 종류가 나머지 셋과 다른 두 개를 고르면?",
+   "choices": [
+    "① You must make yourself _______ in the business world. (respect)",
+    "② She saw smoke _______ out of the building. (come)",
+    "③ She sat on the bench _______ a song. (sing)",
+    "④ Jane left me _______ while she saw the doctor. (wait)",
+    "⑤ She started helping _______ kids as a volunteer. (abuse)"
+   ],
+   "kind": "choice",
+   "answer": "①, ⑤",
+   "explanation": "①번과 ⑤번 선택지에는 과거분사 형태가 들어가고, 나머지 선택지에는 모두 현재분사 형태가 들어간다."
+  },
+  {
+   "id": "029",
+   "label": "Pattern 1 · 29번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 나머지 넷과 다른 것은?",
+   "choices": [
+    "① Harry drew a cat [[eating]] a fish.",
+    "② Look at that [[crying]] baby.",
+    "③ He is [[playing]] the guitar.",
+    "④ [[Collecting]] stamps is my hobby.",
+    "⑤ I know many American students [[learning]] Korean."
+   ],
+   "kind": "choice",
+   "answer": "④ [[Collecting]] stamps is my hobby.",
+   "explanation": "동명사, 나머지는 현재분사"
+  },
+  {
+   "id": "030",
+   "label": "Pattern 1 · 30번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 나머지 넷과 다른 것은?",
+   "choices": [
+    "① I heard the [[shocking]] news from him.",
+    "② She enjoyed [[playing]] the violin at the concert.",
+    "③ Cover this [[sleeping]] child with your coat.",
+    "④ They saw a [[singing]] bird on the tree.",
+    "⑤ The boy [[wearing]] a blue hat is Ji-hun."
+   ],
+   "kind": "choice",
+   "answer": "② She enjoyed [[playing]] the violin at the concert.",
+   "explanation": "동명사, 나머지는 현재분사"
+  },
+  {
+   "id": "031",
+   "label": "Pattern 1 · 31번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 나머지 넷과 다른 것은?",
+   "choices": [
+    "① I'm afraid of dogs [[barking]] at people.",
+    "② She wanted a doll [[wearing]] a red dress.",
+    "③ Look at the [[smiling]] baby. She is so cute.",
+    "④ The man was [[cooking]] dinner for his wife.",
+    "⑤ Yumi's hobby is [[taking]] pictures of people."
+   ],
+   "kind": "choice",
+   "answer": "⑤ Yumi's hobby is [[taking]] pictures of people.",
+   "explanation": "동명사, 나머지는 현재분사"
+  },
+  {
+   "id": "032",
+   "label": "Pattern 1 · 32번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 나머지 넷과 다른 것은?",
+   "choices": [
+    "① I saw a [[dancing]] bear in the zoo.",
+    "② A [[sleeping]] baby is like an angel.",
+    "③ He tried [[opening]] the bottle with a spoon.",
+    "④ The girl [[listening]] to music is Ann.",
+    "⑤ The man [[sitting]] on the bench is my father."
+   ],
+   "kind": "choice",
+   "answer": "③ He tried [[opening]] the bottle with a spoon.",
+   "explanation": "동명사, 나머지는 현재분사"
+  },
+  {
+   "id": "033",
+   "label": "Pattern 1 · 33번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 나머지 넷과 다른 것은?",
+   "choices": [
+    "① These are [[non-smoking]] seats.",
+    "② Her job is [[designing]] baby clothes.",
+    "③ Please meet me at the [[waiting]] room.",
+    "④ I burned my finger with [[boiling]] water.",
+    "⑤ [[Learning]] a foreign language is very fun."
+   ],
+   "kind": "choice",
+   "answer": "④ I burned my finger with [[boiling]] water.",
+   "explanation": "현재분사, 나머지는 동명사"
+  },
+  {
+   "id": "034",
+   "label": "Pattern 1 · 34번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 나머지 넷과 다른 것은?",
+   "choices": [
+    "① His job is [[teaching]] English.",
+    "② I saw the birds [[flying]] in the sky.",
+    "③ My sister is [[singing]] on the stage.",
+    "④ She looks like a [[dancing]] machine.",
+    "⑤ The [[sleeping]] baby on the bed is very cute."
+   ],
+   "kind": "choice",
+   "answer": "① His job is [[teaching]] English.",
+   "explanation": "동명사, 나머지는 현재분사"
+  },
+  {
+   "id": "035",
+   "label": "Pattern 1 · 35번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 나머지 넷과 다른 것은?",
+   "choices": [
+    "① The [[dancing]] girl looks so cute.",
+    "② Do you know the boy [[smiling]] at you?",
+    "③ I'm very proud of [[being]] her son.",
+    "④ This novel is really [[amazing]].",
+    "⑤ A ball boy is [[collecting]] the balls on the ground."
+   ],
+   "kind": "choice",
+   "answer": "③ I'm very proud of [[being]] her son.",
+   "explanation": "동명사, 나머지는 현재분사"
+  },
+  {
+   "id": "036",
+   "label": "Pattern 1 · 36번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 나머지 넷과 다른 것은?",
+   "choices": [
+    "① [[Exercising]] every day is good for health.",
+    "② The girl [[holding]] a book is Mina.",
+    "③ The boy [[wearing]] glasses is Ann's brother.",
+    "④ There is a dog [[sleeping]] by the bench.",
+    "⑤ There is a man [[lying]] on the sofa."
+   ],
+   "kind": "choice",
+   "answer": "① [[Exercising]] every day is good for health.",
+   "explanation": "동명사, 나머지는 현재분사"
+  },
+  {
+   "id": "037",
+   "label": "Pattern 1 · 37번",
+   "topic": "현재분사",
+   "passage": "ⓐ The boy [[crying]] over there is my brother.\nⓑ We should wait for the train [[leaving]] at 8:00.\nⓒ I need to buy a [[sleeping]] bag for camping.\nⓓ Students are supposed to be in the [[waiting ]]room first.\nⓔ My uncle [[living]] in New York is busy making a lot of money in all of his businesses.",
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 같은 것끼리 짝지어진 것은?",
+   "choices": [
+    "① ⓐ, ⓒ",
+    "② ⓑ, ⓒ",
+    "③ ⓑ, ⓒ, ⓓ",
+    "④ ⓐ, ⓑ, ⓔ",
+    "⑤ ⓓ, ⓔ"
+   ],
+   "kind": "choice",
+   "answer": "④ ⓐ, ⓑ, ⓔ",
+   "explanation": "ⓐ, ⓑ, ⓔ 현재분사\nⓒ, ⓓ 동명사"
+  },
+  {
+   "id": "038",
+   "label": "Pattern 1 · 38번",
+   "topic": "현재분사",
+   "passage": "<보기> Where is your [[sleeping]] bag?",
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은?",
+   "choices": [
+    "① The male fox began [[pushing]] hard.",
+    "② The dog was [[lying]] on his bed.",
+    "③ The cat threw it to the [[waiting]] dog.",
+    "④ They've been [[preparing]] for the project since then.",
+    "⑤ An elephant was [[freeing]] himself from a trap."
+   ],
+   "kind": "choice",
+   "answer": "① The male fox began [[pushing]] hard.",
+   "explanation": "동명사, 나머지는 현재분사"
+  },
+  {
+   "id": "039",
+   "label": "Pattern 1 · 39번",
+   "topic": "현재분사",
+   "passage": "<보기> We saw a big eagle [[flying]] above us.",
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은?",
+   "choices": [
+    "① [[Learning]] English is very important.",
+    "② His wish is [[traveling]] around the world.",
+    "③ I hate [[speaking]] in front of other people.",
+    "④ A police officer is [[guarding]] the entrance.",
+    "⑤ What is your secret for [[winning]] the contest?"
+   ],
+   "kind": "choice",
+   "answer": "④ A police officer is [[guarding]] the entrance.",
+   "explanation": "현재분사, 나머지는 동명사"
+  },
+  {
+   "id": "040",
+   "label": "Pattern 1 · 40번",
+   "topic": "현재분사",
+   "passage": "<보기> The boys are [[making]] a model airplane.",
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은? (정답 2개)",
+   "choices": [
+    "① [[Drinking]] coffee will help you stay awake.",
+    "② I heard someone [[knocking]] on the door.",
+    "③ His hobby is [[playing]] ice hockey.",
+    "④ Who is the girl [[wearing]] the blue jacket?",
+    "⑤ She enjoys [[jogging]] every morning."
+   ],
+   "kind": "choice",
+   "answer": "②, ④   (② I heard someone [[knocking]] on the door.  /  ④ Who is the girl [[wearing]] the blue jacket?)",
+   "explanation": "현재분사, 나머지는 동명사"
+  },
+  {
+   "id": "041",
+   "label": "Pattern 1 · 41번",
+   "topic": "현재분사",
+   "passage": "<보기> Look at the dog [[running]] toward him.",
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 다른 것은?",
+   "choices": [
+    "① [[Reading]] a book is a good hobby.",
+    "② Julia saw a boy [[walking]] down the street.",
+    "③ Jessica kept her boyfriend [[waiting]] for three hours.",
+    "④ Do you know the [[shouting]] man over there?",
+    "⑤ The soccer game was really [[exciting]]."
+   ],
+   "kind": "choice",
+   "answer": "① [[Reading]] a book is a good hobby.",
+   "explanation": "동명사, 나머지는 현재분사"
+  },
+  {
+   "id": "042",
+   "label": "Pattern 1 · 42번",
+   "topic": "현재분사",
+   "passage": "<보기> All the actors [[singing and dancing]] make the movie fun to see.",
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 다른 것은?",
+   "choices": [
+    "① He was in his room [[studying]] math.",
+    "② We saw a [[running]] dog pass us.",
+    "③ A [[rolling]] stone gathers no moss.",
+    "④ The [[sleeping]] baby is my nephew.",
+    "⑤ There is a [[smoking]] room in the coffee shop."
+   ],
+   "kind": "choice",
+   "answer": "⑤ There is a [[smoking]] room in the coffee shop.",
+   "explanation": "동명사, 나머지는 현재분사"
+  },
+  {
+   "id": "043",
+   "label": "Pattern 1 · 43번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 나머지와 다른 것은?",
+   "choices": [
+    "① A [[sleeping]] child is always cute.",
+    "② [[Reading]] in bed is bad for your eyes.",
+    "③ I heard someone [[calling]] my name.",
+    "④ He is [[writing]] a letter.",
+    "⑤ My job is [[boring]]."
+   ],
+   "kind": "choice",
+   "answer": "② [[Reading]] in bed is bad for your eyes.",
+   "explanation": "동명사, 나머지는 현재분사"
+  },
+  {
+   "id": "044",
+   "label": "Pattern 1 · 44번",
+   "topic": "현재분사",
+   "passage": "<보기> She managed to escape from the [[burning]] car.",
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 다른 것은?",
+   "choices": [
+    "① Who is the [[crying]] baby?",
+    "② I saw him [[crossing]] the street.",
+    "③ John sat [[reading]] the magazine.",
+    "④ We slept in [[sleeping]] bags during the vacation.",
+    "⑤ Jenny was [[playing]] the piano when I went to see her."
+   ],
+   "kind": "choice",
+   "answer": "④ We slept in [[sleeping]] bags during the vacation.",
+   "explanation": "동명사, 나머지는 현재분사"
+  },
+  {
+   "id": "045",
+   "label": "Pattern 1 · 45번",
+   "topic": "현재분사",
+   "passage": "<보기> The woman [[drawing]] a picture in the park is my sister.",
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 다른 것은?",
+   "choices": [
+    "① The boy [[reading]] a book is my son.",
+    "② [[Taking]] a walk is good for your health.",
+    "③ There are two girls [[studying]] in my class.",
+    "④ The girl [[asking]] for directions is new to this town.",
+    "⑤ The man [[painting]] a picture wants to be a painter."
+   ],
+   "kind": "choice",
+   "answer": "② [[Taking]] a walk is good for your health.",
+   "explanation": "동명사, 나머지는 현재분사"
+  },
+  {
+   "id": "046",
+   "label": "Pattern 1 · 46번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 옳은 것은?",
+   "choices": [
+    "① He bought a car [[making]] in Korea.",
+    "② The story has a [[surprised]] ending.",
+    "③ It was [[pleased]] to get good grades.",
+    "④ The news about them was so [[shocking]].",
+    "⑤ Do you know the boy [[danced]] in the room?"
+   ],
+   "kind": "choice",
+   "answer": "④ The news about them was so [[shocking]].",
+   "explanation": "① making → made\n② surprised → surprising\n③ pleased → pleasing\n⑤ danced → dancing"
+  },
+  {
+   "id": "047",
+   "label": "Pattern 1 · 47번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장을 모두 고르면?",
+   "choices": [
+    "① Tom is happy with the [[used]] car he bought.",
+    "② Today is the most [[excited]] day of my life.",
+    "③ Amy and Tim are stuck behind a [[locked]] door.",
+    "④ Jessica collects [[fallen]] leaves every autumn.",
+    "⑤ I think this book has lots of [[touched]] stories."
+   ],
+   "kind": "choice",
+   "answer": "②, ⑤   (② Today is the most [[excited]] day of my life.  /  ⑤ I think this book has lots of [[touched]] stories.)",
+   "explanation": "② excited → exciting\n⑤ touched → touching"
+  },
+  {
+   "id": "048",
+   "label": "Pattern 1 · 48번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 어색한 것은?",
+   "choices": [
+    "① The game must be [[exciting]].",
+    "② My brother looks [[bored]] with the movie.",
+    "③ This is one of the most [[interesting]] books.",
+    "④ I was [[excited]] when I arrived in New York.",
+    "⑤ It was [[surprised]] to see their great friendship."
+   ],
+   "kind": "choice",
+   "answer": "⑤ It was [[surprised]] to see their great friendship.",
+   "explanation": "surprised → surprising"
+  },
+  {
+   "id": "049",
+   "label": "Pattern 1 · 49번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 옳은 것은?",
+   "choices": [
+    "① Ann found a key [[hiding]] under the desk.",
+    "② The baby [[crying]] all morning makes me crazy.",
+    "③ Mr. Lee's accident was quite [[surprised]] news to me.",
+    "④ I bought a [[using]] car because I didn't have much money.",
+    "⑤ There was a very [[interested]] article in the newspaper."
+   ],
+   "kind": "choice",
+   "answer": "② The baby [[crying]] all morning makes me crazy.",
+   "explanation": "① hiding → hidden\n③ surprised → surprising\n④ using → used\n⑤ interested → interesting"
+  },
+  {
+   "id": "050",
+   "label": "Pattern 1 · 50번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 어색한 것은?",
+   "choices": [
+    "① I saw the [[limping]] man.",
+    "② He was [[sitting]] by this rock.",
+    "③ Look at the stars [[shining]] in the sky.",
+    "④ The car [[parked]] outside is his.",
+    "⑤ I like the song [[singing]] by Maroon 5."
+   ],
+   "kind": "choice",
+   "answer": "⑤ I like the song [[singing]] by Maroon 5.",
+   "explanation": "the song은 마룬 5에 의해 불리는 수동의 대상이므로 singing은 과거분사 sung으로 고친다."
+  },
+  {
+   "id": "051",
+   "label": "Pattern 1 · 51번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 어색한 것은?",
+   "choices": [
+    "① The man [[standing]] beside the tree is my uncle.",
+    "② Look at the dog [[swimming]] in the sea.",
+    "③ Read the book [[written]] in English.",
+    "④ I bought a mobile phone [[made]] in Korea.",
+    "⑤ I found the cat [[cried]] on the desk."
+   ],
+   "kind": "choice",
+   "answer": "⑤ I found the cat [[cried]] on the desk.",
+   "explanation": "cried는 crying으로 고쳐야 한다."
+  },
+  {
+   "id": "052",
+   "label": "Pattern 1 · 52번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 옳은 것은?",
+   "choices": [
+    "① She is talking with a boy [[sitting]] on the bench.",
+    "② There is a glass [[filling]] with orange juice.",
+    "③ I want to see the photo [[taking]] at the park.",
+    "④ My father is reading a newspaper [[writing]] in English.",
+    "⑤ I heard my name [[calling]] far behind the building."
+   ],
+   "kind": "choice",
+   "answer": "① She is talking with a boy [[sitting]] on the bench.",
+   "explanation": "② filling은 filled로 고쳐야 한다.\n③ 사진은 찍히는 수동의 대상이므로 taking은 taken으로 고쳐야 한다.\n④ 신문이 쓰이는 수동의 대상이므로 writing은 written으로 고쳐야 한다.\n⑤ 이름이 불리는 수동의 대상이므로 calling은 called로 고쳐야 한다."
+  },
+  {
+   "id": "053",
+   "label": "Pattern 1 · 53번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 어색한 것은?",
+   "choices": [
+    "① Be careful with the [[boiling]] water.",
+    "② What is the language [[speaking]] in Mexico?",
+    "③ The boy [[playing]] basketball is my brother.",
+    "④ Look at the [[sleeping]] baby. He's so cute!",
+    "⑤ These are the pictures [[painted]] by Picasso."
+   ],
+   "kind": "choice",
+   "answer": "② What is the language [[speaking]] in Mexico?",
+   "explanation": "→ spoken"
+  },
+  {
+   "id": "054",
+   "label": "Pattern 1 · 54번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 옳은 것은?",
+   "choices": [
+    "① The road [[calling]] “the old road” is now blocked.",
+    "② Look at that girl [[wore]] a red skirt.",
+    "③ There was a coat [[hanging]] on the wall.",
+    "④ This is an old picture [[taking]] 20 years ago.",
+    "⑤ He lost my book, Hamlet, [[writing]] by William Shakespeare."
+   ],
+   "kind": "choice",
+   "answer": "③ There was a coat [[hanging]] on the wall.",
+   "explanation": "① calling은 called로 고쳐야 한다.\n② wore는 wearing으로 고쳐야 한다.\n④ 사진은 찍히는 수동의 대상이므로 taking은 taken으로 고쳐야 한다.\n⑤ 책은 쓰이는 수동의 대상이므로 writing은 written으로 고쳐야 한다."
+  },
+  {
+   "id": "055",
+   "label": "Pattern 1 · 55번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 어색한 것은?",
+   "choices": [
+    "① I can't find the letter [[writing]] by Jane.",
+    "② I remember the boy [[called]] Paul.",
+    "③ The old woman [[waiting]] for the bus was Jinsu's grandmother.",
+    "④ His friends [[invited]] to the party came on time.",
+    "⑤ Kim liked the sound of the piano [[played]] by her brother."
+   ],
+   "kind": "choice",
+   "answer": "① I can't find the letter [[writing]] by Jane.",
+   "explanation": "→ written"
+  },
+  {
+   "id": "056",
+   "label": "Pattern 1 · 56번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 옳은 것은?",
+   "choices": [
+    "① All the people [[inviting]] to the party are enjoying themselves.",
+    "② I'm reading a play [[written]] by Shakespeare.",
+    "③ Look at the man [[painted]] the house yellow.",
+    "④ Jason is eating the spaghetti [[making]] by my mom.",
+    "⑤ Who is the pretty woman [[played]] the piano?"
+   ],
+   "kind": "choice",
+   "answer": "② I'm reading a play [[written]] by Shakespeare.",
+   "explanation": "① → invited\n③ → painting\n④ → made\n⑤ → playing"
+  },
+  {
+   "id": "057",
+   "label": "Pattern 1 · 57번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 어색한 것은?",
+   "choices": [
+    "① Did you read the letter [[posting]] on the blog?",
+    "② There is a woman [[ironing]] clothes in the painting.",
+    "③ I used to collect [[fallen]] leaves every autumn.",
+    "④ There is a big tree [[planted]] in 1930.",
+    "⑤ They are looking at the menu [[written]] in English."
+   ],
+   "kind": "choice",
+   "answer": "① Did you read the letter [[posting]] on the blog?",
+   "explanation": "→ posted\n블로그에 편지가 게시된 것이므로 과거분사 형태를 쓴다."
+  },
+  {
+   "id": "058",
+   "label": "Pattern 1 · 58번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 옳은 것은?",
+   "choices": [
+    "① I went to a meeting [[holding]] in Seoul.",
+    "② Let's pick up these leaves [[fallen]] under the tree.",
+    "③ I am reading a book [[writing]] by George Orwell.",
+    "④ There are two people [[waited]] for the train.",
+    "⑤ The man [[talked]] with Tom is John."
+   ],
+   "kind": "choice",
+   "answer": "② Let's pick up these leaves [[fallen]] under the tree.",
+   "explanation": "① I went to a meeting [[held]] in Seoul.\n③ I am reading a book [[written]] by George Orwell.\n④ There are two people [[waiting]] for the train.\n⑤ The man [[talking]] with Tom is John."
+  },
+  {
+   "id": "059",
+   "label": "Pattern 1 · 59번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 어색한 것은?",
+   "choices": [
+    "① I saw a box [[leaving]] at the door.",
+    "② He bought a shirt [[made]] in China.",
+    "③ The man [[caught]] by the police was tall.",
+    "④ There are many people [[interested]] in art.",
+    "⑤ The girl [[dancing]] over there is my cousin."
+   ],
+   "kind": "choice",
+   "answer": "① I saw a box [[leaving]] at the door.",
+   "explanation": "a box는 문 앞에 남겨진 수동의 대상이므로 과거분사 left로 고쳐야 한다."
+  },
+  {
+   "id": "060",
+   "label": "Pattern 1 · 60번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 옳은 것은?",
+   "choices": [
+    "① The movie shows a [[spoken]] robot.",
+    "② Many Americans like cars [[making]] in Korea.",
+    "③ 'The Little Prince' is a [[touching]] story.",
+    "④ Who were those people [[waited]] outside?",
+    "⑤ Some of the people [[inviting]] to the party couldn't come."
+   ],
+   "kind": "choice",
+   "answer": "③ 'The Little Prince' is a [[touching]] story.",
+   "explanation": "① The movie shows a [[speaking]] robot.\n② Many Americans like cars [[made]] in Korea.\n④ Who were those people [[waiting]] outside?\n⑤ Some of the people [[invited]] to the party couldn't come."
+  },
+  {
+   "id": "061",
+   "label": "Pattern 1 · 61번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "Which of the underlined parts is NOT appropriate?",
+   "choices": [
+    "① I watched all the movies [[directed]] by Tim Burton.",
+    "② My puppy barked at the [[talking]] robot.",
+    "③ I cut my finger on the [[broken]] glass.",
+    "④ The man [[speaking]] English is from Canada.",
+    "⑤ Do you know the man [[catching]] by the police?"
+   ],
+   "kind": "choice",
+   "answer": "⑤ Do you know the man [[catching]] by the police?",
+   "explanation": "→ caught"
+  },
+  {
+   "id": "062",
+   "label": "Pattern 1 · 62번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 어색한 것은?",
+   "choices": [
+    "① Do not wake up the [[sleeping]] baby.",
+    "② Watches [[made]] in Swiss are very expensive.",
+    "③ Their presentation was [[bored]] and not impressive.",
+    "④ I'm not [[interested]] in Korean artworks.",
+    "⑤ What is the language [[spoken]] in Egypt?"
+   ],
+   "kind": "choice",
+   "answer": "③ Their presentation was [[bored]] and not impressive.",
+   "explanation": "주어인 presentation이 지루함을 유발하고 있는 것이므로 현재분사 boring으로 써야 한다."
+  },
+  {
+   "id": "063",
+   "label": "Pattern 1 · 63번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 옳은 것은?",
+   "choices": [
+    "① He is the man [[talked]] with Tom.",
+    "② I got a letter [[writing]] in English.",
+    "③ I went to a meeting [[held]] in Tokyo.",
+    "④ These are pictures [[painting]] by Picasso.",
+    "⑤ There are two people [[waited]] for the train."
+   ],
+   "kind": "choice",
+   "answer": "③ I went to a meeting [[held]] in Tokyo.",
+   "explanation": "① He is the man [[talking]] with Tom.\n② I got a letter [[written]] in English.\n④ These are pictures [[painted]] by Picasso.\n⑤ There are two people [[waiting]] for the train."
+  },
+  {
+   "id": "064",
+   "label": "Pattern 1 · 64번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "Which of the underlined parts is NOT correct?",
+   "choices": [
+    "① Somebody [[calling]] Jack phoned while you were out.",
+    "② She is reading a menu [[written]] in Japanese.",
+    "③ Do you know the woman [[talking]] to Sam?",
+    "④ This is a singer [[known]] to everyone.",
+    "⑤ Some of the people [[invited]] to the party can't come."
+   ],
+   "kind": "choice",
+   "answer": "① Somebody [[calling]] Jack phoned while you were out.",
+   "explanation": "'Jack이라고 불리는 누군가'의 뜻이므로 calling은 과거분사 called로 고쳐야 한다."
+  },
+  {
+   "id": "065",
+   "label": "Pattern 1 · 65번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① I had my brother fixed my bike.",
+    "② I picked up the leaves fallen under the tree.",
+    "③ I saw a beautiful house covering with snow.",
+    "④ Look at that airplane flown in the sky.",
+    "⑤ She memorized a poem wrote by Robert Frost."
+   ],
+   "kind": "choice",
+   "answer": "② I picked up the leaves fallen under the tree.",
+   "explanation": "① I had my brother [[fix]] my bike.\n③ I saw a beautiful house [[covered]] with snow.\n④ Look at that airplane [[flying]] in the sky.\n⑤ She memorized a poem [[written]] by Robert Frost."
+  },
+  {
+   "id": "066",
+   "label": "Pattern 1 · 66번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?",
+   "choices": [
+    "① The girl called the man playing soccer.",
+    "② I know many American students learn Korean.",
+    "③ The man following the ducks has some flowers.",
+    "④ The lady walking her dog talked to the old man.",
+    "⑤ The boy threw his ball to the girl wearing a red cap."
+   ],
+   "kind": "choice",
+   "answer": "② I know many American students learn Korean.",
+   "explanation": "learn → learning"
+  },
+  {
+   "id": "067",
+   "label": "Pattern 1 · 67번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① I like excited games.",
+    "② Look at the burning building.",
+    "③ This book has a touched story.",
+    "④ Who is the man wear a necktie?",
+    "⑤ The man drive the car is my friend."
+   ],
+   "kind": "choice",
+   "answer": "② Look at the burning building.",
+   "explanation": "① I like [[exciting]] games.\n③ This book has a [[touching]] story.\n④ Who is the man [[wearing]] a necktie?\n⑤ The man [[driving]] the car is my friend."
+  },
+  {
+   "id": "068",
+   "label": "Pattern 1 · 68번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?",
+   "choices": [
+    "① I love the sound of falling rain.",
+    "② When I received the invitation card, I felt very excited.",
+    "③ Watch out! There are pieces of broken glass on the floor.",
+    "④ New York is one of the biggest cities in America, called 'the Big Apple.'",
+    "⑤ There are various kinds of books included novels, magazines, biography, and so on."
+   ],
+   "kind": "choice",
+   "answer": "⑤ There are various kinds of books included novels, magazines, biography, and so on.",
+   "explanation": "including은 현재분사 형태로 숙어처럼 이용되어 '~을 포함하여'라는 뜻을 나타낸다."
+  },
+  {
+   "id": "069",
+   "label": "Pattern 1 · 69번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① I'll get the car fix by tomorrow.",
+    "② Do you know the boy plays the drums?",
+    "③ The turkey cooking by my dad was delicious.",
+    "④ There are lots of leaves fallen on the bench.",
+    "⑤ The person most shocking by the news was me."
+   ],
+   "kind": "choice",
+   "answer": "④ There are lots of leaves fallen on the bench.",
+   "explanation": "① the car는 수리를 받는 수동의 대상이므로 fix는 fixed로 고쳐야 한다.\n② the boy를 꾸미는 분사구가 되어야 하므로 plays를 playing으로 고쳐야 한다.\n③ the turkey가 요리되는 수동의 대상이므로 cooking은 cooked로 고쳐야 한다.\n⑤ the person이 충격을 받은 것이므로 shocking은 shocked로 고쳐야 한다."
+  },
+  {
+   "id": "070",
+   "label": "Pattern 1 · 70번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?",
+   "choices": [
+    "① Look at the bird flying in the sky.",
+    "② I saw the girl dancing on the stage.",
+    "③ I like this tree planted by my father.",
+    "④ I was deeply impressed by his words.",
+    "⑤ The police found the bag throwing in the woods."
+   ],
+   "kind": "choice",
+   "answer": "⑤ The police found the bag throwing in the woods.",
+   "explanation": "throwing → thrown\n가방이 숲속에 버려진 것이므로 과거분사 형태를 쓴다."
+  },
+  {
+   "id": "071",
+   "label": "Pattern 1 · 71번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① The boy reading books are tall.",
+    "② I like the cooked dishes by my mom.",
+    "③ The photos took by John were great.",
+    "④ Look at the road covering with snow.",
+    "⑤ Tom read a book written by O. Henry."
+   ],
+   "kind": "choice",
+   "answer": "⑤ Tom read a book written by O. Henry.",
+   "explanation": "① 주어가 the boy이므로 동사는 단수 동사 is로 바꿔야 한다.\n② cooked와 dishes의 순서가 바뀌어야 한다.\n③ 문장의 동사는 were이고, the photos를 수식하는 분사로 수동의 의미를 지닌 과거분사 taken이 되어야 한다.\n④ the road가 눈으로 뒤덮인 수동의 의미이므로 covering은 covered로 고친다."
+  },
+  {
+   "id": "072",
+   "label": "Pattern 1 · 72번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?",
+   "choices": [
+    "① I saw a boy crossing the street.",
+    "② The girl is talking with Tony is Jenny.",
+    "③ The cake made by my mother is delicious.",
+    "④ The police found the bag thrown in the woods.",
+    "⑤ Do you know the woman talking to him?"
+   ],
+   "kind": "choice",
+   "answer": "② The girl is talking with Tony is Jenny.",
+   "explanation": "→ The girl (who is) talking with Tony is Jenny."
+  },
+  {
+   "id": "073",
+   "label": "Pattern 1 · 73번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?",
+   "choices": [
+    "① I like clothes made in Korea.",
+    "② He read the card written by my mom.",
+    "③ The girl playing the piano is my sister.",
+    "④ The robot invented by Dr. Kim was fantastic.",
+    "⑤ The picture painting by Dad is on the wall."
+   ],
+   "kind": "choice",
+   "answer": "⑤ The picture painting by Dad is on the wall.",
+   "explanation": "the picture가 아빠에 의해서 그려지는 수동의 대상이므로 painting은 과거분사 painted로 고쳐야 한다."
+  },
+  {
+   "id": "074",
+   "label": "Pattern 1 · 74번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?",
+   "choices": [
+    "① They lived in a house built in 1970.",
+    "② She sent a letter writing in English.",
+    "③ The pictures taken at the party are nice.",
+    "④ Did you see the girl walking along the beach?",
+    "⑤ Is he the baseball player loved by many people?"
+   ],
+   "kind": "choice",
+   "answer": "② She sent a letter writing in English.",
+   "explanation": "She sent a letter written in English."
+  },
+  {
+   "id": "075",
+   "label": "Pattern 1 · 75번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① There is a slept cat in the yard.",
+    "② I know the girl stood by the wall.",
+    "③ This is the first school built in 1940.",
+    "④ The displaying clothes are on sale now.",
+    "⑤ The computer using for his project is mine."
+   ],
+   "kind": "choice",
+   "answer": "③ This is the first school built in 1940.",
+   "explanation": "① slept → sleeping\n② stood → standing\n④ displaying → displayed\n⑤ using → used"
+  },
+  {
+   "id": "076",
+   "label": "Pattern 1 · 76번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?",
+   "choices": [
+    "① I saw a girl listening to music under a tree.",
+    "② The wallet found by the police was mine.",
+    "③ Do you know the man washing his hands?",
+    "④ The room cleaned this morning is going to be used by new customers.",
+    "⑤The picture painting by a famous painter was bought by that old lady."
+   ],
+   "kind": "choice",
+   "answer": "⑤The picture painting by a famous painter was bought by that old lady.",
+   "explanation": "the picture가 유명한 화가에 의해서 그려지는 수동의 대상이므로 과거분사 painted의 수식을 받아야 한다."
+  },
+  {
+   "id": "077",
+   "label": "Pattern 1 · 77번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① A bear naming Buck is very smart.",
+    "② I read a short story written by O. Henry.",
+    "③ This is the scarf making by my grandmother.",
+    "④ This is the robot which invented by Dr. Lee.",
+    "⑤ Some of the people inviting to the party didn't come."
+   ],
+   "kind": "choice",
+   "answer": "② I read a short story written by O. Henry.",
+   "explanation": "① A bear [[named]] Buck is very smart.\n③ This is the scarf [[made]] by my grandmother.\n④ This is the robot [[(which was) invented]] by Dr. Lee.\n⑤ Some of the people [[invited]] to the party didn't come."
+  },
+  {
+   "id": "078",
+   "label": "Pattern 1 · 78번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?",
+   "choices": [
+    "① The girl singing a song is Mary.",
+    "② Can you read a letter writing in English?",
+    "③ I saw a pretty woman wearing very long boots.",
+    "④ Who is that old man carrying heavy bags?",
+    "⑤ The boy standing outside is my younger brother."
+   ],
+   "kind": "choice",
+   "answer": "② Can you read a letter writing in English?",
+   "explanation": "a letter가 영어로 쓰이는 수동의 대상이므로 과거분사 written의 수식을 받아야 한다."
+  },
+  {
+   "id": "079",
+   "label": "Pattern 1 · 79번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① There is a box filling with toys.",
+    "② I found a wooden box containing lots of money.",
+    "③ Talking about the movie with her was really excited.",
+    "④ The firefighter rushed into the burned house to save a child.",
+    "⑤ Most of the shops finding in the malls are parts of large companies."
+   ],
+   "kind": "choice",
+   "answer": "② I found a wooden box containing lots of money.",
+   "explanation": "① 상자는 채워지는 수동의 대상이므로 filling은 filled로 고쳐야 한다.\n③ 이야기를 하는 일은 흥미를 유발하는 일이므로 excited는 exciting으로 고쳐야 한다.\n④ burned는 burning으로 고쳐야 한다.\n⑤ finding은 found로 고쳐야 한다."
+  },
+  {
+   "id": "080",
+   "label": "Pattern 1 · 80번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?",
+   "choices": [
+    "① She is the actress known to everybody in China.",
+    "② The bike found in the park is my brother's.",
+    "③ He is reading a book wrote by J. K. Rowling.",
+    "④ Look at this amazing bridge designed by Leon.",
+    "⑤ Some of the people invited to the party brought some food."
+   ],
+   "kind": "choice",
+   "answer": "③ He is reading a book wrote by J. K. Rowling.",
+   "explanation": "a book이 쓰이는 수동의 대상이므로 과거분사 written의 수식을 받아야 한다."
+  },
+  {
+   "id": "081",
+   "label": "Pattern 1 · 81번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① The taxi taken us to the airport broke down.",
+    "② Somebody naming John called while you were out.",
+    "③ There were pieces of breaking glass on the floor.",
+    "④ The two girls talking to each other are Mira and Sally.",
+    "⑤ Some of the people inviting to the party couldn't come."
+   ],
+   "kind": "choice",
+   "answer": "④ The two girls talking to each other are Mira and Sally.",
+   "explanation": "① taken → taking\n② naming → named\n③ breaking → broken\n⑤ inviting → invited"
+  },
+  {
+   "id": "082",
+   "label": "Pattern 1 · 82번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① I saw a cat chasing by a dog.",
+    "② The girl holding a book is Mina.",
+    "③ There is a boy written an interesting novel.",
+    "④ Have you seen the pictures painted Munch?",
+    "⑤ It's fun to walk on the road covering with fallen leaves."
+   ],
+   "kind": "choice",
+   "answer": "② The girl holding a book is Mina.",
+   "explanation": "① a cat이 개에 의해서 추적을 당하는 대상이므로 과거분사 chased의 수식을 받아야 한다.\n③ a boy가 흥미로운 소설을 직접 쓰는 능동적인 상황이므로 현재분사 writing을 써야 한다.\n④ Munch 앞에 전치사 by가 필요하다.\n⑤ the road가 떨어진 잎으로 덮여 있는 상태이므로 과거분사 covered의 수식을 받아야 한다."
+  },
+  {
+   "id": "083",
+   "label": "Pattern 1 · 83번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① The picture taking by me won the first prize.",
+    "② The people invited to the party are having fun.",
+    "③ Have you read these short stories wrote by O. Henry?",
+    "④ This is a singer who are known to everyone in Korea.",
+    "⑤ Look at that wonderful bridge which designed by Leon Moisseiff."
+   ],
+   "kind": "choice",
+   "answer": "② The people invited to the party are having fun.",
+   "explanation": "① the picture가 찍히는 수동의 대상이므로 과거분사 taken의 수식을 받아야 한다.\n③ these short stories가 쓰이는 수동의 대상이므로 과거분사 written의 수식을 받아야 한다.\n④ 선행사가 a singer의 단수이므로 주격 관계대명사절의 동사도 단수 is로 일치시켜야 한다.\n⑤ that wonderful bridge를 수식하는 주격 관계대명사절의 동사가 수동태여야 하므로 was designed로 써야 한다. 또는 which was를 생략하고 designed만 써 준다."
+  },
+  {
+   "id": "084",
+   "label": "Pattern 1 · 84번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① The man stood in front of the car looked sick.",
+    "② I like the dishes cook by my mom.",
+    "③ The girl playing the piano is my sister.",
+    "④ These are photos took from an airplane.",
+    "⑤ The police found the pictures stealing from the museum."
+   ],
+   "kind": "choice",
+   "answer": "③ The girl playing the piano is my sister.",
+   "explanation": "① → The man [[standing]] in front of the car looked sick.\n② → I like the dishes [[cooked]] by my mom.\n④ → These are photos [[taken]] from an airplane.\n⑤ → The police found the pictures [[stolen]] from the museum."
+  },
+  {
+   "id": "085",
+   "label": "Pattern 1 · 85번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① The girl waited at the gate is my friend.",
+    "② I want to buy that coat hang on the wall.",
+    "③ I know the talking man with the girl.",
+    "④ Listen to the birds singing in the woods.",
+    "⑤ The dog barking is my lovely pet."
+   ],
+   "kind": "choice",
+   "answer": "④ Listen to the birds singing in the woods.",
+   "explanation": "① waited → waiting\n② hang → hanging\n③ the talking man → the man talking\n⑤ The dog barking → The barking dog"
+  },
+  {
+   "id": "086",
+   "label": "Pattern 1 · 86번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은? (정답 2개)",
+   "choices": [
+    "① Mary moved the cat sleeping.",
+    "② The girl shouted at the boy riding a bike.",
+    "③ A large number of cars was parked over there.",
+    "④ Please put the noodles in a pot of boiling water.",
+    "⑤ It was always interested to hear her stories."
+   ],
+   "kind": "choice",
+   "answer": "②, ④   (② The girl shouted at the boy riding a bike.  /  ④ Please put the noodles in a pot of boiling water.)",
+   "explanation": "① the cat sleeping → the sleeping cat\n③ was parked → were parked\n⑤ interested → interesting"
+  },
+  {
+   "id": "087",
+   "label": "Pattern 1 · 87번",
+   "topic": "현재분사",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은? (정답 2개)",
+   "choices": [
+    "① I went to the meeting held in Japan.",
+    "② She wants the plant watering enough.",
+    "③ Look at the mountain covering with snow.",
+    "④ The pictures taken at the party last night are so funny.",
+    "⑤ My daughter is playing with the cute doll that  dressed in red."
+   ],
+   "kind": "choice",
+   "answer": "①, ④   (① I went to the meeting held in Japan.  /  ④ The pictures taken at the party last night are so funny.)",
+   "explanation": "② watering → watered\n③ covering → covered\n⑤ that dressed → (that is) dressed"
+  },
+  {
+   "id": "088",
+   "label": "Pattern 1 · 88번",
+   "topic": "현재분사",
+   "passage": "• Look at the girl dancing with Tim.\n• This is the cell phone making in Korea.\n• These are photos taken from an airplane.\n• Some of the people inviting to the party didn't come.\n• I read a short story was written by O. Henry.\n• The woman driven the car is my mother.",
+   "prompt": "다음 중 어법상 어색한 문장의 총 개수는?",
+   "choices": [
+    "① 1개",
+    "② 2개",
+    "③ 3개",
+    "④ 4개",
+    "⑤ 5개"
+   ],
+   "kind": "choice",
+   "answer": "④ 4개",
+   "explanation": "• This is the cell phone making in Korea.에서 making은 made로 써야 한다.\n• Some of the people inviting to the party didn't come.에서 inviting은 invited로 고쳐야 한다.\n• I read a short story was written by O. Henry.에서 문장의 동사는 read이므로 a short story를 꾸미는 분사구가 되도록 was written에서 was를 삭제해야 한다.\n• the woman이 동작의 주체이므로 driven은 능동의 의미를 지닌 현재분사 driving이 되어야 한다."
+  },
+  {
+   "id": "089",
+   "label": "Pattern 1 · 89번",
+   "topic": "현재분사",
+   "passage": "a. The books ordered online arrived one week later.\nb. Mina likes that man working for a bank.\nc. Don't pick the flowers planted in the garden.\nd. The people surprising at the strange sound came out of the building.",
+   "prompt": "다음 중 어법상 옳은 문장끼리 바르게 짝지어진 것은?",
+   "choices": [
+    "① a",
+    "② a, b",
+    "③ a, b, c",
+    "④ a, c, d",
+    "⑤ a, b, c, d"
+   ],
+   "kind": "choice",
+   "answer": "③ a, b, c",
+   "explanation": "d. The people [[surprised]] at the strange sound came out of the building."
+  },
+  {
+   "id": "090",
+   "label": "Pattern 1 · 90번",
+   "topic": "현재분사",
+   "passage": "ⓐ The man [[called]] Dr. K is really good at baseball.\nⓑ The girl likes the books [[written]] by Edgar Allan Poe.\nⓒ The watches [[producing]] in Switzerland are popular.\nⓓ He showed me some photos [[taken]] in Turkey.\nⓔ The boy [[cried]] in the room is my brother.\nⓕ He is a famous designer [[was born]] in Sweden.",
+   "prompt": "다음 밑줄 친 부분 중 어법상 옳은 것끼리 바르게 짝지어진 것은?",
+   "choices": [
+    "① ⓐ, ⓑ, ⓒ",
+    "② ⓑ, ⓔ, ⓕ",
+    "③ ⓐ, ⓑ, ⓓ",
+    "④ ⓑ, ⓒ, ⓔ",
+    "⑤ ⓒ, ⓓ, ⓕ"
+   ],
+   "kind": "choice",
+   "answer": "③ ⓐ, ⓑ, ⓓ",
+   "explanation": "ⓒ The watches [[produced]] in Switzerland are popular.\nⓔ The boy [[crying]] in the room is my brother.\nⓕ He is a famous designer [[(who[that] was) born]] in Sweden."
+  },
+  {
+   "id": "091",
+   "label": "Pattern 1 · 91번",
+   "topic": "현재분사",
+   "passage": "ⓐ The news were surprising.\nⓑ The man wearing a red cap is my uncle.\nⓒ Mary moved the cat sleeping carefully.\nⓓ Jessica was reading a book written in French.\nⓔ Everything related to his business are based on sports.\nⓕ Many women want to buy bags made in Italy.",
+   "prompt": "다음 중 어법상 옳은 문장끼리 바르게 짝지어진 것은?",
+   "choices": [
+    "① ⓐ, ⓓ",
+    "② ⓑ, ⓓ, ⓔ",
+    "③ ⓑ, ⓓ, ⓕ",
+    "④ ⓑ, ⓓ, ⓔ, ⓕ",
+    "⑤ ⓐ, ⓒ, ⓔ, ⓕ"
+   ],
+   "kind": "choice",
+   "answer": "③ ⓑ, ⓓ, ⓕ",
+   "explanation": "ⓐ were → was\nⓒ the cat sleeping → the sleeping cat\nⓔ are → is"
+  },
+  {
+   "id": "092",
+   "label": "Pattern 1 · 92번",
+   "topic": "현재분사",
+   "passage": "ⓐ The bell [[ringing]] in the distance told them it was noon.\nⓑ The first clue was the wide line [[leaded]] to David Slade's house.\nⓒ This movie is a comedy about an Indian girl [[living]] in Paris.\nⓓ A few days after the interview, I received a letter [[offered]] me the job.\nⓔ A number of suggestions [[made]] at the meeting are not very practical.\nⓕ The waiting room was empty except for a young man [[sat]] by the window.",
+   "prompt": "다음 중 밑줄 친 부분의 쓰임이 옳은 것끼리 바르게 짝지어진 것은?",
+   "choices": [
+    "① ⓐ, ⓑ, ⓔ",
+    "② ⓐ, ⓑ, ⓒ, ⓔ",
+    "③ ⓐ, ⓑ, ⓓ, ⓔ",
+    "④ ⓐ, ⓒ, ⓔ",
+    "⑤ ⓐ, ⓓ, ⓔ, ⓕ"
+   ],
+   "kind": "choice",
+   "answer": "④ ⓐ, ⓒ, ⓔ",
+   "explanation": "ⓑ the wide line이 이끌고 있는 능동의 의미이므로 leading으로 고친다.\nⓓ 편지가 나에게 일자리를 제공하는 내용이므로 offering으로 고친다.\nⓕ sat은 sitting으로 고친다."
+  },
+  {
+   "id": "093",
+   "label": "Pattern 1 · 93번",
+   "topic": "현재분사",
+   "passage": "• She is the writer loving by all Koreans.\n• Look at this picture which took by my brother.\n• He was holding a container which filled with hot water.\n• Many students holding their ID cards were waiting in front of the library.\n• An actor is named Minho appeared in the movie.\n• There were a lot of people who are waiting in line.",
+   "prompt": "다음 중 어법상 옳은 문장의 총 개수는?",
+   "choices": [
+    "① 1개",
+    "② 2개",
+    "③ 3개",
+    "④ 4개",
+    "⑤ 5개"
+   ],
+   "kind": "choice",
+   "answer": "① 1개",
+   "explanation": "• She is the writer [[loved]] by all Koreans.\n• Look at this picture which [[was taken]] by my brother.\n• He was holding a container which [[was filled]] with hot water.\n• An actor [[(who[that] is) named]] Minho appeared in the movie.\n• There were a lot of people who [[were]] waiting in line."
+  },
+  {
+   "id": "094",
+   "label": "Pattern 1 · 94번",
+   "topic": "현재분사",
+   "passage": "ⓐ The barking dog is mine.\nⓑ Do you know the man stood in line?\nⓒ I think bungee jumping was a terrified experience.\nⓓ We brought all tools requiring to fix the bike.\nⓔ She saw a wounded soldier laying on the grass.\nⓕ Do you know the boy sit next to Cathy?\nⓖ She is looking at a girl drinking some juice.",
+   "prompt": "다음 중 어법상 옳은 문장의 총 개수는?",
+   "choices": [
+    "① 1개",
+    "② 2개",
+    "③ 3개",
+    "④ 4개",
+    "⑤ 5개"
+   ],
+   "kind": "choice",
+   "answer": "② 2개",
+   "explanation": "ⓑ stood → standing\nⓒ terrified → terrifying\nⓓ requiring → required\nⓔ laying → lying\nⓕ sit → sitting"
+  },
+  {
+   "id": "095",
+   "label": "Pattern 1 · 95번",
+   "topic": "현재분사",
+   "passage": "• Look at the birds singing in the trees.\n• There's no one lived in the old house.\n• Look at the mountain covering with snow.\n• The man stood over there is my uncle.\n• The police found the money steal in the robbery.\n• There was a fancy car parked outside the house.\n• Look at the student satisfied with the exam result.\n• The road connecting two towns were blocked by a large truck.",
+   "prompt": "다음 중 어법상 올바른 문장의 개수는?",
+   "choices": [
+    "① 2개",
+    "② 3개",
+    "③ 4개",
+    "④ 5개",
+    "⑤ 6개"
+   ],
+   "kind": "choice",
+   "answer": "② 3개",
+   "explanation": "(차례대로) lived → living / covering →covered / stood → standing / steal → stolen / were → was"
+  },
+  {
+   "id": "096",
+   "label": "Pattern 1 · 96번",
+   "topic": "현재분사",
+   "passage": "ⓐ These are skates made by his grandfather.\nⓑ This is the picture painting by a famous artist.\nⓒ The boy cried in the room is my brother.\nⓓ Look at the picture of a man played soccer.\nⓔ They swept the leaves fallen on the ground.\nⓕ She is a famous singer naming Sarah.\nⓖ We sent people cards printing with our pictures.\nⓗ I went to the French restaurant locates on 5th street.\nⓘ Have you ever seen a mouse making for left-handed people?\nⓙ I want to recommend The Old Man and the Sea written by Ernest Hemingway.",
+   "prompt": "다음 중 어법상 옳은 문장의 총 개수는?",
+   "choices": [
+    "① 2개",
+    "② 3개",
+    "③ 4개",
+    "④ 5개",
+    "⑤ 6개"
+   ],
+   "kind": "choice",
+   "answer": "② 3개",
+   "explanation": "ⓑ painting → painted\nⓒ cried → crying\nⓓ played → playing\nⓕ naming → named\nⓖ printing → printed\nⓗ locates → located\nⓘ making → made"
+  },
+  {
+   "id": "097",
+   "label": "Pattern 1 · 97번",
+   "topic": "현재분사",
+   "passage": "ⓐ The car breaking in the accident was mine.\nⓑ The portrait hanged on the wall was painted in the 1960s.\nⓒ There are some sculptures carving by Donatello.\nⓓ Did you see the town destroying by bombing?\nⓔ Who is the boy making a speech in front of others?\nⓕ She looked at a leaf painting on the wall.\nⓖ This is a film produced in Japan.\nⓗ The fence painted in white is very pretty.\nⓘ Those expressions are only used in speaking English.\nⓙ Do you know the woman waving her hand at you?\nⓚ Cool the burn with running water for 10~15 minutes.",
+   "prompt": "다음 중 어법상 옳은 문장끼리 바르게 짝지어진 것은?",
+   "choices": [
+    "① ⓔ, ⓖ, ⓗ, ⓙ, ⓚ",
+    "② ⓐ, ⓒ, ⓓ, ⓔ, ⓙ",
+    "③ ⓕ, ⓖ, ⓗ, ⓘ, ⓙ",
+    "④ ⓔ, ⓖ, ⓗ, ⓘ, ⓚ",
+    "⑤ ⓑ, ⓔ, ⓖ, ⓗ, ⓙ"
+   ],
+   "kind": "choice",
+   "answer": "① ⓔ, ⓖ, ⓗ, ⓙ, ⓚ",
+   "explanation": "ⓐ breaking → broken\nⓑ hanged → hanging\nⓒ carving → carved\nⓓ destroying → destroyed\nⓕ painting → painted\nⓘ speaking → spoken"
+  },
+  {
+   "id": "098",
+   "label": "Pattern 2 · 01번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": "My brother is _______ tall _______ my father.",
+   "prompt": "다음 빈칸에 공통으로 들어갈 말로 알맞은 것은?",
+   "choices": [
+    "① so",
+    "② as",
+    "③ too",
+    "④ to",
+    "⑤ much"
+   ],
+   "kind": "choice",
+   "answer": "② as",
+   "explanation": "as+형용사/부사+as는 ‘~만큼 ...한’이라는 뜻으로 형용사, 부사의 원급을 이용하여 동등한 두 대상을 비교하는 동등 비교이다."
+  },
+  {
+   "id": "099",
+   "label": "Pattern 2 · 02번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": "He eats as _________ as an elephant.",
+   "prompt": "다음 빈칸에 들어갈 말로 알맞은 것은?",
+   "choices": [
+    "① more",
+    "② much",
+    "③ most",
+    "④ short",
+    "⑤ high"
+   ],
+   "kind": "choice",
+   "answer": "② much",
+   "explanation": "코끼리만큼 많이 먹는다고 해야 자연스러우므로 much가 들어가야 하며, as ~ as 사이에는 원급을 쓴다."
+  },
+  {
+   "id": "100",
+   "label": "Pattern 2 · 03번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": "Maria는 Jamie만큼 많은 책을 가지고 있다.",
+   "prompt": "다음 우리말을 영어로 바르게 옮긴 것은?",
+   "choices": [
+    "① Maria has as many books Jamie.",
+    "② Maria has as many books as Jamie.",
+    "③ Maria has many as books as Jamie.",
+    "④ Maria has as many as books Jamie.",
+    "⑤ Maria has many books as Jamie."
+   ],
+   "kind": "choice",
+   "answer": "② Maria has as many books as Jamie.",
+   "explanation": "as+형용사/부사+as는 ‘~만큼 ...한’이라는 뜻으로 형용사, 부사의 원급을 이용하여 동등한 두 대상을 비교하는 동등 비교이다."
+  },
+  {
+   "id": "101",
+   "label": "Pattern 2 · 04번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": "• He is as (A)_________ as his brother.\n• Emma runs as (B)_________ as Jenny.\n• This pizza is as (C)_________ as that one.\n",
+   "prompt": "다음 빈칸 (A)~(C)에 들어갈 말이 바르게 짝지어진 것은?",
+   "choices": [
+    "①  (A) fast   (B) big   (C) strong",
+    "②  (A) strong   (B) fast   (C) big",
+    "③  (A) stronger   (B) faster   (C) bigger",
+    "④  (A) most strong   (B) most fast   (C) big",
+    "⑤  (A) more fast   (B) more big   (C) strong"
+   ],
+   "kind": "choice",
+   "answer": "②  (A) strong   (B) fast   (C) big",
+   "explanation": "as와 as사이에는 형용사, 부사의 원급이 온다. ①번의 경우, (B)에 올 말로 big은 run과 의미상 어울리지 않는다."
+  },
+  {
+   "id": "102",
+   "label": "Pattern 2 · 05번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": "Koalas are cuter than polar bears.",
+   "prompt": "다음 문장과 의미가 같은 것을 모두 고르면?",
+   "choices": [
+    "① Polar bears are not as cute as koalas.",
+    "② Polar bears are cuter than koalas.",
+    "③ Polar bears are less cute than koalas.",
+    "④ Koalas are as cute as polar bears.",
+    "⑤ Koalas are not as cute as polar bears."
+   ],
+   "kind": "choice",
+   "answer": "①, ③   (① Polar bears are not as cute as koalas.  /  ③ Polar bears are less cute than koalas.)",
+   "explanation": "비교급+than ‘~보다 ...한’\n동등 비교의 부정은 not as+형용사/부사+as로 ‘~만큼 ...하지 않은’의 의미이다.\n열등비교는 less+형용사원급+than"
+  },
+  {
+   "id": "103",
+   "label": "Pattern 2 · 06번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": "• They are as (slow / slowly) as a snail.\n• Steve eats as (quick / quickly) as she does.\n• He runs as (fast / fastly) as I do.",
+   "prompt": "다음 빈칸에 들어갈 알맞은 단어로 바르게 짝지어진 것은?",
+   "choices": [
+    "① slow - quickly - fast",
+    "② slow - quickly - fastly",
+    "③ slow - quick - fast",
+    "④ slowly - quick - fastly",
+    "⑤ slowly - quick  - fast"
+   ],
+   "kind": "choice",
+   "answer": "① slow - quickly - fast",
+   "explanation": "ⓐ be동사의 보어로 형용사가 적절하다.\nⓑ 동사를 꾸며주는 부사가 적절하다.\nⓒ 동사를 꾸며주는 부사가 적절하고, fast는 부사와 형용사 형태가 같다."
+  },
+  {
+   "id": "104",
+   "label": "Pattern 2 · 07번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": "키위는 바나나만큼 인기 있지는 않다.",
+   "prompt": "다음 우리말을 바르게 영작한 것은?",
+   "choices": [
+    "① A kiwi is as not popular as a banana.",
+    "② A kiwi is not as popular as a banana.",
+    "③ A kiwi is not also popular as a banana.",
+    "④ A kiwi is not very popular as a banana.",
+    "⑤ A kiwi is very not popular as a banana."
+   ],
+   "kind": "choice",
+   "answer": "② A kiwi is not as popular as a banana.",
+   "explanation": "동등 비교의 부정은 not as+형용사/부사+as로 ‘~만큼 ~하지 않은’의 의미이다."
+  },
+  {
+   "id": "105",
+   "label": "Pattern 2 · 08번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": "그는 그 여자만큼 빠르게 달릴 수 없다.",
+   "prompt": "다음 문장을 영어로 바르게 잘 옮긴 것은?",
+   "choices": [
+    "① He can never run as fast than she can.",
+    "② She can never run as fast so he can.",
+    "③ He cannot run as faster than she can.",
+    "④ She cannot run as faster as he can.",
+    "⑤ He can never run as fast as she can."
+   ],
+   "kind": "choice",
+   "answer": "⑤ He can never run as fast as she can.",
+   "explanation": "[not/never+as+형용사/부사의 원급+as] ’~만큼 ...하지 않은‘"
+  },
+  {
+   "id": "106",
+   "label": "Pattern 2 · 09번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": "흰긴수염고래의 혀는 코끼리 한 마리만큼 무겁다.\n*blue whale 흰긴수염고래",
+   "prompt": "다음 우리말을 영어로 바르게 옮긴 것은?",
+   "choices": [
+    "① The blue whale's tongue is as heavy as an elephant.",
+    "② An elephant is not as heavy as the blue whale's tongue.",
+    "③ The blue whale's tongue is very heavy an elephant.",
+    "④ An elephant is as heaviest as the blue whale's tongue.",
+    "⑤ The blue whale's tongue is as an elephant as heavy."
+   ],
+   "kind": "choice",
+   "answer": "① The blue whale's tongue is as heavy as an elephant.",
+   "explanation": "as 원급 as ~만큼 ...한"
+  },
+  {
+   "id": "107",
+   "label": "Pattern 2 · 10번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": "My ruler is 30 centimeters long.\nYour ruler is 30 centimeters long, too.",
+   "prompt": "다음 두 문장과 같은 의미를 가진 것은?",
+   "choices": [
+    "① My ruler is as long as yours.",
+    "② My ruler is longer than yours.",
+    "③ Your ruler is longer than mine.",
+    "④ Your ruler is not so long as mine.",
+    "⑤ Your ruler is very long."
+   ],
+   "kind": "choice",
+   "answer": "① My ruler is as long as yours.",
+   "explanation": "as+형용사/부사+as는 ‘~만큼 ...한’이라는 뜻으로 형용사, 부사의 원급을 이용하여 동등한 두 대상을 비교하는 동등 비교이다."
+  },
+  {
+   "id": "108",
+   "label": "Pattern 2 · 11번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음 중 밑줄 친 부분이 어법상 어색한 것은?",
+   "choices": [
+    "① My brother is [[as busy as]] a bee.",
+    "② The dress looks [[as love as]] mine.",
+    "③ Sally speaks [[as slowly as]] she does.",
+    "④ Tom dances [[as nicely as]] the girl.",
+    "⑤ I can speak Spanish [[as fluently as]] him."
+   ],
+   "kind": "choice",
+   "answer": "② The dress looks [[as love as]] mine.",
+   "explanation": "as love as → as lovely as\nas+형용사/부사+as는 ‘~만큼 ...한’이라는 뜻으로 형용사, 부사의 원급을 이용하여 동등한 두 대상을 비교하는 동등 비교이다."
+  },
+  {
+   "id": "109",
+   "label": "Pattern 2 · 12번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 것은?",
+   "choices": [
+    "① Mike is as tallest as his father.",
+    "② This car is as faster as that car.",
+    "③ The pen is as long as that pencil.",
+    "④ This candy is as harder as a rock.",
+    "⑤ This dog is as heavier as that cat."
+   ],
+   "kind": "choice",
+   "answer": "③ The pen is as long as that pencil.",
+   "explanation": "① tallest → tall\n② faster → fast\n④ harder → hard\n⑤ heavier → heavy"
+  },
+  {
+   "id": "110",
+   "label": "Pattern 2 · 13번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 것은?",
+   "choices": [
+    "① Duri's eyes are as big as Seri's.",
+    "② My brother is as taller as my father.",
+    "③ She isn’t so polite as you.",
+    "④ He is much heavier than my brother.",
+    "⑤ Mina gets up as early as her sister."
+   ],
+   "kind": "choice",
+   "answer": "② My brother is as taller as my father.",
+   "explanation": "as taller as → as tall as\nas+형용사/부사+as는 ‘~만큼 ...한’이라는 뜻으로 형용사, 부사의 원급을 이용하여 동등한 두 대상을 비교하는 동등 비교이다."
+  },
+  {
+   "id": "111",
+   "label": "Pattern 2 · 14번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 것을 모두 고르면?(2개)",
+   "choices": [
+    "① Seungho runs as fast as Yongjun.",
+    "② Goeun studies as hard as Sujeong.",
+    "③ Minsu speaks Chinese as good as I do.",
+    "④ She is as pretty as an actress.",
+    "⑤ You know about history as many as she does."
+   ],
+   "kind": "choice",
+   "answer": "③, ⑤   (③ Minsu speaks Chinese as good as I do.  /  ⑤ You know about history as many as she does.)",
+   "explanation": "③ as good as → as well as\n⑤ as many as → as much as"
+  },
+  {
+   "id": "112",
+   "label": "Pattern 2 · 15번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음 동등비교 표현이 어색한 것은?",
+   "choices": [
+    "① I am as happy as a lark.",
+    "② He is as tall as a snake.",
+    "③ She is as lovely as a puppy.",
+    "④ Jane is as small as a rabbit.",
+    "⑤ Sam is as heavy as an elephant."
+   ],
+   "kind": "choice",
+   "answer": "② He is as tall as a snake.",
+   "explanation": "‘그는 뱀만큼 크다’라는 표현은 어색하다."
+  },
+  {
+   "id": "113",
+   "label": "Pattern 2 · 16번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 것은?",
+   "choices": [
+    "① I have studied as hard as you.",
+    "② Writing is not as easy as reading.",
+    "③ Their house is twice as large as my house.",
+    "④ Reading a book is as fun as playing soccer.",
+    "⑤ The new table is as twice expensive as the old one."
+   ],
+   "kind": "choice",
+   "answer": "⑤ The new table is as twice expensive as the old one.",
+   "explanation": "The new table is twice as expensive as the old one."
+  },
+  {
+   "id": "114",
+   "label": "Pattern 2 · 17번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음 문장의 밑줄 친 부분이 어색한 것은?",
+   "choices": [
+    "① I will help my mom [[as often as possible]].",
+    "② I will get up in the morning [[as early as possible]].",
+    "③ I will finish homework [[as quickly as possible]].",
+    "④ Call me [[as soon as possible]].",
+    "⑤ Drink water [[as many as possible]]."
+   ],
+   "kind": "choice",
+   "answer": "⑤ Drink water [[as many as possible]].",
+   "explanation": "as many as possible → as much as possible"
+  },
+  {
+   "id": "115",
+   "label": "Pattern 2 · 18번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음 중 짝지어진 두 문장의 의미가 다른 것은?",
+   "choices": [
+    "① You ate more apples than me.\n= I ate as many apples as you.",
+    "② We played better than them.\n= They didn't play as well as us.",
+    "③ You got up earlier than me.\n= I didn't get up as early as you.",
+    "④ My house is smaller than yours.\n= Your house isn't as small as mine.",
+    "⑤ I've been here longer than you.\n= You haven't been here as long as me."
+   ],
+   "kind": "choice",
+   "answer": "① You ate more apples than me.  = I ate as many apples as you.",
+   "explanation": "→ I didn’t eat as many apples as you."
+  },
+  {
+   "id": "116",
+   "label": "Pattern 2 · 19번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": " ⓐ[[Does you know]] this bird? It is about 150 cm tall. It is ⓑ[[as tallest as a boy]]. It has ⓒ[[the biggest head in the bird family]]. ⓓ[[Its mouth look like]] a big shoe. ⓔ[[It's leg are very long]]. It eats fish.",
+   "prompt": "다음 글의 밑줄 친 ⓐ~ⓔ를 바르게 고친 것이 어색한 것은?",
+   "choices": [
+    "① ⓐ Does you know → Do you know",
+    "② ⓑ as tallest as a boy → as tall as a boy",
+    "③ ⓒ the biggest head in the bird family\n→ as biggest head in the bird family",
+    "④ ⓓ Its mouth look like → Its mouth looks like",
+    "⑤ ⓔ It's leg are very long → Its legs are very long"
+   ],
+   "kind": "choice",
+   "answer": "③ ⓒ the biggest head in the bird family  → as biggest head in the bird family",
+   "explanation": "고치지 않는다."
+  },
+  {
+   "id": "117",
+   "label": "Pattern 2 · 20번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음 중 두 문장의 의미가 같지 않은 것은?",
+   "choices": [
+    "① Tom is as smart as his sister.\n= Tom and his sister have the same intelligence.",
+    "② Bill can run as fast as a car.\n= Bill runs very fast like a car.",
+    "③ Hana eats as much as an elephant.\n= Hana eats a large amount of food as an elephant does.",
+    "④ Seungmin is as tall as the tree in the yard.\n= Seungmin and the tree are the same in height.",
+    "⑤ Sumin's homework is not as much as Yumin's.\n= Sumin has more homework than Yumin has."
+   ],
+   "kind": "choice",
+   "answer": "⑤ Sumin's homework is not as much as Yumin's.  = Sumin has more homework than Yumin has.",
+   "explanation": "→ Yumin has more homework than Sumin has."
+  },
+  {
+   "id": "118",
+   "label": "Pattern 2 · 21번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": "Sally is not shorter than Eric.\nJames is shorter than Mark.\nEric is as tall as James.\nMark is taller than Sally.\nSally is as tall as Brad.",
+   "prompt": "Who is the tallest person?",
+   "choices": [
+    "① Sally",
+    "② Eric",
+    "③ James",
+    "④ Mark",
+    "⑤ Brad"
+   ],
+   "kind": "choice",
+   "answer": "④ Mark",
+   "explanation": "키가 큰 순서대로 Mark-Brad/Sally-Eric/James"
+  },
+  {
+   "id": "119",
+   "label": "Pattern 2 · 22번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음 표의 내용과 일치하는 것은?",
+   "choices": [
+    "① Tom is as fat as Paul.",
+    "② Paul is as tall as Jerry.",
+    "③ Tom is as tall as Paul.",
+    "④ Jerry is taller than Tom.",
+    "⑤ Jerry is not as fat as Paul."
+   ],
+   "kind": "choice",
+   "answer": "③ Tom is as tall as Paul.",
+   "explanation": "① → Tom is not as fat as Paul.\n② → Paul is taller than Jerry.\n④ → Jerry is not taller than Tom.\n⑤ → Jerry is as fat as Paul.",
+   "table": [
+    [
+     "",
+     "Tom",
+     "Jerry",
+     "Paul"
+    ],
+    [
+     "Weight",
+     "55kg",
+     "57kg",
+     "57kg"
+    ],
+    [
+     "Height",
+     "160cm",
+     "158cm",
+     "160cm"
+    ]
+   ]
+  },
+  {
+   "id": "120",
+   "label": "Pattern 2 · 23번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음 표를 바르게 해석한 것은?",
+   "choices": [
+    "① Yujin is as tall as Subin.",
+    "② Sehwa is as tall as Yujin.",
+    "③ Subin is not as old as Yujin.",
+    "④ Sehwa is older than Yujin.",
+    "⑤ Subin is smaller than Sehwa."
+   ],
+   "kind": "choice",
+   "answer": "③ Subin is not as old as Yujin.",
+   "explanation": "① → Yujin is not as tall as Subin.\n② → Sehwa is taller than Yujin.\n④ → Sehwa is as old as Yujin.\n⑤ → Subin is taller than Sehwa.",
+   "table": [
+    [
+     "",
+     "Sehwa",
+     "Yujin",
+     "Subin"
+    ],
+    [
+     "height(cm)",
+     "155",
+     "150",
+     "165"
+    ],
+    [
+     "age",
+     "15",
+     "15",
+     "14"
+    ]
+   ]
+  },
+  {
+   "id": "121",
+   "label": "Pattern 2 · 24번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음 표에 대한 설명 중 잘못된 것은?",
+   "choices": [
+    "① Mike is as old as Ted.",
+    "② Mike is older than John.",
+    "③ John isn't as old as Ted.",
+    "④ David is not older than Mike.",
+    "⑤ David is the oldest of the four."
+   ],
+   "kind": "choice",
+   "answer": "④ David is not older than Mike.",
+   "explanation": "→ David is older than Mike.",
+   "table": [
+    [
+     "",
+     "Mike",
+     "John",
+     "Ted",
+     "David"
+    ],
+    [
+     "Age",
+     "15",
+     "14",
+     "15",
+     "16"
+    ]
+   ]
+  },
+  {
+   "id": "122",
+   "label": "Pattern 2 · 25번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음 표의 내용과 일치하지 않는 것은?",
+   "choices": [
+    "① Jake is taller than Ron.",
+    "② Jake is as tall as Joan.",
+    "③ Ron is taller than Joan.",
+    "④ Jake is heavier than Ron.",
+    "⑤ Ron is not as heavy as Joan."
+   ],
+   "kind": "choice",
+   "answer": "③ Ron is taller than Joan.",
+   "explanation": "→ Ron is smaller than Joan.",
+   "table": [
+    [
+     "",
+     "Jake",
+     "Ron",
+     "Joan"
+    ],
+    [
+     "height",
+     "163cm",
+     "152cm",
+     "163cm"
+    ],
+    [
+     "weight",
+     "50kg",
+     "45kg",
+     "58kg"
+    ]
+   ]
+  },
+  {
+   "id": "123",
+   "label": "Pattern 2 · 26번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음은 1학년 3반 100m 달리기 기록이다. 아래 표에 대한 설명이 옳지 않은 것은?",
+   "choices": [
+    "① Taewon can run as fast as Sangyun.",
+    "② Sumin can run as fast as Jina.",
+    "③ Sangyun is not as fast as Jina.",
+    "④ Sumin can't run as fast as Taewon.",
+    "⑤ Taewon is not so fast as Sumin."
+   ],
+   "kind": "choice",
+   "answer": "④ Sumin can't run as fast as Taewon.",
+   "explanation": "→ Taewon can’t run as fast as Sumin.",
+   "table": [
+    [
+     "",
+     "태원",
+     "상윤",
+     "지나",
+     "수민"
+    ],
+    [
+     "기록",
+     "15.5초",
+     "15.5초",
+     "13.2초",
+     "13.2초"
+    ]
+   ]
+  },
+  {
+   "id": "124",
+   "label": "Pattern 2 · 27번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음 표의 내용에 맞는 문장을 고르면?",
+   "choices": [
+    "① Mina is taller than Anne.",
+    "② Anne is not as old as Mina.",
+    "③ Jinho is heavier than Anne.",
+    "④ Mina is as tall as Jinho.",
+    "⑤ Anne is younger than Mina."
+   ],
+   "kind": "choice",
+   "answer": "④ Mina is as tall as Jinho.",
+   "explanation": "① → Mina is smaller than Anne.\n② → Anne is as old as Mina.\n③ → Jinho is as heavy as Anne.\n⑤ → Anne is as young as Mina.",
+   "table": [
+    [
+     "Name",
+     "Mina",
+     "Jinho",
+     "Anne"
+    ],
+    [
+     "Height",
+     "158",
+     "158",
+     "160"
+    ],
+    [
+     "Age",
+     "14",
+     "13",
+     "14"
+    ],
+    [
+     "Weight",
+     "46",
+     "45",
+     "45"
+    ]
+   ]
+  },
+  {
+   "id": "125",
+   "label": "Pattern 2 · 28번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "Which is correct?",
+   "choices": [
+    "① Karl is as old as Bolt.",
+    "② Karl is twice as old as Bolt.",
+    "③ Karl is not as tall as Bolt.",
+    "④ Karl is not as heavy as Bolt.",
+    "⑤ Karl is not as fast as Bolt."
+   ],
+   "kind": "choice",
+   "answer": "⑤ Karl is not as fast as Bolt.",
+   "explanation": "Karl은 Bolt만큼 빠르지 않다.\n① as old as → not as old as\n② twice as old as →two years younger than\n③ not as tall as → taller than\n④ not as heavy as → as heavy as",
+   "table": [
+    [
+     "Name",
+     "Karl",
+     "Bolt"
+    ],
+    [
+     "Age",
+     "20",
+     "22"
+    ],
+    [
+     "Height",
+     "180cm",
+     "177cm"
+    ],
+    [
+     "Weight",
+     "80kg",
+     "80kg"
+    ],
+    [
+     "100m record",
+     "11seconds",
+     "10seconds"
+    ]
+   ]
+  },
+  {
+   "id": "126",
+   "label": "Pattern 2 · 29번",
+   "topic": "as + 형용사/부사의 원급 + as",
+   "passage": null,
+   "prompt": "다음 그림에 맞게 설명한 문장을 모두 고르면? (3개)",
+   "choices": [
+    "① Ted is as tall as Justin.",
+    "② Justin is taller than Ted.",
+    "③ Junho is as tall as Justin.",
+    "④ Junho is taller than Justin.",
+    "⑤ Ted is not as tall as Junho and Justin."
+   ],
+   "kind": "choice",
+   "answer": "②, ③, ⑤   (② Justin is taller than Ted.  /  ③ Junho is as tall as Justin.  /  ⑤ Ted is not as tall as Junho and Justin.)",
+   "explanation": "[as+형용사/부사의 원급+as] ‘~만큼 ~한/하게’라는 의미로 둘을 비교하여 두 대상의 정도가 같음을 비교한다.\n[형용사/부사의 비교급+than] ‘~만큼 ~한’\n[not as+형용사/부사의 원급+as] ’~만큼 ~하지 않은‘",
+   "image": "BIN0004_v.jpg"
+  }
+ ],
+ "sections": [
+  {
+   "before": "001",
+   "title": "Pattern 1.  현재분사",
+   "lines": [
+    [
+     "t",
+     "분사는 동사의 형태를 바꾸어 형용사처럼 사용할 수 있으며, 현재분사와 과거분사 두 가지가 있다."
+    ],
+    [
+     "h",
+     "현재분사: 동사원형 + -ing  → 능동·진행     |     과거분사: 동사원형 + -ed  → 수동·완료"
+    ],
+    [
+     "t",
+     "분사가 단독으로 명사를 꾸미면 명사 앞, 목적어·부사(구) 등과 함께 쓰이면 명사 뒤에 온다."
+    ],
+    [
+     "ex",
+     "Pacers usually have flags or balloons [[showing]] their finish time."
+    ],
+    [
+     "kr",
+     "페이서들은 보통 자신들의 완주 시간을 나타내는 깃발이나 풍선들을 가지고 있다."
+    ],
+    [
+     "ex",
+     "The girl [[waiting]] at the bus stop is my sister."
+    ],
+    [
+     "kr",
+     "버스 정류장에서 기다리고 있는 소녀는 내 여동생이다.  (who[that] is 생략으로 볼 수 있음)"
+    ],
+    [
+     "ex",
+     "The bird [[singing]] in the tree is very big."
+    ],
+    [
+     "kr",
+     "나무에서 노래하고 있는 새는 매우 크다."
+    ],
+    [
+     "ex",
+     "There are many students [[studying]] in the library."
+    ],
+    [
+     "kr",
+     "도서관에는 공부하고 있는 학생들이 많다."
+    ],
+    [
+     "ex",
+     "The woman [[wearing]] glasses is my teacher."
+    ],
+    [
+     "kr",
+     "안경을 쓰고 있는 여자는 우리 선생님이다."
+    ]
+   ],
+   "pt": 18
+  },
+  {
+   "before": "098",
+   "title": "Pattern 2.  as + 형용사/부사의 원급 + as",
+   "lines": [
+    [
+     "t",
+     "‘as ~ as …’는 ‘…만큼 ~한/하게’라는 뜻의 원급 비교 표현으로, 두 비교 대상이 동등함을 나타낸다."
+    ],
+    [
+     "h",
+     "as와 as 사이에는 반드시 형용사·부사의 원급(원래 형태)을 쓴다.   부정: not as[so] ~ as …  (…만큼 ~하지 않은)"
+    ],
+    [
+     "ex",
+     "They are [[as]] important [[as]] the players."
+    ],
+    [
+     "kr",
+     "그들은 선수들만큼 중요하다."
+    ],
+    [
+     "ex",
+     "Jason can run [[as]] fast [[as]] Mike."
+    ],
+    [
+     "kr",
+     "Jason은 Mike만큼 빠르게 달릴 수 있다."
+    ],
+    [
+     "ex",
+     "I am [[as]] hungry [[as]] you."
+    ],
+    [
+     "kr",
+     "나는 너만큼 배고프다."
+    ],
+    [
+     "ex",
+     "Canada is [[as]] large [[as]] the USA."
+    ],
+    [
+     "kr",
+     "캐나다는 미국만큼 크다."
+    ],
+    [
+     "ex",
+     "Today is [[as]] windy [[as]] yesterday."
+    ],
+    [
+     "kr",
+     "오늘은 어제만큼 바람이 분다."
+    ]
+   ],
+   "pt": 18
+  }
+ ]
+}

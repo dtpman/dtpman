@@ -1,0 +1,3 @@
+pipiti/render/
+*.unpacked/
+__pycache__/
