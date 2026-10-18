@@ -1,0 +1,2198 @@
+{
+ "book": "7 개정 중3 NE능률(김성곤)",
+ "deck_title": "Lesson 7 Grammar Build Up 객관식",
+ "items": [
+  {
+   "id": "P1-01",
+   "label": "1-01",
+   "passage": "If I ________ some money, I would lend it to you.",
+   "prompt": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① am",
+    "② was",
+    "③ were",
+    "④ have",
+    "⑤ had"
+   ],
+   "kind": "choice",
+   "answer": "⑤ had",
+   "explanation": "현재 사실과 반대되는 것을 가정할 때 [If+주어 +동사의 과거형, 주어+조동사의 과거형+동사 원형]의 형태인 가정법 과거를 사용한다."
+  },
+  {
+   "id": "P1-02",
+   "label": "1-02",
+   "passage": "If I were you, I ________ tell her the truth.",
+   "prompt": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① will",
+    "② can",
+    "③ would",
+    "④ do",
+    "⑤ am"
+   ],
+   "kind": "choice",
+   "answer": "③ would",
+   "explanation": "가정법 과거 문장으로 빈칸에는 조동사의 과거형이 들어가야 한다."
+  },
+  {
+   "id": "P1-03",
+   "label": "1-03",
+   "passage": "If you (be) not sick, we could visit you.",
+   "prompt": "다음 괄호에 주어진 단어의 형태로 알맞은 것은?",
+   "choices": [
+    "① are",
+    "② were",
+    "③ been",
+    "④ being",
+    "⑤ have been"
+   ],
+   "kind": "choice",
+   "answer": "② were",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P1-04",
+   "label": "1-04",
+   "passage": "• If I ________ a bird, I would fly to you.\n• If we ________ rich, we would buy a car.",
+   "prompt": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① be",
+    "② are",
+    "③ was",
+    "④ were",
+    "⑤ had been"
+   ],
+   "kind": "choice",
+   "answer": "④ were",
+   "explanation": "모두 가정법 과거 문장으로 be동사의 과거형인 were가 올바르다."
+  },
+  {
+   "id": "P1-05",
+   "label": "1-05",
+   "passage": "If the weather _____________ better, I could have\ngone on a picnic.",
+   "prompt": "다음 빈칸에 들어갈 알맞은 것은?",
+   "choices": [
+    "① is",
+    "② was",
+    "③ were",
+    "④ has been",
+    "⑤ had been"
+   ],
+   "kind": "choice",
+   "answer": "⑤ had been",
+   "explanation": "'날씨가 더 좋았더라면, 나는 소풍을 갈 수 있었을 텐데.' 가정법 과거완료는 「If+주어+had p.p., 주어+조동사 과거형+have p.p」의 형태로 나타낸다. 주절에 ‘could have gone’이 온 것으로 보아 가정법 과거완료이므로 if절에는 과거완료 ‘had p.p.’가 와야 한다. ‘과거 사실에 대한 반대’를 나타내며, ‘만약 ~했더라면’이라고 해석한다."
+  },
+  {
+   "id": "P1-06",
+   "label": "1-06",
+   "passage": "As I didn't know your email address, I couldn't\nwrite to you.\n→ If I _________________ your email address, I could\nhave written to you.",
+   "prompt": "다음 두 문장의 의미가 같도록 빈칸에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① knew",
+    "② known",
+    "③ have known",
+    "④ had known",
+    "⑤ had not known"
+   ],
+   "kind": "choice",
+   "answer": "④ had known",
+   "explanation": "가정법 과거완료 시제로 빈칸에는 had p.p. 형 태가 들어가야 한다."
+  },
+  {
+   "id": "P1-07",
+   "label": "1-07",
+   "passage": "I have to go to class, so I can't go shopping with\nyou.\n→ If I _____________________ go to class, I could go\nshopping with you.",
+   "prompt": "다음 문장을 if로 시작하는 문장으로 다시 쓸 때, 빈 칸에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① don't have to",
+    "② had not to",
+    "③ had to",
+    "④ didn't have to",
+    "⑤ didn't had to"
+   ],
+   "kind": "choice",
+   "answer": "④ didn't have to",
+   "explanation": "현재 사실과 반대되는 것을 가정할 때 [If+주어+ 동사의 과거형, 주어+조동사의 과거형+동사원 형]의 형태인 가정법 과거를 사용한다."
+  },
+  {
+   "id": "P1-08",
+   "label": "1-08",
+   "passage": "I would go out for dinner _____________________, but\nit is raining outside.",
+   "prompt": "다음 빈칸에 들어갈 말로 알맞은 것은?",
+   "choices": [
+    "① if it rains",
+    "② if it won't rain",
+    "③ if it doesn't rain",
+    "④ if it isn't raining",
+    "⑤ if it were not raining"
+   ],
+   "kind": "choice",
+   "answer": "⑤ if it were not raining",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P1-09",
+   "label": "1-09",
+   "passage": "As I don't have a lot of money, I cannot buy a\nlarge house.\n= If I __________ a lot of money, I __________ a\nlarge house.",
+   "prompt": "다음 두 문장의 의미가 같도록 빈칸에 들어갈 말이 차례대로 짝지어진 것은?",
+   "choices": [
+    "① hadn't - could buy",
+    "② hadn't - couldn't buy",
+    "③ had - could buy",
+    "④ had - can buy",
+    "⑤ had - could have bought"
+   ],
+   "kind": "choice",
+   "answer": "③ had - could buy",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P1-10",
+   "label": "1-10",
+   "passage": "This book is not mine, so I can't lend it to you.\nIf the book (A)________ mine, I (B)________ it to you.\n(A) - (B) 순서",
+   "prompt": "다음 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① was - lend",
+    "② were - can lend",
+    "③ had - could lend",
+    "④ were - could lend",
+    "⑤ were - lent"
+   ],
+   "kind": "choice",
+   "answer": "④ were - could lend",
+   "explanation": "가정법 과거 문장으로 (A)에는 be동사의 과거형이, (B)에는 조동사의 과거형과 동사원형이 온다."
+  },
+  {
+   "id": "P1-11",
+   "label": "1-11",
+   "passage": "• If she ⓐ__________ more exercise, she would be\nin better health.\n• If he ⓑ__________ here right now, he would help\nus.\nⓐ - ⓑ 순서",
+   "prompt": "다음 빈칸 ⓐ, ⓑ에 들어갈 말이 차례대로 짝지어진 것은?",
+   "choices": [
+    "① were - did",
+    "② does - do",
+    "③ didn't - am",
+    "④ did - were",
+    "⑤ doesn't - were"
+   ],
+   "kind": "choice",
+   "answer": "④ did - were",
+   "explanation": "가정법 과거 「If+주어+동사의 과거형, 주어+ 조동사의 과거형+동사원형」 ※ if절의 be동사는 주어의 인칭과 관계없이 were를 쓴다."
+  },
+  {
+   "id": "P1-12",
+   "label": "1-12",
+   "passage": "• If she ⓐ__________ not tell a lie, we would like\nher.\n• If he ⓑ__________ not sick, he could go to\nschool.",
+   "prompt": "다음 빈칸 ⓐ, ⓑ에 들어갈 말이 차례대로 짝지어진 것은?",
+   "choices": [
+    "① does - is",
+    "② did - is",
+    "③ does - were",
+    "④ did - were",
+    "⑤ does - will be"
+   ],
+   "kind": "choice",
+   "answer": "④ did - were",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P1-13",
+   "label": "1-13",
+   "passage": "He was very late for school. He was afraid his\nteacher would punish him. He thought, \"If I\n(A)________ a bird, I (B)________ to school.\"\n(A) - (B) 순서",
+   "prompt": "다음 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① am - can fly",
+    "② was - can fly",
+    "③ were - flew",
+    "④ were - could flew",
+    "⑤ were - could fly"
+   ],
+   "kind": "choice",
+   "answer": "⑤ were - could fly",
+   "explanation": "가정법 과거 문장으로 (A)에는 be동사의 과거형 were가, (B)에는 조동사의 과거형과 동사원 형이 와야 한다."
+  },
+  {
+   "id": "P1-14",
+   "label": "1-14",
+   "passage": "If I had been there, I could have seen you.\n→ As I ⓐ___________ there, I ⓑ___________ you.",
+   "prompt": "다음 문장을 바꾸어 쓸 때, 빈칸 ⓐ, ⓑ에 들어갈 알맞은 말이 차례대로 짝지어진 것은?",
+   "choices": [
+    "① am - can see",
+    "② was - could see",
+    "③ wasn't - couldn't see",
+    "④ had been - could have seen",
+    "⑤ hadn't been - couldn't have seen"
+   ],
+   "kind": "choice",
+   "answer": "③ wasn't - couldn't see",
+   "explanation": "가정법 과거완료는 ‘과거 사실에 대한 반대’를 나타내므로 직설법으로 고치면 ‘과거 동사’를 - 21 쓴다."
+  },
+  {
+   "id": "P1-15",
+   "label": "1-15",
+   "passage": "A: Does Minsu work hard?\nB: No, but if he (A)________ hard, he (B)________ well\nin school.\n(A) - (B) 순서",
+   "prompt": "다음 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① works - would do",
+    "② works - wouldn't do",
+    "③ worked - will do",
+    "④ worked - would do",
+    "⑤ worked - wouldn't do"
+   ],
+   "kind": "choice",
+   "answer": "④ worked - would do",
+   "explanation": "가정법 과거로 if절의 동사에는 과거형이, 주 절의 동사 자리에는 '조동사의 과거형+동사원 형' 형태가 들어가야 한다."
+  },
+  {
+   "id": "P1-16",
+   "label": "1-16",
+   "passage": "• If she (A)________ enough money, she would buy\nthe coat.\n• If I (B)________ you, I would accept the offer.\n(A) - (B) 순서",
+   "prompt": "다음 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① had - did",
+    "② has - do",
+    "③ didn't have - am",
+    "④ had - were",
+    "⑤ doesn't have - were"
+   ],
+   "kind": "choice",
+   "answer": "④ had - were",
+   "explanation": "현재 사실과 반대되는 것을 가정할 때 [If+주 어+동사의 과거형, 주어+조동사의 과거형+동 사원형]의 형태인 가정법 과거를 사용한다. if절의 be동사는 주어의 인칭, 수에 관계없이 were를 쓴다."
+  },
+  {
+   "id": "P1-17",
+   "label": "1-17",
+   "passage": "• If he (A)________ your situation, he could help\nyou.\n• If I (B)________ have any friends, I would be\nlonely.\n(A) - (B) 순서",
+   "prompt": "다음 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① know - didn't",
+    "② knows - didn't",
+    "③ knows - don't",
+    "④ knew - don't",
+    "⑤ knew - didn't"
+   ],
+   "kind": "choice",
+   "answer": "⑤ knew - didn't",
+   "explanation": "현재 사실과 반대되는 것을 가정할 때 [If+주 어+동사의 과거형, 주어+조동사의 과거형+동 사원형]의 형태인 가정법 과거를 사용한다."
+  },
+  {
+   "id": "P1-18",
+   "label": "1-18",
+   "passage": "I can't buy a car because I don't have enough\nmoney.\n→ If I (A)________ enough money, I (B)________ a car.\n(A) - (B) 순서",
+   "prompt": "다음 두 문장의 의미가 같도록 빈칸 (A), (B)에 들 어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① had - bought",
+    "② had - could buy",
+    "③ have - buy",
+    "④ have - could buy",
+    "⑤ could have - bought"
+   ],
+   "kind": "choice",
+   "answer": "② had - could buy",
+   "explanation": "가정법 과거 문장으로 (A)에는 동사의 과거형이 들어가야 하고, (B)에는 조동사의 과거형과 동사원형이 들어가야 한다."
+  },
+  {
+   "id": "P1-19",
+   "label": "1-19",
+   "passage": "A: How was the party?\nB: Wonderful. If you ⓐ______________ with us, you\nⓑ______________ a good time.\nⓐ - ⓑ 순서",
+   "prompt": "다음 대화의 빈칸 ⓐ, ⓑ에 들어갈 알맞은 말이 차례대로 짝지어진 것은?",
+   "choices": [
+    "① come - would have",
+    "② came - would have had",
+    "③ had come - would have",
+    "④ would come - would have",
+    "⑤ had come - would have had"
+   ],
+   "kind": "choice",
+   "answer": "⑤ had come - would have had",
+   "explanation": "대화의 흐름상 과거의 사실에 반대되는 가정을 나타내고 있다. 따라서 문장의 시제는 가정법 과거완료로, 주절에는 ‘조동사의 과거형 +have p.p.’가 와야 한다."
+  },
+  {
+   "id": "P1-20",
+   "label": "1-20",
+   "passage": "• If I have proper tools, I ⓐ_________ your bike.\n• If I had proper tools, I ⓑ_________ your bike.\nⓐ - ⓑ 순서",
+   "prompt": "Choose the pair that is appropriate for the blanks ⓐ and ⓑ.",
+   "choices": [
+    "① will fix - would be fixed",
+    "② would fix - fixed",
+    "③ will fix - fixed",
+    "④ will fix - would fix",
+    "⑤ would fix - would fix"
+   ],
+   "kind": "choice",
+   "answer": "④ will fix - would fix",
+   "explanation": "ⓐ는 조건문으로 현재나 미래에 대한 예상 가능한 사실을 표현할 때 사용된다. ⓑ는 가정법 과거로 현재 사실과 반대되는 상황을 가정할 때 사용된다. [If+주어+과거 동사, 주어+조동사 과거형+동 사원형]"
+  },
+  {
+   "id": "P1-21",
+   "label": "1-21",
+   "passage": "• If I ⓐ___________ any money, I would have lent\nyou some.\n• I ⓑ__________ very lonely if I didn't have a friend\nlike you.",
+   "prompt": "Which would best fit in the blanks ⓐ and ⓑ?",
+   "choices": [
+    "① had - would be",
+    "② had - would have been",
+    "③ had - will have been",
+    "④ had had - would be",
+    "⑤ had had - would have been"
+   ],
+   "kind": "choice",
+   "answer": "④ had had - would be",
+   "explanation": "ⓐ 주절에 ‘would have lent’가 왔으므로, 가정법 과거완료이다. 따라서 if절에는 과거완료 ‘had p.p.’ 형태인 had had가 알맞다. ⓑ ‘if’ 조건절의 시제가 과거이므로, ‘가정법 과거’이다. 그러므로 주절은 ‘과거 조동사+동 사원형(would be)’ 형태가 알맞다."
+  },
+  {
+   "id": "P1-22",
+   "label": "1-22",
+   "passage": "I don't know anything about cars. If the car broke\ndown, _____________________________.",
+   "prompt": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① I would fix it",
+    "② I would know what to do",
+    "③ I will not know what to do",
+    "④ I would not know what to do",
+    "⑤ I would know anything about cars"
+   ],
+   "kind": "choice",
+   "answer": "④ I would not know what to do",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P1-23",
+   "label": "1-23",
+   "passage": "• If I had enough money, (A)_______________________.\n• If I found someone's wallet, (B)___________________.\n• If I woke up early, (C)_____________________________.\n\n<보기>\na. I couldn't get better\nb. I would be very upset\nc. I'd take it to the police\nd. I wouldn't be late for school\ne. I could buy a new laptop computer\n(A) - (B) - (C) 순서",
+   "prompt": "다음 빈칸 (A), (B), (C)에 들어갈 말로 <보기>에서 바르게 짝지어진 것은?",
+   "choices": [
+    "① b - a - d",
+    "② b - c - a",
+    "③ b - e - c",
+    "④ e - b - d",
+    "⑤ e - c - d"
+   ],
+   "kind": "choice",
+   "answer": "⑤ e - c - d",
+   "explanation": "(A) 내가 돈이 충분히 있다면, 새 노트북을 살수 있을 텐데. (B) 내가 누군가의 지갑을 찾는다면, 경찰서에 가져다 줄 텐데. (C) 내가 일찍 일어난다면, 학교에 늦지 않을 텐데."
+  },
+  {
+   "id": "P1-24",
+   "label": "1-24",
+   "passage": "If I had a lot of money, I would buy a car.",
+   "prompt": "다음 주어진 문장에서 알 수 있는 것은?",
+   "choices": [
+    "① I have a car.",
+    "② I will buy a car.",
+    "③ I have a lot of money.",
+    "④ I don't have a lot of money.",
+    "⑤ I have enough money to buy a car."
+   ],
+   "kind": "choice",
+   "answer": "④ I don't have a lot of money.",
+   "explanation": "\"만약 내가 돈이 많다면, 나는 차를 살 텐데\" 라는 뜻으로, 내가 현재 돈이 많지 않음을 나타내고 있다."
+  },
+  {
+   "id": "P1-25",
+   "label": "1-25",
+   "passage": "Sora says, \"If I didn't have any friends, I would be\nlonely.\"",
+   "prompt": "다음 중 Sora가 한 말을 듣고 내린 결론으로 가장 적절한 것은?",
+   "choices": [
+    "① I am sorry that she doesn't have many friends.",
+    "② She is miserable to be with her friends.",
+    "③ She has many friends to help her.",
+    "④ She is not satisfied with her friends.",
+    "⑤ She has enough friends, so she's not lonely."
+   ],
+   "kind": "choice",
+   "answer": "⑤ She has enough friends, so she's not lonely.",
+   "explanation": "소라가 말한 것은 \"내가 어떤 친구도 없다면, 나는 외로울 텐데\"라는 뜻으로, 현재의 상황에 반대되는 것을 가정한 것이다. 즉, 현재 그 녀는 친구가 많고, 외롭지 않다는 것을 의미 한다."
+  },
+  {
+   "id": "P1-26",
+   "label": "1-26",
+   "passage": "Sue wants to phone Steven, but she can't because\nshe doesn't know his number. She says:\n________________________________________________________",
+   "prompt": "다음 상황에서 Sue가 할 수 있는 말로 가장 적절 한 것은?",
+   "choices": [
+    "① I'll call him if I will know his number.",
+    "② I would call him if I knew his number.",
+    "③ If I know his number, I could call him.",
+    "④ If I would know his number, I called him.",
+    "⑤ If I didn't know his number, I didn't call him."
+   ],
+   "kind": "choice",
+   "answer": "② I would call him if I knew his number.",
+   "explanation": "가정법 과거 [If+주어+동사의 과거형, 주어+조 1 - 동사의 과거형+동사원형]을 이용하여 영작한 문장이 정답이다."
+  },
+  {
+   "id": "P1-27",
+   "label": "1-27",
+   "passage": "If I were you, __________________________________.",
+   "prompt": "다음 빈칸에 들어갈 말로 알맞지 않은 것은?",
+   "choices": [
+    "① I might not do such a thing",
+    "② I'd put it in the living room",
+    "③ I would wait a little longer",
+    "④ I must start looking for it",
+    "⑤ I would not lend him any money"
+   ],
+   "kind": "choice",
+   "answer": "④ I must start looking for it",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P1-28",
+   "label": "1-28",
+   "passage": "A: I wish I could make friends with Tom.\nB: If I were you, I'd ________________________.",
+   "prompt": "다음 대화의 빈칸에 들어갈 말로 알맞은 것은?",
+   "choices": [
+    "① apologize to him",
+    "② join the dance club",
+    "③ practice every morning",
+    "④ start looking for another job",
+    "⑤ talk to him first"
+   ],
+   "kind": "choice",
+   "answer": "⑤ talk to him first",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P1-29",
+   "label": "1-29",
+   "passage": "Air pollution is getting worse. If there weren't so\nmuch traffic, ________________________________________.",
+   "prompt": "다음 빈칸에 들어갈 말로 가장 알맞은 것은?",
+   "choices": [
+    "① the air would be dirty",
+    "② air pollution would be worse",
+    "③ the air would be clean",
+    "④ the air would have been clean",
+    "⑤ air pollution would have been worse"
+   ],
+   "kind": "choice",
+   "answer": "③ the air would be clean",
+   "explanation": "현재 사실의 반대를 가정하고 있으므로 가정법 과거의 형태가 되어야 함"
+  },
+  {
+   "id": "P1-30",
+   "label": "1-30",
+   "passage": "만약 지금 그가 여기 있다면, 그가 나를 도와줄 텐데.",
+   "prompt": "다음 우리말을 바르게 영작한 것은?",
+   "choices": [
+    "① If he is here right now, he will help me.",
+    "② If he was here right now, he will help me.",
+    "③ If he were here right now, he would help me.",
+    "④ If he had been here right now, he would have helped me.",
+    "⑤ If he will be here right now, he will help me."
+   ],
+   "kind": "choice",
+   "answer": "③ If he were here right now, he would help me.",
+   "explanation": "현재 사실과 반대되는 것을 가정할 때 [If+주 어+동사의 과거형, 주어+조동사의 과거형+동 사원형]의 형태인 가정법 과거를 사용한다. if절의 be동사는 were를 쓴다."
+  },
+  {
+   "id": "P1-31",
+   "label": "1-31",
+   "passage": "내가 그의 주소를 안다면, 그에게 편지를 쓸 텐데.",
+   "prompt": "다음 우리말을 바르게 영작한 것은?",
+   "choices": [
+    "① If I knew his address, I would write to him.",
+    "② If I know his address, I would write to him.",
+    "③ If I had known his address, I would write to him.",
+    "④ If I knew his address, I would have written to him.",
+    "⑤ If I know his address, I would have written to him."
+   ],
+   "kind": "choice",
+   "answer": "① If I knew his address, I would write to him.",
+   "explanation": "가정법 과거로 [If+주어+동사의 과거형, 주어+ 조동사의 과거형+동사원형]의 형태로 써야 한다."
+  },
+  {
+   "id": "P1-32",
+   "label": "1-32",
+   "passage": "만약 내가 새라면, 너에게 날아갈 텐데.",
+   "prompt": "다음 우리말을 바르게 영작한 것은?",
+   "choices": [
+    "① If I am a bird, I will fly to you.",
+    "② If I was a bird, I would fly to you.",
+    "③ If I were a bird, I would fly to you.",
+    "④ As I was not a bird, I would fly to you.",
+    "⑤ As I am a bird, I will fly to you."
+   ],
+   "kind": "choice",
+   "answer": "③ If I were a bird, I would fly to you.",
+   "explanation": "가정법 과거 어순에 따라 [If+주어+동사의 과 거형, 주어+조동사의 과거형+동사원형]으로 영작된 선택지를 찾는다."
+  },
+  {
+   "id": "P1-33",
+   "label": "1-33",
+   "passage": "나에게 여동생이 있다면, 내 옷을 빌려줄 텐데.",
+   "prompt": "다음 우리말을 바르게 영작한 것은?",
+   "choices": [
+    "① If I have a sister, I will lend her my clothes.",
+    "② If I have a sister, I would lend her my clothes.",
+    "③ If I had a sister, I would lend her my clothes.",
+    "④ If I had a sister, I will lend her my clothes.",
+    "⑤ If I have had a sister, I will lend her my clothes."
+   ],
+   "kind": "choice",
+   "answer": "③ If I had a sister, I would lend her my clothes.",
+   "explanation": "가정법 과거 어순에 따라 [If+주어+동사의 과 거형, 주어+조동사의 과거형+동사원형]으로 영작된 선택지를 찾는다."
+  },
+  {
+   "id": "P1-34",
+   "label": "1-34",
+   "passage": "만약 그가 돈에 대해 생각했더라면, 그는 포기했을 텐데.",
+   "prompt": "다음 우리말을 바르게 영작한 것은?",
+   "choices": [
+    "① If he thought about money, he would give up.",
+    "② If he thought about money, he would have given up.",
+    "③ If he has thought about money, he would give up.",
+    "④ If he had thought about money, he would have given up.",
+    "⑤ If he hadn't thought about money, he would have given up."
+   ],
+   "kind": "choice",
+   "answer": "④ If he had thought about money, he would have given up.",
+   "explanation": "과거 사실을 반대로 가정하고 있으므로 가정법 과거완료 「If+주어+had+과거분사 ~, 주어 +조동사 과거형+have+과거분사 …」 형태로 쓴다."
+  },
+  {
+   "id": "P1-35",
+   "label": "1-35",
+   "passage": "내가 그녀의 이메일 주소를 안다면, 그녀에게 편지를\n쓸 수 있을 텐데.",
+   "prompt": "다음 우리말을 바르게 영작한 것은?",
+   "choices": [
+    "① If I will know her e-mail address, I will write a letter to her.",
+    "② If I know her e-mail address, I can write a letter to her.",
+    "③ If I know her e-mail address, I would write a letter to her.",
+    "④ If I knew her e-mail address, I can write a letter to her.",
+    "⑤ If I knew her e-mail address, I could write a letter to her."
+   ],
+   "kind": "choice",
+   "answer": "⑤ If I knew her e-mail address, I could write a letter to her.",
+   "explanation": "가정법 과거 [If+주어+동사의 과거형, 주어+조 동사의 과거형+동사원형]의 어순을 이용하여 영작한 문장이 정답이다."
+  },
+  {
+   "id": "P1-36",
+   "label": "1-36",
+   "passage": "만약 당신이 비행기에서 뛰어내린다면, 같은 경험을\n하게 될 텐데.",
+   "prompt": "다음 우리말을 바르게 영작한 것은?",
+   "choices": [
+    "① If you jump out of a plane, you will have the same experience.",
+    "② If you jumped out of a plane, you would have the same experience.",
+    "③ If you jumped out of a plane, you will have the same experience.",
+    "④ If you jump out of a plane, you would have the same experience.",
+    "⑤ If you will jump out of a plane, you will have the same experience."
+   ],
+   "kind": "choice",
+   "answer": "② If you jumped out of a plane, you would have the same experience.",
+   "explanation": "가정법 과거 [If+주어+동사의 과거형, 주어+조 동사의 과거형+동사원형]을 이용하여 영작한다."
+  },
+  {
+   "id": "P1-37",
+   "label": "1-37",
+   "passage": "As I don't know her phone number, I can't call her.",
+   "prompt": "다음 중 주어진 문장과 의미가 같은 것은?",
+   "choices": [
+    "① If I knew her phone number, I can call her.",
+    "② If I know her phone number, I can't call her.",
+    "③ If I knew her phone number, I could call her.",
+    "④ If I had known her phone number, I can call her.",
+    "⑤ If I had known her phone number, I could call her."
+   ],
+   "kind": "choice",
+   "answer": "③ If I knew her phone number, I could call her.",
+   "explanation": "내가 현재 그녀의 전화번호가 없어서 전화를못 하는 상황이기 때문에 가정법 과거를 이용 하여 문장을 바꿀 수 있다."
+  },
+  {
+   "id": "P1-38",
+   "label": "1-38",
+   "passage": "If I had more time, I would swim all day.",
+   "prompt": "다음 중 주어진 문장과 의미가 같은 것은?",
+   "choices": [
+    "① As I had more time, I swam all day.",
+    "② Because I had more time, I would swim all day.",
+    "③ Because I have more time, I will swim all day.",
+    "④ I don't have enough time, so I can't swim all day.",
+    "⑤ I didn't have enough time, so I couldn't swim all day."
+   ],
+   "kind": "choice",
+   "answer": "④ I don't have enough time, so I can't swim all day.",
+   "explanation": "'만약 내가 더 많은 시간이 있다면, 나는 하루 종일 수영할 텐데'의 가정법 문장은, 현재 시 점에 나는 시간이 충분하지 않아서 하루 종일 수영을 할 수 없음을 나타낸다."
+  },
+  {
+   "id": "P1-39",
+   "label": "1-39",
+   "passage": "If I were not sick, I could go to the party.",
+   "prompt": "다음 중 주어진 문장과 의미가 같은 것은?",
+   "choices": [
+    "① As I was sick, I couldn't go to the party.",
+    "② I was sick, so I couldn't go to the party.",
+    "③ Since I am sick, I can't go to the party.",
+    "④ I am sick because I can't go to the party.",
+    "⑤ Even if I am sick, I can go to the party."
+   ],
+   "kind": "choice",
+   "answer": "③ Since I am sick, I can't go to the party.",
+   "explanation": "가정법 과거 문장은 현재의 사실과 반대되는 가정이나, 실현 가능성이 거의 없는 소망을 말할 때 사용되므로, 주어진 가정법 문장과 반대되는 상황을 현재시제로 풀어놓은 문장을 답으로 고른다."
+  },
+  {
+   "id": "P1-40",
+   "label": "1-40",
+   "passage": "I didn't know about your problem, so I couldn't\nhelp you.",
+   "prompt": "다음 문장과 같은 의미를 가진 문장은?",
+   "choices": [
+    "① If I know about your problem, I would help you.",
+    "② If I have known about your problem, I would help you.",
+    "③ If I had known about your problem, I would help you.",
+    "④ If I have known about your problem, I would have helped you.",
+    "⑤ If I had known about your problem, I would have helped you."
+   ],
+   "kind": "choice",
+   "answer": "⑤ If I had known about your problem, I would have helped you.",
+   "explanation": "과거 사실에 대한 반대를 가정하고 있으므로, 가정법 과거완료로 바꾸어 쓸 수 있다."
+  },
+  {
+   "id": "P1-41",
+   "label": "1-41",
+   "passage": "Kevin doesn't join the music club because he\ndoesn't sing well.",
+   "prompt": "다음 중 주어진 문장과 의미가 같은 것은?",
+   "choices": [
+    "① If Kevin sang well, he would join the music club.",
+    "② If Kevin sings well, he would join the music club.",
+    "③ If Kevin has sung well, he wouldn't join the music club.",
+    "④ If Kevin doesn't sing well, he wouldn't join the music club.",
+    "⑤ If Kevin sang well, he wouldn't join the music club."
+   ],
+   "kind": "choice",
+   "answer": "① If Kevin sang well, he would join the music club.",
+   "explanation": "현재와 반대되는 상황(Kevin이 노래를 잘한다면, 음악 동아리에 가입할 텐데)을 나타내는 가정법 과거 [If+주어+동사의 과거형, 주어+ 조동사의 과거형+동사원형]의 어순을 취한 문 장을 고른다."
+  },
+  {
+   "id": "P1-42",
+   "label": "1-42",
+   "passage": "If he knew her phone number, he could call her\nup.",
+   "prompt": "다음 중 주어진 문장과 의미가 같은 것은?",
+   "choices": [
+    "① As he knows her phone number, he can call her up.",
+    "② As he didn't know her phone number, he couldn't call her up.",
+    "③ As he doesn't know her phone number, he can't call her up.",
+    "④ As he knew her phone number, he could call her up.",
+    "⑤ As he hadn't known her phone number, he couldn't have called her up."
+   ],
+   "kind": "choice",
+   "answer": "③ As he doesn't know her phone number, he can't call her up.",
+   "explanation": "가정법 과거 문장으로, 현재 시점에서 반대되는 상황을 직설법 문장으로 바꾼 보기가 정답이 된다. - 22"
+  },
+  {
+   "id": "P1-43",
+   "label": "1-43",
+   "passage": "If we knew how to swim, we could have more\nfun.",
+   "prompt": "다음 주어진 문장과 의미가 같은 것은?",
+   "choices": [
+    "① As we know how to swim, we can have more fun.",
+    "② As we didn't know how to swim, we couldn't have more fun.",
+    "③ As we don't know how to swim, we can't have more fun.",
+    "④ As we knew how to swim, we could have more fun.",
+    "⑤ As we hadn't known how to swim, we couldn't have had more fun."
+   ],
+   "kind": "choice",
+   "answer": "③ As we don't know how to swim, we can't have more fun.",
+   "explanation": "가정법 과거 「If+주어+과거 동사, 주어+조동 사의 과거형+동사원형」 ~라면 …할 텐데 (현재 사실과 반대되는 상황을 가정)"
+  },
+  {
+   "id": "P1-44",
+   "label": "1-44",
+   "passage": "We didn't arrive in time, so we couldn't catch the\nbus.",
+   "prompt": "다음 중 주어진 문장과 의미가 같은 것은?",
+   "choices": [
+    "① If we had arrived in time, we could have caught the bus.",
+    "② If we have not arrived in time, we could catch the bus.",
+    "③ As we didn't want to arrive in time, we could catch the bus.",
+    "④ As we didn't want to catch the bus, we need to hurry up.",
+    "⑤ If we had not arrived in time, we could have caught the bus."
+   ],
+   "kind": "choice",
+   "answer": "① If we had arrived in time, we could have caught the bus.",
+   "explanation": "과거의 사실과 반대되는 가정이나, 과거에 실현 가능성이 희박했던 소망을 말할 때 사용되는 가정법 과거완료 시제 「If+주어+had+과거 분사 ~, 주어+조동사 과거형+have+과거분사 …」 형태로 나타낼 수 있다."
+  },
+  {
+   "id": "P1-45",
+   "label": "1-45",
+   "passage": "As my little sister doesn't often lie down on the\nground, her clothes are usually kept clean.",
+   "prompt": "다음 중 주어진 문장과 의미가 같은 것은?",
+   "choices": [
+    "① If my little sister often lay down on the ground, her clothes wouldn't usually be kept clean.",
+    "② If my little sister often lay down on the ground, her clothes were usually kept clean.",
+    "③ If my little sister often laid down on the ground, her clothes wouldn't usually be kept clean.",
+    "④ If my little sister often lied down on the ground, her clothes wouldn't usually be kept clean.",
+    "⑤ If my little sister often lied down on the ground, her clothes would usually be kept clean."
+   ],
+   "kind": "choice",
+   "answer": "① If my little sister often lay down on the ground, her clothes wouldn't usually be kept clean.",
+   "explanation": "현재와 반대되는 상황(내 여동생이 자주 땅에 눕는다면, 옷이 보통 깨끗하지 않을 텐데)을 나타내는 가정법 과거 [If+주어+동사의 과거형, 주어+조동사의 과거형+동사원형]의 어순을 취한 문장을 고른다."
+  },
+  {
+   "id": "P1-46",
+   "label": "1-46",
+   "passage": "As he is poor, he can't buy an expensive car.",
+   "prompt": "다음 문장을 가정법으로 바르게 바꾼 것은?",
+   "choices": [
+    "① If he is not poor, he can buy an expensive car.",
+    "② If he is poor, he can buy an expensive car.",
+    "③ If he were poor, he could buy an expensive car.",
+    "④ If he were not poor, he could buy an expensive car.",
+    "⑤ If he were not poor, he couldn't buy an expensive car."
+   ],
+   "kind": "choice",
+   "answer": "④ If he were not poor, he could buy an expensive car.",
+   "explanation": "가정법 과거는 [If+주어+동사의 과거형, 주어+조동사의 과거형+동사원형]의 어순을 취하고,\n현재의 일에 반대되는 상황을 가정할 때 쓰인다."
+  },
+  {
+   "id": "P1-47",
+   "label": "1-47",
+   "passage": "If he had a key, he could open the door.",
+   "prompt": "다음 가정법 문장을 직설법으로 바르게 바꿔 쓴 것은?",
+   "choices": [
+    "① He has a key, so he couldn't open the door.",
+    "② He doesn't have a key, so he can't open the door.",
+    "③ As he didn't have a key, he couldn't open the door.",
+    "④ As he doesn't have a key, he doesn't open the door.",
+    "⑤ He didn't have a key, so he can't open the door."
+   ],
+   "kind": "choice",
+   "answer": "② He doesn't have a key, so he can't open the door.",
+   "explanation": "가정법 과거로 표현했으므로 현재 사실에 대해 나타내는 것을 고른다."
+  },
+  {
+   "id": "P1-48",
+   "label": "1-48",
+   "passage": "Tom can't buy a building because he isn't rich.",
+   "prompt": "다음 문장을 가정법으로 바르게 바꾼 것은?",
+   "choices": [
+    "① If Tom were rich, he could buy a building.",
+    "② If Tom was rich, he could not buy a building.",
+    "③ If Tom could buy a building, he was not rich.",
+    "④ If Tom could not buy a building, he was rich.",
+    "⑤ If Tom were not rich, he could buy a building."
+   ],
+   "kind": "choice",
+   "answer": "① If Tom were rich, he could buy a building.",
+   "explanation": "현재와 반대되는 상황(Tom이 부자라면 빌딩을 살 수 있을 것이다)을 나타내는 가정법 과거\n[If+주어+동사의 과거형, 주어+조동사의 과거형+동사원형]의 어순을 취한 문장을 고른다."
+  },
+  {
+   "id": "P1-49",
+   "label": "1-49",
+   "passage": "If he were not busy, he could go to the movies.",
+   "prompt": "다음 가정법 문장을 직설법으로 바르게 바꾼 것은?",
+   "choices": [
+    "① He wasn't busy, but he couldn't go to the movies.",
+    "② He is busy, so he can't go to the movies.",
+    "③ Though he isn't busy, he can't go to the movies.",
+    "④ He was busy, so he couldn't go to the movies.",
+    "⑤ As he was busy, he couldn't go to the movies."
+   ],
+   "kind": "choice",
+   "answer": "② He is busy, so he can't go to the movies.",
+   "explanation": "가정법 과거는 현재 사실의 반대를 나타낸다. 'If he were not busy, he could go' → 현재 바쁘기 때문에 갈 수 없다는 뜻이므로 He is busy, so he can't go to the movies."
+  },
+  {
+   "id": "P1-50",
+   "label": "1-50",
+   "passage": "As I don't go to Africa for volunteer work, I can't help poor children there.",
+   "prompt": "다음 문장을 가정법으로 바르게 바꾼 것은?",
+   "choices": [
+    "① If I go to Africa for volunteer work, I will help poor children there.",
+    "② If I don't go to Africa for volunteer work, I won't help poor children there.",
+    "③ If I went to Africa, I could help poor children there.",
+    "④ If I didn't go Africa, I could help poor children there.",
+    "⑤ If I went to Africa, I couldn't help poor children there."
+   ],
+   "kind": "choice",
+   "answer": "③ If I went to Africa, I could help poor children there.",
+   "explanation": "가정법 과거는 [If+주어+동사의 과거형, 주어+조동사의 과거형+동사원형]의 어순을 취하고,\n현재의 일에 반대되는 상황을 가정할 때 쓰인다."
+  },
+  {
+   "id": "P1-51",
+   "label": "1-51",
+   "passage": null,
+   "prompt": "다음 중 문장 전환이 어법상 어색한 것은?",
+   "choices": [
+    "① It's raining, so I won't go for a walk.\n→ If it weren't raining, I would go for a walk.",
+    "② Since he's not good at playing tennis, he can't become a professional player.\n→ If he were good at playing tennis, he could become a professional player.",
+    "③ As he is sick, he can't go to see her.\n→ If he were not sick, he could go to see her.",
+    "④ As it rains hard, we don't play outside.\n→ If it doesn't rain hard, we would play outside.",
+    "⑤ As we don't have enough money, we don't buy the camera.\n→ If we had enough money, we would buy the camera."
+   ],
+   "kind": "choice",
+   "answer": "④ As it rains hard, we don't play outside.\n→ If it doesn't rain hard, we would play outside.",
+   "explanation": "가정법 과거 문장으로 if절의 동사는 과거형으로 써야 한다. doesn't는 didn't로 쓴다."
+  },
+  {
+   "id": "P1-52",
+   "label": "1-52",
+   "passage": null,
+   "prompt": "다음 중 문장 전환이 어색한 것은?",
+   "choices": [
+    "① A: He can't buy it because he has no money.\nB: He could buy it if he had some money.",
+    "② A: You didn't call me, so I couldn't help you.\nB: If you had called me, I could have helped you.",
+    "③ A: As he doesn't have time, he will not go to Spain.\nB: If he had time, he would go to Spain.",
+    "④ A: Because we didn't go by car, we didn't save time.\nB: If we had gone by car, we would have saved time.",
+    "⑤ A: The exam was so difficult that she got a low score.\nB: If the exam had been difficult, she would have gotten a low score."
+   ],
+   "kind": "choice",
+   "answer": "⑤ A: The exam was so difficult that she got a low score.\nB: If the exam had been difficult, she would have gotten a low score.",
+   "explanation": "가정법 과거완료(If+주어+had+과거분사 ~, 주어+조동사 과거형+have+과거분사 …)는 과거 사실을 반대로 가정한 것이므로\nB의 답변을 'If the exam had not been difficult, she would not have gotten a low score.'로 바꿔야 옳다.\n①, ③은 가정법 과거로, 현재의 사실과 반대되거나 현재에 일어나지 않은 일을 가정할 때 쓰인다."
+  },
+  {
+   "id": "P1-53",
+   "label": "1-53",
+   "passage": null,
+   "prompt": "다음 두 문장의 의미가 같지 않은 것은?",
+   "choices": [
+    "① He is not strong, so he can't carry this box.\n→ If he is strong, he can carry this box.",
+    "② As I have no money, I can't buy the car.\n→ If I had money, I could buy the car.",
+    "③ It is raining, so I won't go for a walk.\n→ If it weren't raining, I'd go for a walk.",
+    "④ My sister is crying because mom's not here.\n→ If mom were here, my sister wouldn't be crying.",
+    "⑤ We can't travel more because we don't have a car.\n→ We could travel more if we had a car."
+   ],
+   "kind": "choice",
+   "answer": "① He is not strong, so he can't carry this box.\n→ If he is strong, he can carry this box.",
+   "explanation": "①번 문장의 의미가 같으려면 If he were strong, he could carry this box.로 고쳐야 한다."
+  },
+  {
+   "id": "P1-54",
+   "label": "1-54",
+   "passage": null,
+   "prompt": "다음 중 두 문장의 의미가 같은 것은?",
+   "choices": [
+    "① It rains, so I stay home.\n→ If it rains, I would not stay home.",
+    "② I don't have wings, so I can't fly.\n→ If I had wings, I couldn't fly.",
+    "③ If she were kind, many people would like her.\n→ She is kind, but many people don't like her.",
+    "④ I don't know him, so I can't introduce him to you.\n→ If I knew him, I could introduce him to you.",
+    "⑤ I don't have wings, so I can't fly to school.\n→ If I had had wings, I could fly to school."
+   ],
+   "kind": "choice",
+   "answer": "④ I don't know him, so I can't introduce him to you.\n→ If I knew him, I could introduce him to you.",
+   "explanation": "① → If it didn't rain, I wouldn't stay home.\n② → If I had wings, I could fly.\n③ → She isn't kind, so many people don't like her.\n⑤ → If I had wings, I could fly to school."
+  },
+  {
+   "id": "P1-55",
+   "label": "1-55",
+   "passage": null,
+   "prompt": "다음 중 직설법을 가정법으로 바꾼 문장 중 어법상 옳은 것은?",
+   "choices": [
+    "① As I didn't have a pen, I couldn't write you a letter.\n→ If I had had a pen, I could have wrote you a letter.",
+    "② She can't go because she is busy.\n→ She could have gone if she weren't busy.",
+    "③ He couldn't buy the ring because it was too expensive.\n→ If the ring wasn't too expensive he could have bought it.",
+    "④ She couldn't see the movie because she was 13 years old.\n→ If she weren't 13 years old, she could have seen the movie.",
+    "⑤ As there are so many cars, there is so much air pollution.\n→ There wouldn't be so much air pollution if there weren't so many cars."
+   ],
+   "kind": "choice",
+   "answer": "⑤ As there are so many cars, there is so much air pollution.\n→ There wouldn't be so much air pollution if there weren't so many cars.",
+   "explanation": "① 가정법 과거완료 시제로 주절이 could have p.p. 형태가 되어야 하므로 wrote는 written으로 써야 한다.\n② 가정법 과거시제로 주절이 'could+동사원형' 형태가 되어야 하므로 have gone은 go로 써야 한다.\n③ 가정법 과거완료 시제로 if절이 had p.p. 형태가 되어야 하므로 wasn't는 had not been으로 써야 한다.\n④ 가정법 과거완료 시제로 if절이 had p.p. 형태가 되어야 하므로 weren't는 had not been으로 써야 한다."
+  },
+  {
+   "id": "P1-56",
+   "label": "1-56",
+   "passage": null,
+   "prompt": "다음 짝지어진 두 문장의 의미가 다른 것은?",
+   "choices": [
+    "① If I were not tired, I could go to the movies.\n= I'm tired, so I can't go to the movies.",
+    "② He doesn't help me, so I can't do it.\n= If he helped me, I could do it.",
+    "③ If I knew his number, I could call him.\n= As I don't know his number, I can't call him.",
+    "④ If there weren't so much traffic, the air would be clean.\n= Because there is so much traffic, the air isn't clean.",
+    "⑤ If I were born in America, I could speak English fluently.\n= I was born in America, but I can't speak English fluently."
+   ],
+   "kind": "choice",
+   "answer": "⑤ If I were born in America, I could speak English fluently.\n= I was born in America, but I can't speak English fluently.",
+   "explanation": "가정법 과거는 현재 사실의 반대이므로 ⑤는 'I wasn't born in America, so I can't speak English fluently.'와 같은 의미이다.\n(원문 정답지에는 정답 번호만 제시되어 있음)"
+  },
+  {
+   "id": "P1-57",
+   "label": "1-57",
+   "passage": null,
+   "prompt": "다음 중 두 문장의 의미가 같은 것은?",
+   "choices": [
+    "① I am lonely, for she isn't here.\n→ If I were here, she wouldn't be lonely.",
+    "② It's raining, so I won't go for a walk.\n→ If it weren't raining, I'd go for a walk.",
+    "③ My little sister is crying because my mom's not here.\n→ If my mom were not here, my little sister wouldn't be crying.",
+    "④ As you don't come, I don't have more time to talk with you.\n→ If you come, I would not have more time to talk with you.",
+    "⑤ Since he's not very good at playing basketball, he can't become a professional player.\n→ If he were very good at playing basketball, he couldn't become a professional player."
+   ],
+   "kind": "choice",
+   "answer": "② It's raining, so I won't go for a walk.\n→ If it weren't raining, I'd go for a walk.",
+   "explanation": "① → If she were here, I wouldn't be lonely.\n③ → If my mom were here, my little sister wouldn't be crying.\n④ → If you came, I would have more time to talk with you.\n⑤ → If he were very good at playing basketball, he could become a professional player."
+  },
+  {
+   "id": "P1-58",
+   "label": "1-58",
+   "passage": null,
+   "prompt": "다음 문장을 가정법으로 알맞게 전환하지 못한 것은?",
+   "choices": [
+    "① You don't come to my party, so I am not happy.\n→ If you came to my party, I would be happy.",
+    "② It isn't hot, so I can take a walk.\n→ If it were hot, I could not take a walk.",
+    "③ He wasn't honest, so they didn't trust him.\n→ If he had been honest, they would trust him.",
+    "④ You didn't clean your room, so it was dirty.\n→ If you had cleaned your room, it wouldn't have been dirty.",
+    "⑤ I didn't have a car, so I couldn't pick you up.\n→ If I had had a car, I could have picked you up."
+   ],
+   "kind": "choice",
+   "answer": "③ He wasn't honest, so they didn't trust him.\n→ If he had been honest, they would trust him.",
+   "explanation": "과거의 일에 대한 반대 상황을 가정하고 있으므로, 가정법 과거완료로 표현한다.\n이때 if절은 'had p.p.', 주절에는 '조동사의 과거형+have p.p.'가 와야 하므로 would trust를 would have trusted로 써야 한다.\n①, ② 가정법 과거 / ③, ④, ⑤ 가정법 과거완료"
+  },
+  {
+   "id": "P1-59",
+   "label": "1-59",
+   "passage": null,
+   "prompt": "다음 두 문장의 의미가 같지 않은 것은?",
+   "choices": [
+    "① If Jinsu had enough money, he could buy a new computer.\n→ As Jinsu doesn't have enough money, he can't buy a new computer.",
+    "② If I knew his address, I could send him a letter.\n→ As I didn't know his address, I couldn't send him a letter.",
+    "③ As I don't read the book faster, I can't finish it in a day.\n→ If I read the book faster, I could finish it in a day.",
+    "④ As it doesn't rain, I can't see a rainbow.\n→ If it rained, I could see a rainbow.",
+    "⑤ If I were a bird, I could fly to you.\n→ As I am not a bird, I can't fly to you."
+   ],
+   "kind": "choice",
+   "answer": "② If I knew his address, I could send him a letter.\n→ As I didn't know his address, I couldn't send him a letter.",
+   "explanation": "가정법 과거이므로 현재 사실의 반대를 나타낸다. 따라서 didn't → don't, couldn't → can't로 해야 서로 비슷한 의미가 성립된다."
+  },
+  {
+   "id": "P1-60",
+   "label": "1-60",
+   "passage": "We use special structures with \"if\" when we are talking about unreal situations — things that are certainly not happening or did not happen, and situations that are untrue or imaginary.",
+   "prompt": "다음 글의 밑줄 친 if의 쓰임을 보여주는 문장이 아닌 것은?",
+   "choices": [
+    "① If I knew her name, I would tell you.",
+    "② If he'd run a bit faster, he could have won.",
+    "③ If my nose were shorter, I would be quite pretty.",
+    "④ I could have died that day if Jack had not helped me.",
+    "⑤ If you get here before eight, you can catch the early train."
+   ],
+   "kind": "choice",
+   "answer": "⑤ If you get here before eight, you can catch the early train.",
+   "explanation": "⑤의 if는 일어날 가능성이 있는 가정법 현재시제의 if이다."
+  },
+  {
+   "id": "P1-61",
+   "label": "1-61",
+   "passage": "If I ⓐwas a famous movie star ⓑlike Audrey Hepburn, I ⓒmight not be ⓓinterested in ⓔhelping others.",
+   "prompt": "다음 밑줄 친 ⓐ~ⓔ 중 어법상 어색한 것은?",
+   "choices": [
+    "① ⓐ",
+    "② ⓑ",
+    "③ ⓒ",
+    "④ ⓓ",
+    "⑤ ⓔ"
+   ],
+   "kind": "choice",
+   "answer": "① ⓐ",
+   "explanation": "가정법 과거의 문장이므로 were가 들어가야 올바르다."
+  },
+  {
+   "id": "P1-62",
+   "label": "1-62",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 어색한 것은?",
+   "choices": [
+    "① If I don't have any friends, I would be lonely.",
+    "② If I find your key, I will tell you.",
+    "③ If she were here, I wouldn't be lonely.",
+    "④ If he knew your situation, he could help you.",
+    "⑤ If it were not raining, I could go out to play soccer."
+   ],
+   "kind": "choice",
+   "answer": "① If I don't have any friends, I would be lonely.",
+   "explanation": "주절이 would be lonely인 가정법 과거 문장이므로 if절의 동사도 과거형 didn't have로 써야 한다.\n(원문 정답지에는 정답 번호만 제시되어 있음)"
+  },
+  {
+   "id": "P1-63",
+   "label": "1-63",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 어색한 것은?",
+   "choices": [
+    "① If I were you, I would see a doctor.",
+    "② If the weather were better, we would go outside.",
+    "③ If he were president, he would help the poor.",
+    "④ If we had more time, we would swim all day.",
+    "⑤ If a dog runs after me, I would run away."
+   ],
+   "kind": "choice",
+   "answer": "⑤ If a dog runs after me, I would run away.",
+   "explanation": "가정법 과거로, if절의 동사는 과거형으로 써야 한다. runs는 과거형 ran으로 고친다."
+  },
+  {
+   "id": "P1-64",
+   "label": "1-64",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 어색한 것은?",
+   "choices": [
+    "① If he were not busy, he would come to my party.",
+    "② I could go anywhere if I had a lot of money.",
+    "③ If you were in my shoes, what would you do?",
+    "④ If I were a teacher, I would not give students homework.",
+    "⑤ If he had enough money, he bought the latest phone."
+   ],
+   "kind": "choice",
+   "answer": "⑤ If he had enough money, he bought the latest phone.",
+   "explanation": "가정법 과거로, 주절의 문장은 [조동사의 과거형+동사원형]이 사용되어야 한다. he would buy the latest phone으로 고쳐야 한다."
+  },
+  {
+   "id": "P1-65",
+   "label": "1-65",
+   "passage": null,
+   "prompt": "다음 밑줄 친 부분 중 어법상 옳은 것은?",
+   "choices": [
+    "① If he had had time, he could solve all the questions.",
+    "② If he were here with me, I would have been very happy.",
+    "③ If I had not been so hungry, I would have not eaten too much.",
+    "④ If I had known your address, I could have sent you a card.",
+    "⑤ If you had helped me with English, I would have able to finish my report."
+   ],
+   "kind": "choice",
+   "answer": "④ If I had known your address, I could have sent you a card.",
+   "explanation": "① could solve all the questions → could have solved all the questions (가정법 과거완료)\n② would have been very happy → would be very happy (가정법 과거)\n③ would have not eaten → would not have eaten (가정법 과거완료)\n⑤ would have able to finish → would have been able to finish (가정법 과거완료)"
+  },
+  {
+   "id": "P1-66",
+   "label": "1-66",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① If I had had wings, I could fly.",
+    "② If she worked hard, she would not fail.",
+    "③ If it is not Monday, I would go swimming.",
+    "④ If she ran to the station, she will catch the train.",
+    "⑤ If I had wings, I would have flown to you."
+   ],
+   "kind": "choice",
+   "answer": "② If she worked hard, she would not fail.",
+   "explanation": "① had had → had\n③ is → were\n④ will → would\n⑤ would have flown → would fly"
+  },
+  {
+   "id": "P1-67",
+   "label": "1-67",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① If I loved your sister, I will marry her.",
+    "② If he won the lottery, he can buy a house.",
+    "③ If she had met him today, she would tell him.",
+    "④ Steven would get a perfect grade if he studied harder.",
+    "⑤ What you would say if you are my brother?"
+   ],
+   "kind": "choice",
+   "answer": "④ Steven would get a perfect grade if he studied harder.",
+   "explanation": "① will은 조동사의 과거형인 would로 고쳐야 한다.\n② can은 조동사의 과거형인 could로 고쳐야 한다.\n③ 가정법 과거이므로 과거형 동사 met으로 고쳐야 한다.\n⑤ What would you say if you were my brother?가 올바른 표현이다."
+  },
+  {
+   "id": "P1-68",
+   "label": "1-68",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?",
+   "choices": [
+    "① If I were you, I would tell her honestly.",
+    "② If I had enough money, I would buy a new iPhone.",
+    "③ She would be disappointed if I didn't go to her birthday party.",
+    "④ I would go to Mars if I could travel in space.",
+    "⑤ If I had a car, I picked you up."
+   ],
+   "kind": "choice",
+   "answer": "⑤ If I had a car, I picked you up.",
+   "explanation": "가정법 과거 문장으로 주절은 I would pick you up으로 써야 한다."
+  },
+  {
+   "id": "P1-69",
+   "label": "1-69",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① If it will rain tomorrow, I will stay at home.",
+    "② If Jenny were healthy, she could travel with us.",
+    "③ If he is honest, I could forgive him.",
+    "④ If I could drive, I would have gone to the beach now.",
+    "⑤ If you were not sick, you could have seen the movie."
+   ],
+   "kind": "choice",
+   "answer": "② If Jenny were healthy, she could travel with us.",
+   "explanation": "① will rain → rains\n③ is → were\n④ would have gone → would go\n⑤ could have seen → could see"
+  },
+  {
+   "id": "P1-70",
+   "label": "1-70",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?",
+   "choices": [
+    "① If I could speak English very well, I would help the foreigner.",
+    "② If I were not that short, I would ride the roller coaster.",
+    "③ If I were a teacher, I would not give students homework.",
+    "④ My friend would be very upset if I hitted him.",
+    "⑤ If I were allowed to take only one thing to the desert, I would take my cell phone."
+   ],
+   "kind": "choice",
+   "answer": "④ My friend would be very upset if I hitted him.",
+   "explanation": "hit의 과거형은 hit이다."
+  },
+  {
+   "id": "P1-71",
+   "label": "1-71",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① If he has been honest, he would not have been in jail.",
+    "② If I had been pretty, I would be a star.",
+    "③ If we arrived in time, we could have caught the train.",
+    "④ If I had warm clothes, I wouldn't have gotten a cold.",
+    "⑤ If I had heard the weather report, I would have brought my umbrella."
+   ],
+   "kind": "choice",
+   "answer": "⑤ If I had heard the weather report, I would have brought my umbrella.",
+   "explanation": "① 가정법 과거완료 시제로 if절의 동사는 had p.p.를 써야 한다.\n② 가정법 과거완료 시제로 주절은 I would have been a star로 써야 한다.\n③ 가정법 과거완료 시제로 if절의 동사는 had p.p.를 써야 한다.\n④ 가정법 과거완료 시제로 if절의 동사는 had p.p.를 써야 한다."
+  },
+  {
+   "id": "P1-72",
+   "label": "1-72",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① If I were rich, I can buy that digital camera.",
+    "② If he were you, he can buy her some flowers.",
+    "③ If it were raining, I will stay home and watch TV.",
+    "④ If we have less homework, we would be healthier and happier.",
+    "⑤ If I knew how to dance, I would go to the dance party."
+   ],
+   "kind": "choice",
+   "answer": "⑤ If I knew how to dance, I would go to the dance party.",
+   "explanation": "① can → could\n② can → could\n③ will → would\n④ have → had"
+  },
+  {
+   "id": "P1-73",
+   "label": "1-73",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① He doesn't know you are in the hospital. If he had known, he would have gone to see you.",
+    "② In fact, he witnessed the car accident. But he acts as if he hadn't witnessed it.",
+    "③ I'm sorry I don't have a twin brother. I wish I had had a twin brother.",
+    "④ I regretted I hadn't gone to see a doctor when I first got sick. I wish I went to see a doctor when I first got sick.",
+    "⑤ I tried to know his number in every way, but I failed. If I know his number, I will call him."
+   ],
+   "kind": "choice",
+   "answer": "② In fact, he witnessed the car accident. But he acts as if he hadn't witnessed it.",
+   "explanation": "① 'He doesn't know you are in the hospital.'은 현재 시점의 일이므로 가정법 과거시제로 표현해야 한다.\n③ 'I'm sorry I don't have a twin brother.'는 현재 시점의 소망이므로 I wish 가정법 과거시제로 표현해야 한다.\n④ 주절보다 과거인 상황의 일이므로 I wish 가정법 과거완료 시제로 표현해야 한다.\n⑤ 과거 시점의 일이므로 가정법 과거완료 시제로 표현해야 한다."
+  },
+  {
+   "id": "P1-74",
+   "label": "1-74",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?",
+   "choices": [
+    "① If she read more books, she would write much better than this.",
+    "② He would be very upset if you lost the present.",
+    "③ She would be sad if she hears the news.",
+    "④ If he were in the office, I would give it to him.",
+    "⑤ If I were rich, I could buy that digital camera."
+   ],
+   "kind": "choice",
+   "answer": "③ She would be sad if she hears the news.",
+   "explanation": "hears → heard"
+  },
+  {
+   "id": "P1-75",
+   "label": "1-75",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장은?",
+   "choices": [
+    "① What would you do if it rained on your wedding day?",
+    "② If I know your address, I would mail this letter today.",
+    "③ I will be really sad if you left me.",
+    "④ If there isn't gravity on earth, we could float in the air.",
+    "⑤ If I were not so hungry, I shared my bread with you."
+   ],
+   "kind": "choice",
+   "answer": "① What would you do if it rained on your wedding day?",
+   "explanation": "② know → knew\n③ will → would\n④ isn't → weren't\n⑤ shared → would share"
+  },
+  {
+   "id": "P1-76",
+   "label": "1-76",
+   "passage": null,
+   "prompt": "Choose two that are grammatically correct.",
+   "choices": [
+    "① If he were honest, he would have been hired.",
+    "② If it were not raining, we could having lunch on the grass.",
+    "③ If he had not have dinner at the restaurant, he would not meet her.",
+    "④ If I won the lottery, I would buy a cool sports car.",
+    "⑤ If the weather is good, we'll have the party outside."
+   ],
+   "kind": "choice",
+   "answer": "④ If I won the lottery, I would buy a cool sports car. / ⑤ If the weather is good, we'll have the party outside.",
+   "explanation": "① 가정법 과거로, 주절의 동사는 would be hired가 올바르다.\n② 조동사 could 다음엔 동사원형 have가 와야 한다.\n③ 가정법 과거로, if절의 동사는 did not have가 올바르다."
+  },
+  {
+   "id": "P1-77",
+   "label": "1-77",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은? (정답 2개)",
+   "choices": [
+    "① If ocean water weren't salty, people drank it.",
+    "② If I didn't have a headache, I could sleep well.",
+    "③ If I know your address, I would mail this letter today.",
+    "④ If I were free, I could go fishing with you.",
+    "⑤ If I had brothers, I would be happier."
+   ],
+   "kind": "choice",
+   "answer": "① If ocean water weren't salty, people drank it. / ③ If I know your address, I would mail this letter today.",
+   "explanation": "① drank → would drink\n③ know → knew"
+  },
+  {
+   "id": "P1-78",
+   "label": "1-78",
+   "passage": null,
+   "prompt": "다음 중 어법상 옳은 문장을 모두 고르면?",
+   "choices": [
+    "① If she heard the news, she would be pleased.",
+    "② If she had speak English well, I would employ her.",
+    "③ If she had known his address, she would write to him.",
+    "④ If he had come to my party, I would have been happy.",
+    "⑤ If we had started a little earlier, we could catch the train."
+   ],
+   "kind": "choice",
+   "answer": "① If she heard the news, she would be pleased. / ④ If he had come to my party, I would have been happy.",
+   "explanation": "② would employ → would have employed ('그녀가 영어를 잘했다면, 나는 그녀를 고용했을 텐데.')\n③ would write → would have written\n⑤ could catch → could have caught\n① 현재 사실에 대한 아쉬움을 나타내는 가정법 과거 문장이므로 「If+S+과거 동사, S+조동사 과거형+동사원형」으로 쓸 수 있다."
+  },
+  {
+   "id": "P1-79",
+   "label": "1-79",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?",
+   "choices": [
+    "① If I had known your email address, I would have written to you.",
+    "② If I had told you the truth, you would not believe it.",
+    "③ If I had practiced harder, I would have won the game.",
+    "④ What would have happened if I hadn't smelled gas?",
+    "⑤ If the weather had been better, we could have gone on a picnic."
+   ],
+   "kind": "choice",
+   "answer": "② If I had told you the truth, you would not believe it.",
+   "explanation": "가정법 과거완료 시제 문장으로 주절은 you would not have believed it으로 써야 한다."
+  },
+  {
+   "id": "P1-80",
+   "label": "1-80",
+   "passage": "• If it was sunny, we would go on a picnic.\n• If I had two bikes, I would gave you one.\n• If I had an umbrella, I would go out in the rain.\n• If I were you, I would exercise harder.\n• If I spend my whole day answering letters, what would happen?",
+   "prompt": "다음 중 어법상 옳은 문장의 총 개수는?",
+   "choices": [
+    "① 1개",
+    "② 2개",
+    "③ 3개",
+    "④ 4개",
+    "⑤ 5개"
+   ],
+   "kind": "choice",
+   "answer": "② 2개",
+   "explanation": "• If it was sunny, we would go on a picnic. → was 대신 were로 써야 한다.\n• If I had two bikes, I would gave you one. → would 다음에는 동사원형 give를 써야 한다.\n• If I spend my whole day answering letters, what would happen? → if절의 동사를 과거형 spent로 써야 한다."
+  },
+  {
+   "id": "P1-81",
+   "label": "1-81",
+   "passage": "(A) If he were not busy, he would come to my party.\n(B) If Minju comes tomorrow, I won't let her leave me again.\n(C) If she can travel in space, she would go to Mars.\n(D) If I were a doctor, I help the poor around the world.\n(E) If you listened to the lecture, you will understand it.\n(F) If ocean water weren't salty, people drank it.\n(G) If I have brothers, I would be happier.",
+   "prompt": "다음 중 어법상 옳은 문장의 총 개수는?",
+   "choices": [
+    "① 1개",
+    "② 2개",
+    "③ 3개",
+    "④ 4개",
+    "⑤ 5개"
+   ],
+   "kind": "choice",
+   "answer": "② 2개",
+   "explanation": "(C) can → could\n(D) help → would help\n(E) will → would\n(F) drank → would drink\n(G) have → had"
+  },
+  {
+   "id": "P1-82",
+   "label": "1-82",
+   "passage": "ⓐ If I were you, I would help her.\nⓑ If she sings well, she could join our band.\nⓒ Without water, we could not live.\nⓓ What will you do if you were in my shoes?\nⓔ If she were in London, she can attend her cousin's wedding.\nⓕ If he studied harder, he might pass the exam.\nⓖ If you did not help me, I cannot finish this project.\nⓗ If you explain the situation to Minho, he will understand.\nⓘ If I had a million dollars, I will buy you a car.\nⓙ If I have a magic cooker, I could cook rice for the poor.",
+   "prompt": "How many sentences are grammatically wrong among ⓐ~ⓙ?",
+   "choices": [
+    "① 3개",
+    "② 4개",
+    "③ 5개",
+    "④ 6개",
+    "⑤ 7개"
+   ],
+   "kind": "choice",
+   "answer": "④ 6개",
+   "explanation": "ⓑ 가정법 과거 문장으로 if절의 동사를 과거형 sang으로 고치던지, 아니면 단순 조건문으로 could를 can으로 고쳐야 한다.\nⓓ 가정법 과거 문장으로 주절에서 조동사를 과거형 would로 바꿔야 한다.\nⓔ 주절의 can은 could로 고쳐야 한다.\nⓖ 주절의 cannot은 could not으로 고쳐야 한다.\nⓘ 주절의 will은 would로 써야 한다.\nⓙ if절의 동사는 과거형 had로 써야 한다."
+  },
+  {
+   "id": "P1-83",
+   "label": "1-83",
+   "passage": "ⓐ If I had a robot, I would make it do my homework.\nⓑ If there were a flying car, we would not late for school.\nⓒ If I saw a famous actor in the street, I would ask him to take a picture with me.\nⓓ If I were a poet, I would described this world with a beautiful poem.\nⓔ If I finded a bag full of money under a tree, I would take it to the police.",
+   "prompt": "다음 중 어법상 옳은 문장끼리 바르게 짝지어진 것은?",
+   "choices": [
+    "① ⓑ, ⓓ",
+    "② ⓐ, ⓒ",
+    "③ ⓐ, ⓒ, ⓔ",
+    "④ ⓐ, ⓑ, ⓒ",
+    "⑤ ⓑ, ⓓ, ⓔ"
+   ],
+   "kind": "choice",
+   "answer": "② ⓐ, ⓒ",
+   "explanation": "ⓑ would not be late의 형태가 올바르다.\nⓓ 조동사 would 다음에 동사원형 describe가 와야 한다.\nⓔ find의 과거형은 found이다."
+  },
+  {
+   "id": "P1-84",
+   "label": "1-84",
+   "passage": "• If you want to keep a secret, you must also hide it from yourself.\n• If I had done any part-time jobs while I was at school, I would have gain some work experience.\n• Had I known Woobin was in the hospital, I would sent him some flowers.\n• If the weather was sunny, we will go to the zoo.\n• I always pay my bills on time. If I don't, I will get into a lot of trouble.\n• If there will be only a breeze in the sauna, the atmosphere wouldn't be quite so unbearable.\n• He will move into a new house if it had been completed by then.\n• If it had been another person, it wouldn't have been so shocking.",
+   "prompt": "How many sentences are grammatically CORRECT?",
+   "choices": [
+    "① 3개",
+    "② 4개",
+    "③ 5개",
+    "④ 6개",
+    "⑤ 7개"
+   ],
+   "kind": "choice",
+   "answer": "① 3개",
+   "explanation": "• 'If I had done any part-time jobs while I was at school, I would have gained some work experience.'가 올바른 문장이다.\n• 'Had I known Woobin was in the hospital, I would have sent him some flowers.'가 올바른 문장이다.\n• 'If the weather was sunny, we would go to the zoo.'가 올바른 문장이다.\n• 'If there were only a breeze in the sauna, the atmosphere wouldn't be quite so unbearable.'이 올바른 문장이다.\n• 'He would have moved into a new house if it had been completed by then.'이 올바른 문장이다."
+  },
+  {
+   "id": "P2-01",
+   "label": "2-01",
+   "passage": "건강을 유지하기 위해 매일 운동을 한다.\n= He exercises every day __________ he can stay healthy.",
+   "prompt": "다음 우리말과 일치하도록 빈칸에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① or",
+    "② but",
+    "③ how",
+    "④ when",
+    "⑤ so that"
+   ],
+   "kind": "choice",
+   "answer": "⑤ so that",
+   "explanation": "‘~하기 위해서’라는 의미의 목적을 나타내는 접 속사 자리이므로 'so that'이 적절하다. 「so that+주어+can/could+동사원형」 ‘~하기 위해서’"
+  },
+  {
+   "id": "P2-02",
+   "label": "2-02",
+   "passage": "He often walks his dog ______________ it can stay\nhealthy.",
+   "prompt": "다음 빈칸에 들어갈 알맞은 말은?",
+   "choices": [
+    "① because",
+    "② so that",
+    "③ as long as",
+    "④ when",
+    "⑤ although"
+   ],
+   "kind": "choice",
+   "answer": "② so that",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P2-03",
+   "label": "2-03",
+   "passage": "She traveled to Jeju Island to take pictures of it.\n= She traveled to Jeju Island ___________ that he ___________ take pictures of it.",
+   "prompt": "다음 주어진 문장과 같은 의미가 되도록 빈칸에 들 어갈 말로 알맞은 것은?",
+   "choices": [
+    "① so - can",
+    "② too - will",
+    "③ too - could",
+    "④ so - could",
+    "⑤ so - will"
+   ],
+   "kind": "choice",
+   "answer": "④ so - could",
+   "explanation": "to부정사의 부사적 용법과 같은 의미가 되어야 하므로 ‘~하기 위해서’라는 의미를 나타내는 「so that+주어+can/could+동사원형」을 사용한 다."
+  },
+  {
+   "id": "P2-04",
+   "label": "2-04",
+   "passage": "A: Wow! What a nice bike!\nB: I saved money so that I __________ buy this new bike.",
+   "prompt": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① can",
+    "② could",
+    "③ will",
+    "④ may",
+    "⑤ might"
+   ],
+   "kind": "choice",
+   "answer": "② could",
+   "explanation": "「so that+주어+can/could+동사원형」의 형태로, 주절의 시제가 과거이기 때문에 could가 들어 가야 한다."
+  },
+  {
+   "id": "P2-05",
+   "label": "2-05",
+   "passage": "I went to a bookstore __________ I could buy some\nbooks.",
+   "prompt": "다음 빈칸에 들어갈 수 있는 것을 모두 고르면?",
+   "choices": [
+    "① so that",
+    "② in order to",
+    "③ so as to",
+    "④ in order that",
+    "⑤ if"
+   ],
+   "kind": "choice",
+   "answer": "① so that / ④ in order that",
+   "explanation": "‘~하기 위해서’라는 의미를 나타내는 「so that+주어+동사」는 「in order that+주어+ 동사」과 바꾸어 쓸 수 있다."
+  },
+  {
+   "id": "P2-06",
+   "label": "2-06",
+   "passage": "He quit his job to take care of his baby.\n= He quit his job ________ that he ________ take care of his baby.",
+   "prompt": "다음 주어진 문장과 같은 의미가 되도록 빈칸에 들 어갈 말로 바르게 연결된 것은?",
+   "choices": [
+    "① so - can",
+    "② in - will",
+    "③ in - could",
+    "④ so - could",
+    "⑤ so - will"
+   ],
+   "kind": "choice",
+   "answer": "④ so - could",
+   "explanation": "「so that+주어+can/could+동사원형」: ~하기 위 해서"
+  },
+  {
+   "id": "P2-07",
+   "label": "2-07",
+   "passage": "She donated some money so as to help the poor.\n= She donated some money ____________ help the poor.",
+   "prompt": "다음 두 문장이 같은 의미가 되도록 빈칸에 알맞은 것은?",
+   "choices": [
+    "① such as",
+    "② even more",
+    "③ in spite of",
+    "④ so as not to",
+    "⑤ in order to"
+   ],
+   "kind": "choice",
+   "answer": "⑤ in order to",
+   "explanation": "so as to = in order to ‘~하기 위해서’"
+  },
+  {
+   "id": "P2-08",
+   "label": "2-08",
+   "passage": "All Koreans wanted to learn to read and write. So\nKing Sejong invented Hangeul.\n→ King Sejong invented Hangeul __________________ all Koreans could learn to read and write.",
+   "prompt": "다음 두 문장을 한 문장으로 연결할 때 빈칸에 들어 갈 말로 알맞은 것은?",
+   "choices": [
+    "① so as to",
+    "② so that",
+    "③ such that",
+    "④ in order to",
+    "⑤ enough to"
+   ],
+   "kind": "choice",
+   "answer": "② so that",
+   "explanation": "목적을 나타내는 so that은 「so that+주어 +can/could+동사원형」의 구조로 쓰인다."
+  },
+  {
+   "id": "P2-09",
+   "label": "2-09",
+   "passage": "• Please turn off the light __________ that I can sleep.\n• It was __________ easy question that I could answer.",
+   "prompt": "다음 문장의 빈칸에 공통으로 들어갈 말로 가장 적 절한 것은?",
+   "choices": [
+    "① so",
+    "② too",
+    "③ then",
+    "④ enough",
+    "⑤ completely"
+   ],
+   "kind": "choice",
+   "answer": "① so",
+   "explanation": "「so that+주어+can/could+동사원형」 ‘~할 수 있도록’ 「so+형용사/부사+that+주어+can/could」 ‘너무 ~해서 ...하다’"
+  },
+  {
+   "id": "P2-10",
+   "label": "2-10",
+   "passage": "A: Bell invented the telephone, didn't he?\nB: Yes, he invented it so that we can _____________.",
+   "prompt": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① buy a new bike",
+    "② get a good grade",
+    "③ read and write easily",
+    "④ go to other places quickly",
+    "⑤ talk to other people in different places"
+   ],
+   "kind": "choice",
+   "answer": "⑤ talk to other people in different places",
+   "explanation": "전화기의 발명으로 우리가 할 수 있게 된 것 은 ⑤번 보기의 내용이 적합하다."
+  },
+  {
+   "id": "P2-11",
+   "label": "2-11",
+   "passage": null,
+   "prompt": "Which one has a different usage from the others?",
+   "choices": [
+    "① I was nervous, so that I could hardly speak.",
+    "② Speak louder so that everyone can hear you.",
+    "③ She ran so that she could get there on time.",
+    "④ I jog every day so that I can stay healthy.",
+    "⑤ He drinks milk every day so that he can grow taller."
+   ],
+   "kind": "choice",
+   "answer": "① I was nervous, so that I could hardly speak.",
+   "explanation": "①은 결과를 나타내는 so that으로 앞의 문장 이 확실한 원인이고, so that 뒤의 문장이 그 에 따르는 결과이다. 이 때 so that은 ‘그 결 과 ~하다’라는 의미이다. 나머지 so that은 ‘~ 하기 위해서‘의 의미로 목적을 나타낸다."
+  },
+  {
+   "id": "P2-12",
+   "label": "2-12",
+   "passage": "나는 살을 빼기 위해 열심히 운동한다.",
+   "prompt": "다음 주어진 우리말을 바르게 영작한 것은?",
+   "choices": [
+    "① I exercise so hard what I can lose weight.",
+    "② I exercise so hard that I can lose weight.",
+    "③ I exercise hard so that I can lose weight.",
+    "④ I lose weight so that I can exercise hard.",
+    "⑤ I lose weight in order to exercise hard."
+   ],
+   "kind": "choice",
+   "answer": "③ I exercise hard so that I can lose weight.",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P2-13",
+   "label": "2-13",
+   "passage": "나는 시험에 합격하기 위해 열심히 공부했다.",
+   "prompt": "다음 주어진 우리말을 바르게 영작한 것은?",
+   "choices": [
+    "① I studied so hard what I passed the test.",
+    "② I studied so hard that I passed the test.",
+    "③ I studied hard so that I could pass the test.",
+    "④ I passed the test so that I could study hard.",
+    "⑤ I passed the test in order to study hard."
+   ],
+   "kind": "choice",
+   "answer": "③ I studied hard so that I could pass the test.",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P2-14",
+   "label": "2-14",
+   "passage": "제가 코멘트를 할 수 있게 보고서를 내주세요.",
+   "prompt": "다음 우리말에 맞도록 알맞게 영작한 것은?",
+   "choices": [
+    "① Turn in your report such that I can comment on it.",
+    "② Turn in your report so that I can comment on it.",
+    "③ Hand in your report, so I can comment with it.",
+    "④ Hand in your report, that I comment with it.",
+    "⑤ Turn your report so that I can comment it."
+   ],
+   "kind": "choice",
+   "answer": "② Turn in your report so that I can comment on it.",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P2-15",
+   "label": "2-15",
+   "passage": "Sam은 그 기차를 놓치지 않기 위해 일찍 일어났다.",
+   "prompt": "다음 우리말에 맞게 영작한 것을 모두 고르면?",
+   "choices": [
+    "① Sam woke up early to not miss the train.",
+    "② Sam woke up early in order to miss the train.",
+    "③ Sam woke up early so as not to miss the train.",
+    "④ Sam woke up so early that he could not miss the train.",
+    "⑤ Sam woke up early so that he would not miss the train."
+   ],
+   "kind": "choice",
+   "answer": "③ Sam woke up early so as not to miss the train. / ⑤ Sam woke up early so that he would not miss the train.",
+   "explanation": "to부정사의 부정은 to앞에 not을 쓴다."
+  },
+  {
+   "id": "P2-16",
+   "label": "2-16",
+   "passage": "그는 그의 가족을 부양하기 위해 열심히 일한다.",
+   "prompt": "다음 우리말을 영어로 바르게 옮긴 것은?",
+   "choices": [
+    "① He works too hard to support his family.",
+    "② He works enough hard to support his family.",
+    "③ He works hard so that he can support his family.",
+    "④ He works so hard that he can support his family.",
+    "⑤ He works hard so as that he can support his family."
+   ],
+   "kind": "choice",
+   "answer": "③ He works hard so that he can support his family.",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P2-17",
+   "label": "2-17",
+   "passage": "Please speak slowly so that __________________.",
+   "prompt": "다음 문장의 빈칸에 들어갈 말로 가장 적절한 것은?",
+   "choices": [
+    "① we can see you",
+    "② we won't be late",
+    "③ we can get well",
+    "④ we won't get sick",
+    "⑤ we can understand you"
+   ],
+   "kind": "choice",
+   "answer": "⑤ we can understand you",
+   "explanation": "의미상 ‘우리가 네 말을 알아들을 수 있도록 천천히 말해달라.’가 되어야 하므로 ⑤번이 정 답이 된다."
+  },
+  {
+   "id": "P2-18",
+   "label": "2-18",
+   "passage": "I saved money _____________________________________.",
+   "prompt": "다음 빈칸에 들어갈 말로 알맞지 않은 것은?",
+   "choices": [
+    "① for the purpose of taking a trip next year",
+    "② so as to be a millionaire",
+    "③ in order to start a business",
+    "④ so that I can help the poor children",
+    "⑤ to buy a new MP3 player"
+   ],
+   "kind": "choice",
+   "answer": "④ so that I can help the poor children",
+   "explanation": "can → could"
+  },
+  {
+   "id": "P2-19",
+   "label": "2-19",
+   "passage": "I turned off the radio so that ______________________.",
+   "prompt": "다음 빈칸에 들어갈 말로 알맞은 것은?",
+   "choices": [
+    "① I could keep in shape",
+    "② I could travel to Europe",
+    "③ I could water the flowers",
+    "④ I could catch the school bus",
+    "⑤ I could focus on reading"
+   ],
+   "kind": "choice",
+   "answer": "⑤ I could focus on reading",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P2-20",
+   "label": "2-20",
+   "passage": "They started early so that they could get a good\nseat.",
+   "prompt": "다음 밑줄 친 부분과 의미가 같은 것은?",
+   "choices": [
+    "① in order that get a good seat",
+    "② so as to get a good seat",
+    "③ in order to they could get a good seat",
+    "④ so as to they could get a good seat",
+    "⑤ to they could get a good seat"
+   ],
+   "kind": "choice",
+   "answer": "② so as to get a good seat",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P2-21",
+   "label": "2-21",
+   "passage": "• Andy (A)_______ to bed early in order that he could wake up early.\n• I'll (B)_______ here in order that you (C)_______ find me.\n• Bell (D)_______ the telephone in order that people could (E)_______ to each other in different places.",
+   "prompt": "다음 문장의 빈칸 (A)~(E)에 들어갈 단어로 적절하 지 않은 것은?",
+   "choices": [
+    "① (A) went",
+    "② (B) wait",
+    "③ (C) could",
+    "④ (D) invented",
+    "⑤ (E) talk"
+   ],
+   "kind": "choice",
+   "answer": "③ (C) could",
+   "explanation": "주절의 시제가 will의 미래시제로 that절의 시 제는 과거형(could)이 쓰일 수 없다."
+  },
+  {
+   "id": "P2-22",
+   "label": "2-22",
+   "passage": "우리는 게임을 이기기 위해서 최선을 다할 것이다.",
+   "prompt": "다음 우리말을 바르게 영작한 것은?",
+   "choices": [
+    "① We'll do our best so that winning the game.",
+    "② We'll do our best so that can win the game.",
+    "③ We'll do our best in order to we win the game.",
+    "④ We'll do our best in order to can win the game.",
+    "⑤ We'll do our best so that we can win the game."
+   ],
+   "kind": "choice",
+   "answer": "⑤ We'll do our best so that we can win the game.",
+   "explanation": "‘~하기 위해서’의 뜻을 나타내는 「so that+주 어+can/could+동사원형」의 형태로 제시된 것 이 정답이다."
+  },
+  {
+   "id": "P2-23",
+   "label": "2-23",
+   "passage": "그녀는 시험에 통과하기 위해서 열심히 공부했다.",
+   "prompt": "다음 우리말을 바르게 영작한 것은?",
+   "choices": [
+    "① She studied so hard that she couldn't pass the exam.",
+    "② She studied so hard that she could pass the exam.",
+    "③ She studied hard as if she passed the exam.",
+    "④ She studied hard so as to pass the exam.",
+    "⑤ She studied too hard to pass the exam."
+   ],
+   "kind": "choice",
+   "answer": "④ She studied hard so as to pass the exam.",
+   "explanation": "‘~하기 위해서’란 뜻으로 so as to를 사용할 수 있다."
+  },
+  {
+   "id": "P2-24",
+   "label": "2-24",
+   "passage": "• I go jogging every morning.\n• I want to keep healthy.",
+   "prompt": "다음 주어진 두 문장을 한 문장으로 쓸 때 의미가 다른 하나는?",
+   "choices": [
+    "① I go jogging every morning to keep healthy.",
+    "② I go jogging every morning so as to keep healthy.",
+    "③ I go jogging every morning in order to keep healthy.",
+    "④ I go jogging every morning enough to keep healthy.",
+    "⑤ I go jogging every morning so that I can keep healthy."
+   ],
+   "kind": "choice",
+   "answer": "④ I go jogging every morning enough to keep healthy.",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P2-25",
+   "label": "2-25",
+   "passage": "• Jenny is saving her money (가)________________.\n• He watches American movies (나)________________.\n• He went out the back door (다) ________________.\n• She will go abroad (라)________________.\n<보기>\n(A) so that he can improve his listening skills\n(B) so that nobody could see him\n(C) so that she can fix her bike\n(D) so that she can study art",
+   "prompt": "다음 문장의 빈칸 (가)~(라)에 들어갈 말을 <보기> 에서 골라 순서대로 나열한 것은?",
+   "choices": [
+    "① (A), (B), (C), (D)",
+    "② (A), (C), (D), (B)",
+    "③ (B), (D), (A), (C)",
+    "④ (C), (A), (B), (D)",
+    "⑤ (C), (D), (A), (B)"
+   ],
+   "kind": "choice",
+   "answer": "④ (C), (A), (B), (D)",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P2-26",
+   "label": "2-26",
+   "passage": "Hi, David\nHow's your new school? Yesterday was our Sports Day. Tom and I entered \"Egg and Spoon Race\", but we dropped our eggs during the race.\n소윤이는 계란을 떨어트리지 않기 위해 매우 조심했다.\nShe did it. Please tell me about your school. I miss you so much.\nYour friend, Alice",
+   "prompt": "다음 글의 밑줄 친 우리말을 바르게 영작한 것은?",
+   "choices": [
+    "① Soyun was so careful and she wouldn't drop the egg.",
+    "② Soyun was so careful but she wouldn't drop the egg.",
+    "③ Soyun was very careful so that she would drop the egg.",
+    "④ Soyun was so careful that she wouldn't drop the egg.",
+    "⑤ Soyun was very careful so that she wouldn't drop the egg."
+   ],
+   "kind": "choice",
+   "answer": "⑤ Soyun was very careful so that she wouldn't drop the egg.",
+   "explanation": "so that구문을 이용하여 적절하게 영작한 문 장을 고른다."
+  },
+  {
+   "id": "P2-27",
+   "label": "2-27",
+   "passage": null,
+   "prompt": "다음 문장의 밑줄 친 so that의 쓰임이 흐름상 어 색한 것은?",
+   "choices": [
+    "① Our teacher brought a DVD so that we could watch a movie together.",
+    "② Giho made some cookies the night before so that we could eat them while we watched the movie.",
+    "③ Hajin took some pictures during the party so that we could remember the day.",
+    "④ Tom couldn't get in the theater so that he had left his ticket at home.",
+    "⑤ We sang a song for our teacher so that she would know how much we loved her."
+   ],
+   "kind": "choice",
+   "answer": "④ Tom couldn't get in the theater so that he had left his ticket at home.",
+   "explanation": "앞의 문장이 결과이고 so that 이하의 내용의 그 원인이므로 because가 오는 것이 자연스 럽다."
+  },
+  {
+   "id": "P2-28",
+   "label": "2-28",
+   "passage": "She turned on the TV to watch the news.",
+   "prompt": "다음 문장과 의미가 같은 것을 모두 고르면?",
+   "choices": [
+    "① She turned on the TV in order watch the news.",
+    "② She turned on the TV so as to watch the news.",
+    "③ She turned on the TV in order not to watch the news.",
+    "④ She turned on the TV so that she can watch the news.",
+    "⑤ She turned on the TV so that she could watch the news."
+   ],
+   "kind": "choice",
+   "answer": "② She turned on the TV so as to watch the news. / ⑤ She turned on the TV so that she could watch the news.",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P2-29",
+   "label": "2-29",
+   "passage": null,
+   "prompt": "다음 중 의미상 어색한 문장은?",
+   "choices": [
+    "① He took a taxi so that he wouldn't be late.",
+    "② I gave him a knife so that he couldn't peel the fruit.",
+    "③ He tried his best so that he could win the contest.",
+    "④ This flower opens up in fine weather so that it can get lots of sunlight.",
+    "⑤ I turned off the TV so that my brother could focus on his study."
+   ],
+   "kind": "choice",
+   "answer": "② I gave him a knife so that he couldn't peel the fruit.",
+   "explanation": "의미상 ‘I gave him a knife because he could peel the fruit.’가 되어야 자연스럽다."
+  },
+  {
+   "id": "P2-30",
+   "label": "2-30",
+   "passage": null,
+   "prompt": "다음 중 문장의 의미가 나머지 넷과 다른 것은?",
+   "choices": [
+    "① He reads many books about writing.",
+    "② He reads many books to be a writer.",
+    "③ He reads many books so as to be a writer.",
+    "④ He reads many books in order to be a writer.",
+    "⑤ He reads many books so that he can be a writer."
+   ],
+   "kind": "choice",
+   "answer": "① He reads many books about writing.",
+   "explanation": "나머지 보기는 모두 ‘그는 작가가 되기 위해서 많은 책을 읽는다.’라는 뜻이고, ①번 보기만 ‘그는 글쓰기에 관한 많은 책을 읽는다.’라는 뜻이다."
+  },
+  {
+   "id": "P2-31",
+   "label": "2-31",
+   "passage": null,
+   "prompt": "다음 중 문장의 의미가 나머지 넷과 다른 것은?",
+   "choices": [
+    "① He studies hard to pass the exam.",
+    "② He studies hard so as to pass the exam.",
+    "③ He studied so hard that he could pass the exam.",
+    "④ He studies hard in order to pass the exam.",
+    "⑤ He studies hard in order that he can pass the exam."
+   ],
+   "kind": "choice",
+   "answer": "③ He studied so hard that he could pass the exam.",
+   "explanation": "③번 보기는 ‘그는 아주 열심히 공부해서 시험 을 통과할 수 있었다.’라는 뜻이다. 나머지 보 기는 모두 ‘그는 시험에 통과하기 위해 열심히 공부했다.’라는 뜻이다."
+  },
+  {
+   "id": "P2-32",
+   "label": "2-32",
+   "passage": null,
+   "prompt": "Which of the following has a different meaning from the others?",
+   "choices": [
+    "① He tries harder so that he can achieve his goal.",
+    "② He tries harder in order that he can achieve his goal.",
+    "③ He tries harder in order to achieve his goal.",
+    "④ He tries so hard that he can achieve his goal.",
+    "⑤ He tries harder so as to achieve his goal."
+   ],
+   "kind": "choice",
+   "answer": "④ He tries so hard that he can achieve his goal.",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P2-33",
+   "label": "2-33",
+   "passage": null,
+   "prompt": "다음 중 의미가 다른 하나는?",
+   "choices": [
+    "① I woke up early not to miss the bus.",
+    "② I woke up early so that I wouldn't miss the bus.",
+    "③ I woke up so early that I didn't miss the bus.",
+    "④ I woke up early so as not to miss the bus.",
+    "⑤ I woke up early in order that I wouldn't miss the bus."
+   ],
+   "kind": "choice",
+   "answer": "③ I woke up so early that I didn't miss the bus.",
+   "explanation": "「so+형용사/부사+that+주어+동사」: 너무 ~해 서 …하다\n① 목적을 나타내는 to부정사의 부사적 용법 : ~하기 위해\n= ② 「so that+주어+동사」\n= ④ 「so as to+동사원형」\n= ⑤ 「in order that+주어+동사」"
+  },
+  {
+   "id": "P2-34",
+   "label": "2-34",
+   "passage": null,
+   "prompt": "다음 중 문장의 의미가 다른 하나는?",
+   "choices": [
+    "① I finished my job quickly so as to go home early.",
+    "② I finished my job quickly to go home early.",
+    "③ I finished my job quickly so that I could go home early.",
+    "④ I finished my job quickly in order that I could go home early.",
+    "⑤ I finished my job quickly because I went home early."
+   ],
+   "kind": "choice",
+   "answer": "⑤ I finished my job quickly because I went home early.",
+   "explanation": "⑤번 보기는 ‘나는 집에 일찍 갔기 때문에 일 을 빨리 끝마쳤다.’라는 의미이며 나머지는 ‘나는 집에 일찍 가기 위해 일을 빨리 끝마쳤 다.’라는 뜻이다."
+  },
+  {
+   "id": "P2-35",
+   "label": "2-35",
+   "passage": null,
+   "prompt": "다음 중 의미가 어색한 하나를 고르면?",
+   "choices": [
+    "① I listen to English radio programs so that I can improve my listening skills.",
+    "② He worked day and night so that he could make enough money to support his family.",
+    "③ Please leave your phone number so that she can't call you back.",
+    "④ We should travel on public transportation so that we can save energy.",
+    "⑤ Miran hurried outside so that she could see her friend leaving."
+   ],
+   "kind": "choice",
+   "answer": "③ Please leave your phone number so that she can't call you back.",
+   "explanation": "can't → can"
+  },
+  {
+   "id": "P2-36",
+   "label": "2-36",
+   "passage": null,
+   "prompt": "Which of the following has a different meaning from the others?",
+   "choices": [
+    "① He practiced hard so that he could learn difficult tricks.",
+    "② He practiced hard in order that he could learn difficult tricks.",
+    "③ He practiced too hard to learn difficult tricks.",
+    "④ He practiced hard so as to learn difficult tricks.",
+    "⑤ He practiced hard to learn difficult tricks."
+   ],
+   "kind": "choice",
+   "answer": "③ He practiced too hard to learn difficult tricks.",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P2-37",
+   "label": "2-37",
+   "passage": "She took a taxi not to be late for work.",
+   "prompt": "다음 중 주어진 문장과 의미가 같은 것은?",
+   "choices": [
+    "① She took a taxi so she was late for work.",
+    "② She took a taxi so that she wouldn't be late for work.",
+    "③ She took a taxi in order that she would be late for work.",
+    "④ She took a taxi so that she is about to be late for work.",
+    "⑤ She took a taxi in order that she was going to be late for work."
+   ],
+   "kind": "choice",
+   "answer": "② She took a taxi so that she wouldn't be late for work.",
+   "explanation": "‘목적’을 나타내고 있으므로 so that구문으로 바꿔 쓸 수 있다."
+  },
+  {
+   "id": "P2-38",
+   "label": "2-38",
+   "passage": "He got up early so as to catch the first bus.",
+   "prompt": "다음 중 주어진 문장과 의미가 같은 것은?",
+   "choices": [
+    "① He got up early, he could catch the first bus.",
+    "② If he got up early, he could catch the first bus.",
+    "③ He got up early so that he could catch the first bus.",
+    "④ He got up so early that he could catch the first bus.",
+    "⑤ Although he got up early, he couldn't catch the first bus."
+   ],
+   "kind": "choice",
+   "answer": "③ He got up early so that he could catch the first bus.",
+   "explanation": "「so as to+동사원형」는 ‘~하기 위해서’라는 뜻으로 「so that+주어+can/could+동사원형」 으로 바꿔 쓸 수 있다."
+  },
+  {
+   "id": "P2-39",
+   "label": "2-39",
+   "passage": "He worked hard to make more money.",
+   "prompt": "다음 중 주어진 문장과 의미가 같은 것은?",
+   "choices": [
+    "① He worked so hard that he could make more money.",
+    "② It was hard for him to make more money.",
+    "③ Though he worked hard, he couldn't make more money.",
+    "④ He worked hard, so he could make more money.",
+    "⑤ He worked hard so that he might make more money."
+   ],
+   "kind": "choice",
+   "answer": "⑤ He worked hard so that he might make more money.",
+   "explanation": "‘그는 더 많은 돈을 벌기 위해서 열심히 일했 다’라는 뜻이다.\n① 그는 열심히 일해서 더 많은 돈을 벌 수 있었다.\n② 그가 더 많은 돈을 벌기란 어려웠다.\n③ 그가 열심히 일했음에도 불구하고, 그는 더 많은 돈을 벌 수 없었다.\n④ 그는 열심히 일했고, 그래서 더 많은 돈을 벌 수 있었다."
+  },
+  {
+   "id": "P2-40",
+   "label": "2-40",
+   "passage": "We saved a lot of money to take a long vacation.",
+   "prompt": "다음 문장의 밑줄 친 부분과 의미가 같은 것은? (정답2개)",
+   "choices": [
+    "① in order to take a long vacation.",
+    "② so as not to take a long vacation.",
+    "③ in order that to take a long vacation.",
+    "④ in order to we can take a long vacation.",
+    "⑤ in order that we could take a long vacation."
+   ],
+   "kind": "choice",
+   "answer": "① in order to take a long vacation. / ⑤ in order that we could take a long vacation.",
+   "explanation": "주어진 문장의 밑줄 친 부분은 목적을 나 타내는 to부정사의 부사적 용법으로 ‘~하 기 위해서’라는 의미이므로 「in order to」나 「in order that」구문으로 나타낼 수 있다."
+  },
+  {
+   "id": "P2-41",
+   "label": "2-41",
+   "passage": "He saved money to buy a bike.",
+   "prompt": "다음 중 주어진 문장과 의미가 다른 것은?",
+   "choices": [
+    "① He saved money so as to buy a bike.",
+    "② He saved money in order to buy a bike.",
+    "③ He saved money so that he could buy a bike.",
+    "④ He saved money in order that he could buy a bike.",
+    "⑤ He saved so much money that he couldn‘t buy a bike."
+   ],
+   "kind": "choice",
+   "answer": "⑤ He saved so much money that he couldn‘t buy a bike.",
+   "explanation": "주어진 문장과 보기들은 모두 ‘그는 자전거를 사기 위해서 돈을 모았다’라는 뜻이지만, ⑤번 보기는 ‘그는 너무 많은 돈을 저축해서 자전 거를 사지 못했다’라는 뜻이다."
+  },
+  {
+   "id": "P2-42",
+   "label": "2-42",
+   "passage": null,
+   "prompt": "Which of the following doesn't have the same meaning?",
+   "choices": [
+    "① She went to the mall to buy a new pair of shoes.",
+    "② She went to the mall in order to buy a new pair of shoes.",
+    "③ She went to the mall so as to buy a new pair of shoes.",
+    "④ She went to the mall so that she could buy a new pair of shoes.",
+    "⑤ She went to the mall, and she bought a new pair of shoes."
+   ],
+   "kind": "choice",
+   "answer": "⑤ She went to the mall, and she bought a new pair of shoes.",
+   "explanation": "⑤는 ‘그녀는 몰에 가서 새 신발을 한 켤레 샀 다.’는 의미이나 나머지는 ‘그녀는 새 신발 한 켤레를 사기 위해 몰에 갔다.’는 의미이다."
+  },
+  {
+   "id": "P2-43",
+   "label": "2-43",
+   "passage": null,
+   "prompt": "다음 두 문장의 의미가 같도록 바꿔 쓸 때 적절하 지 않은 것은?",
+   "choices": [
+    "① I hurried so that I would not be late for the meeting.\n= I hurried so as not to be late for the meeting.",
+    "② She exercised regularly in order to be healthy.\n= She exercised regularly so that she could be healthy.",
+    "③ I tried hard so that I could pass the exam.\n= I tried hard to pass the exam.",
+    "④ Rachel studies hard so that she can get a scholarship.\n= Rachel studies hard so as to get a scholarship.",
+    "⑤ I left early to avoid the rush hour.\n= I left early, so I could avoid the rush hour."
+   ],
+   "kind": "choice",
+   "answer": "⑤ I left early to avoid the rush hour.\n= I left early, so I could avoid the rush hour.",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P2-44",
+   "label": "2-44",
+   "passage": null,
+   "prompt": "Choose the pair of sentences that does NOT have the same meaning.",
+   "choices": [
+    "① Turn on the flashlight so that we may walk through the tunnel.\n= Turn on the flashlight so as for us to walk through the tunnel.",
+    "② He could win the prize in the contest because he tried so hard.\n= He tried so hard that he could win the prize in the contest",
+    "③ Fasten your seat belt so that you may not get hurt.\n= Fasten your seat belt to get hurt.",
+    "④ I swim every day in order to stay healthy.\n= I swim every day so that I can stay healthy.",
+    "⑤ I studied really hard in order to pass the exam.\n= I studied really hard so that I could pass the exam."
+   ],
+   "kind": "choice",
+   "answer": "③ Fasten your seat belt so that you may not get hurt.\n= Fasten your seat belt to get hurt.",
+   "explanation": "to get hurt → not to get hurt"
+  },
+  {
+   "id": "P2-45",
+   "label": "2-45",
+   "passage": null,
+   "prompt": "다음 중 두 문장의 의미가 서로 다른 것은?",
+   "choices": [
+    "① He turned down the radio so that I could get to sleep.\n= He turned down the radio in order to get to sleep.",
+    "② Jim turned on TV so that he could watch the news.\n= Jim turned on TV in order to watch the news.",
+    "③ He goes to bed early so that he can get plenty of sleep.\n= He goes to bed early to get plenty of sleep.",
+    "④ Brain practiced dancing hard so that he could be a good dancer.\n= Brian practiced dancing hard so as to be a good dancer.",
+    "⑤ I took my umbrella so that I could share it with you.\n= I took my umbrella so as to share it with you."
+   ],
+   "kind": "choice",
+   "answer": "① He turned down the radio so that I could get to sleep.\n= He turned down the radio in order to get to sleep.",
+   "explanation": "• He turned down the radio so that I could get to sleep.(그는 내가 잘 수 있도록 라디오 를 줄여줬다.)\n• He turned down the radio in order to get to sleep.(그는 자기 위해서 라디오를 줄였다.)"
+  },
+  {
+   "id": "P2-46",
+   "label": "2-46",
+   "passage": null,
+   "prompt": "다음 문장의 어법 및 의미가 자연스러운 것은?",
+   "choices": [
+    "① Eunyoung set the alarm for six not in order to oversleep.",
+    "② Many parents ask their children not to hang out with bad friends.",
+    "③ Take off your wet clothes so as to catch a cold.",
+    "④ Handong studied so hard in order to fail the test.",
+    "⑤ Nuri told lies so as to not hurt my feeling."
+   ],
+   "kind": "choice",
+   "answer": "② Many parents ask their children not to hang out with bad friends.",
+   "explanation": "① not in order to → in order not to\n③ so as to → so as not to\n④ in order to → in order not to\n⑤ so as to not → so as not to"
+  },
+  {
+   "id": "P2-47",
+   "label": "2-47",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?",
+   "choices": [
+    "① Please move to one side so that we can all see.",
+    "② Turn the fish carefully so as to it won't burn.",
+    "③ I drink a lot of coffee so that I can concentrate on my work.",
+    "④ He exercises every day in order that he can stay healthy.",
+    "⑤ Please speak louder so that all of us can hear you."
+   ],
+   "kind": "choice",
+   "answer": "② Turn the fish carefully so as to it won't burn.",
+   "explanation": "so as to → so that[in order that]"
+  },
+  {
+   "id": "P2-48",
+   "label": "2-48",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장을 고르면?",
+   "choices": [
+    "① Watch out so as not to falling.",
+    "② I study English so as to travel abroad.",
+    "③ I practiced hard so as to win the game.",
+    "④ I got up early so as not to miss the train.",
+    "⑤ I went to the market so as to buy some groceries."
+   ],
+   "kind": "choice",
+   "answer": "① Watch out so as not to falling.",
+   "explanation": "falling → fall"
+  },
+  {
+   "id": "P2-49",
+   "label": "2-49",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?",
+   "choices": [
+    "① She studied hard to get 'A' in English.",
+    "② They work together for the championship.",
+    "③ I came early so that I could get a better seat.",
+    "④ I did the dishes so that my mom could get rest.",
+    "⑤ He ran to the bus stop in order to he could catch."
+   ],
+   "kind": "choice",
+   "answer": "⑤ He ran to the bus stop in order to he could catch.",
+   "explanation": "in order to → in order that[so that]"
+  },
+  {
+   "id": "P2-50",
+   "label": "2-50",
+   "passage": null,
+   "prompt": "다음 중 어법상 어색한 문장은?(정답2개)",
+   "choices": [
+    "① I woke up early so that I will not be late.",
+    "② He was so wisdom that he was able to solve it.",
+    "③ I took a taxi so that I could get there on time.",
+    "④ I've saved money for the last 10 months to buy a computer.",
+    "⑤ I took my umbrella for my mother."
+   ],
+   "kind": "choice",
+   "answer": "① I woke up early so that I will not be late. / ② He was so wisdom that he was able to solve it.",
+   "explanation": "① I woke up early so that I would not be late.가 올바른 문장이다.\n② He was so wise that he was able to solve it.이 올바른 문장이다."
+  },
+  {
+   "id": "P2-51",
+   "label": "2-51",
+   "passage": "(A) She is so wise that everyone respects her.\n(B) He tried his best so that he can win the race.\n(C) Speak too clearly that they can understand you.\n(D) She was very careful so that she wouldn't drop the egg.\n(E) We saved lots of money that we could take a long vacation.",
+   "prompt": "다음 중 어법상 옳은 문장끼리 바르게 짝지어진 것은?",
+   "choices": [
+    "① (A), (B)",
+    "② (A), (D)",
+    "③ (C), (E)",
+    "④ (A), (C), (D)",
+    "⑤ (B), (D), (E)"
+   ],
+   "kind": "choice",
+   "answer": "② (A), (D)",
+   "explanation": "(B) 주절의 시제가 과거이므로 종속절의 시제 도 과거형인 could로 써야 한다. (C) too는 so로 고쳐야 한다. (E) that 앞에 so를 써줘야 한다."
+  },
+  {
+   "id": "P2-52",
+   "label": "2-52",
+   "passage": "A. He was so wisdom that he was able to solve it.\nB. I drove fast so that he can get there in time.\nC. The kids practiced hard so as to win the game.\nD. I walked to school so that I could save money.\nE. Jack skipped the dinner in order that fit in the new jeans.\nF. She's staying in the US so that she can improve her English.",
+   "prompt": "다음 중 어법상 옳은 문장끼리 바르게 짝지어진 것은?",
+   "choices": [
+    "① A, C",
+    "② A, C, F",
+    "③ B, C, E",
+    "④ C, D, F",
+    "⑤ D, E, F"
+   ],
+   "kind": "choice",
+   "answer": "④ C, D, F",
+   "explanation": "(원문 정답지에 별도 해설 없음)"
+  },
+  {
+   "id": "P2-53",
+   "label": "2-53",
+   "passage": "<조건>\n1. (가), (나)에 주어진 문장은 한 번씩만 사용할 것\n2. 'so that'을 사용할 것\n\n(가)  ⓐ I started to practice dancing.   ⓑ Andy went to bed early.   ⓒ Jenny ran hard.\n(나)  ⓓ He could wake up early.   ⓔ I could see him last year.   ⓕ I could join the dance club.",
+   "prompt": "다음 (가), (나)에서 문장을 하나씩 골라 <조건>에 맞게 자연스러운 문장을 만들고자 한다. 연결되지 않고 남는 것끼리 묶인 것은?",
+   "choices": [
+    "① ⓐ, ⓓ",
+    "② ⓐ, ⓔ",
+    "③ ⓑ, ⓕ",
+    "④ ⓒ, ⓓ",
+    "⑤ ⓒ, ⓔ"
+   ],
+   "kind": "choice",
+   "answer": "⑤ ⓒ, ⓔ",
+   "explanation": "ⓐ-ⓕ I started to practice dancing so that I could join the dance club.\nⓑ-ⓓ Andy went to bed early so that he could wake up early."
+  }
+ ]
+}
