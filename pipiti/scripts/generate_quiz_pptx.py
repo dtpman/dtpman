@@ -262,6 +262,10 @@ def build_item_slide(prs, item, index, total):
         expl_h_in = -0.12
         ans_h_in = 1.1
         expl_top = bottom - expl_h_in
+    kr_lines = [x for x in (item.get("kr") or "").split("\n") if x.strip()]
+    kr_pt = 15
+    if kr_lines:  # 해석 줄만큼 정답 배너를 키운다
+        ans_h_in += sum(estimate_lines(plain(l), kr_pt, full_w_in - 0.4) for l in kr_lines) * kr_pt * line_gap / 72.0 + 0.12
     ans_top = expl_top - 0.12 - ans_h_in
     divider_y = ans_top - 0.15
 
@@ -439,6 +443,9 @@ def build_item_slide(prs, item, index, total):
     ans_font = 20 if n < 60 else (16 if n < 95 else 13)
     p = atf.paragraphs[0]
     set_paragraph(p, f"정답:  {ans_text}", ans_font, ANSWER_TXT, bold=True, align=PP_ALIGN.CENTER)
+    for kl in kr_lines:  # 해석
+        kp = atf.add_paragraph()
+        set_paragraph(kp, kl, kr_pt, NAVY, bold=False, align=PP_ALIGN.CENTER)
 
     # ---- 해설 패널 (클릭 2) ----
     expl_box = rounded_box(slide, margin, Inches(expl_top), content_w, Inches(expl_h_in), EXPL_BG, EXPL_BORDER)
