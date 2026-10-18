@@ -1,0 +1,1239 @@
+[
+ {
+  "slide": 1,
+  "cover": true
+ },
+ {
+  "slide": 2,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 3,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 4,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 5,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 6,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 7,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 8,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 9,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 10,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 17,
+  "expl_pt": 15
+ },
+ {
+  "slide": 11,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 19,
+  "expl_pt": 15
+ },
+ {
+  "slide": 12,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 13,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 14,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 15,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 19,
+  "expl_pt": 15
+ },
+ {
+  "slide": 16,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 17,
+  "expl_pt": 15
+ },
+ {
+  "slide": 17,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 18,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 19,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 18,
+  "expl_pt": 15
+ },
+ {
+  "slide": 20,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 21,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 19,
+  "expl_pt": 15
+ },
+ {
+  "slide": 22,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 23,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 24,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 15,
+  "expl_pt": 15
+ },
+ {
+  "slide": 25,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 26,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 27,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 19,
+  "expl_pt": 15
+ },
+ {
+  "slide": 28,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 29,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 30,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 31,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 32,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 33,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 34,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 35,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 36,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 37,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 18,
+  "expl_pt": 15
+ },
+ {
+  "slide": 38,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 39,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 40,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 41,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 42,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 43,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 44,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 45,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 46,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 14,
+  "expl_pt": 15
+ },
+ {
+  "slide": 47,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 48,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 49,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 50,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 51,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 18,
+  "expl_pt": 15
+ },
+ {
+  "slide": 52,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 15,
+  "expl_pt": 15
+ },
+ {
+  "slide": 53,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 16,
+  "expl_pt": 11
+ },
+ {
+  "slide": 54,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 16,
+  "expl_pt": 15
+ },
+ {
+  "slide": 55,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 16,
+  "expl_pt": 14
+ },
+ {
+  "slide": 56,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 16,
+  "expl_pt": 11
+ },
+ {
+  "slide": 57,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 16,
+  "expl_pt": 15
+ },
+ {
+  "slide": 58,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 14,
+  "expl_pt": 13
+ },
+ {
+  "slide": 59,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 16,
+  "expl_pt": 14
+ },
+ {
+  "slide": 60,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 16,
+  "expl_pt": 15
+ },
+ {
+  "slide": 61,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 19,
+  "expl_pt": 15
+ },
+ {
+  "slide": 62,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 63,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 64,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 65,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 66,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 12
+ },
+ {
+  "slide": 67,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 14
+ },
+ {
+  "slide": 68,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 14
+ },
+ {
+  "slide": 69,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 70,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 14
+ },
+ {
+  "slide": 71,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 72,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 14
+ },
+ {
+  "slide": 73,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 14
+ },
+ {
+  "slide": 74,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 17,
+  "expl_pt": 11
+ },
+ {
+  "slide": 75,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 76,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 14
+ },
+ {
+  "slide": 77,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 78,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 79,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 11
+ },
+ {
+  "slide": 80,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 81,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 14
+ },
+ {
+  "slide": 82,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 16,
+  "expl_pt": 10
+ },
+ {
+  "slide": 83,
+  "divider": 4.515833333333332,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.535833333333333,
+  "font": 14,
+  "expl_pt": 11
+ },
+ {
+  "slide": 84,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 17,
+  "expl_pt": 15
+ },
+ {
+  "slide": 85,
+  "divider": 4.543611111111111,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.563611111111111,
+  "font": 12,
+  "expl_pt": 11
+ },
+ {
+  "slide": 86,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 87,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 88,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 89,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 90,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 91,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 18,
+  "expl_pt": 15
+ },
+ {
+  "slide": 92,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 93,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 94,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 95,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 96,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 97,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 98,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 99,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 100,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 101,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 102,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 103,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 104,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 105,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 106,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 107,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 108,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 109,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 110,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 15,
+  "expl_pt": 15
+ },
+ {
+  "slide": 111,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 14,
+  "expl_pt": 15
+ },
+ {
+  "slide": 112,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 18,
+  "expl_pt": 15
+ },
+ {
+  "slide": 113,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 114,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 115,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 116,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 117,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 118,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 10
+ },
+ {
+  "slide": 119,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 120,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 19,
+  "expl_pt": 15
+ },
+ {
+  "slide": 121,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 122,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 123,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 124,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 10
+ },
+ {
+  "slide": 125,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 126,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 127,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 128,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 16,
+  "expl_pt": 15
+ },
+ {
+  "slide": 129,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 16,
+  "expl_pt": 15
+ },
+ {
+  "slide": 130,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 16,
+  "expl_pt": 14
+ },
+ {
+  "slide": 131,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 14
+ },
+ {
+  "slide": 132,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 133,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 134,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 135,
+  "divider": 4.929999999999999,
+  "split": false,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 20,
+  "expl_pt": 15
+ },
+ {
+  "slide": 136,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 19,
+  "expl_pt": 15
+ },
+ {
+  "slide": 137,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 17,
+  "expl_pt": 15
+ },
+ {
+  "slide": 138,
+  "divider": 4.929999999999999,
+  "split": true,
+  "content_top": 0.95,
+  "expl_top": 5.949999999999999,
+  "font": 18,
+  "expl_pt": 15
+ }
+]
