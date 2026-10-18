@@ -12,7 +12,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was solved",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 수학 문제는 그 학생에 의해 풀렸다."
   },
   {
    "id": "1-01-02",
@@ -24,7 +25,8 @@
    "choices": null,
    "kind": "text",
    "answer": "ordered",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 치즈버거를 주문했다."
   },
   {
    "id": "1-01-03",
@@ -36,7 +38,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Did, develop",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 회사는 새 메뉴를 개발했나요?"
   },
   {
    "id": "1-01-04",
@@ -48,7 +51,8 @@
    "choices": null,
    "kind": "text",
    "answer": "wasn't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 선물은 Sam이 만든 것이 아니다."
   },
   {
    "id": "1-01-05",
@@ -60,7 +64,8 @@
    "choices": null,
    "kind": "text",
    "answer": "him",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 라디오는 그에 의해 발명되었다."
   },
   {
    "id": "1-01-06",
@@ -72,7 +77,8 @@
    "choices": null,
    "kind": "text",
    "answer": "ate",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 어제 그의 초콜릿 쿠키를 먹었다."
   },
   {
    "id": "1-01-07",
@@ -84,7 +90,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was produced by",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 영화는 Lee에 의해 제작되었다."
   },
   {
    "id": "1-01-08",
@@ -96,7 +103,8 @@
    "choices": null,
    "kind": "text",
    "answer": "became",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Billy는 유명한 가수가 되었다."
   },
   {
    "id": "1-01-09",
@@ -108,7 +116,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was built",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 건물은 17세기에 지어졌다."
   },
   {
    "id": "1-01-10",
@@ -120,7 +129,8 @@
    "choices": null,
    "kind": "text",
    "answer": "were destroyed by",
-   "explanation": ""
+   "explanation": "",
+   "kr": "많은 집이 2011년 지진으로 파괴되었다."
   },
   {
    "id": "1-01-11",
@@ -132,7 +142,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was taken",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 삼촌에 의해 동물원에 데려가졌다."
   },
   {
    "id": "1-01-12",
@@ -144,7 +155,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was written",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 편지는 Mary에 의해 쓰여졌다."
   },
   {
    "id": "1-01-13",
@@ -156,7 +168,8 @@
    "choices": null,
    "kind": "text",
    "answer": "died",
-   "explanation": ""
+   "explanation": "",
+   "kr": "많은 펭귄이 추위로 죽었다."
   },
   {
    "id": "1-01-14",
@@ -168,7 +181,8 @@
    "choices": null,
    "kind": "text",
    "answer": "me",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 방은 나에 의해 청소되었다."
   },
   {
    "id": "1-01-15",
@@ -180,7 +194,8 @@
    "choices": null,
    "kind": "text",
    "answer": "are hunted",
-   "explanation": ""
+   "explanation": "",
+   "kr": "새들은 때때로 다른 동물들에게 사냥당한다."
   },
   {
    "id": "1-01-16",
@@ -192,7 +207,8 @@
    "choices": null,
    "kind": "text",
    "answer": "appeared",
-   "explanation": ""
+   "explanation": "",
+   "kr": "최초의 지폐는 서기 10세기경 중국에서 나타났다."
   },
   {
    "id": "1-01-17",
@@ -204,7 +220,8 @@
    "choices": null,
    "kind": "text",
    "answer": "moved",
-   "explanation": ""
+   "explanation": "",
+   "kr": "사람들은 그 이야기에 깊이 감동받았다."
   },
   {
    "id": "1-01-18",
@@ -216,7 +233,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was almost hit",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 집에 가는 길에 차에 치일 뻔했다."
   },
   {
    "id": "1-01-19",
@@ -228,7 +246,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was destroyed",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그들의 배는 폭풍에 의해 파괴되었다."
   },
   {
    "id": "1-01-20",
@@ -240,7 +259,8 @@
    "choices": null,
    "kind": "text",
    "answer": "existed",
-   "explanation": ""
+   "explanation": "",
+   "kr": "공룡은 수백만 년 전에 존재했다."
   },
   {
    "id": "1-01-21",
@@ -252,7 +272,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was broken",
-   "explanation": ""
+   "explanation": "",
+   "kr": "갑자기 그의 창문이 눈덩이에 의해 깨졌다."
   },
   {
    "id": "1-01-22",
@@ -264,7 +285,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was destroyed",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 오래된 도서관은 전쟁으로 파괴되었다."
   },
   {
    "id": "1-01-23",
@@ -276,7 +298,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Is",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우리 반 칠판은 그녀가 자주 청소하니?"
   },
   {
    "id": "1-01-24",
@@ -288,7 +311,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is not",
-   "explanation": ""
+   "explanation": "",
+   "kr": "일찍 일어나는 벌레는 일찍 일어나는 새에게 먹히지 않는다."
   },
   {
    "id": "1-01-25",
@@ -300,7 +324,8 @@
    "choices": null,
    "kind": "text",
    "answer": "be delivered",
-   "explanation": ""
+   "explanation": "",
+   "kr": "햄버거도 한국에서 배달될 수 있다."
   },
   {
    "id": "1-01-26",
@@ -312,7 +337,8 @@
    "choices": null,
    "kind": "text",
    "answer": "built",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 4층짜리 집은 언제 지어졌나요?"
   },
   {
    "id": "1-01-27",
@@ -324,7 +350,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Do, spend",
-   "explanation": ""
+   "explanation": "",
+   "kr": "너는 용돈을 현명하고 신중하게 쓰니?"
   },
   {
    "id": "1-01-28",
@@ -336,7 +363,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Were, invited",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 집에 있던 모든 사람이 저녁 식사에 초대되었나요?"
   },
   {
    "id": "1-01-29",
@@ -348,7 +376,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was stopped",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Tom은 거리에서 경찰관에게 제지당했다."
   },
   {
    "id": "1-01-30",
@@ -360,7 +389,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was invented",
-   "explanation": ""
+   "explanation": "",
+   "kr": "전구는 1880년대에 발명되었다."
   },
   {
    "id": "1-01-31",
@@ -372,7 +402,8 @@
    "choices": null,
    "kind": "text",
    "answer": "by",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 그림들은 피카소에 의해 그려졌다."
   },
   {
    "id": "1-01-32",
@@ -384,7 +415,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was built",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 병원은 1999년에 지어졌다."
   },
   {
    "id": "1-01-33",
@@ -396,7 +428,8 @@
    "choices": null,
    "kind": "text",
    "answer": "hold",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그들은 매년 올림픽 경기를 개최한다."
   },
   {
    "id": "1-01-34",
@@ -408,7 +441,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was published",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 책은 2010년에 출판되었다."
   },
   {
    "id": "1-01-35",
@@ -420,7 +454,8 @@
    "choices": null,
    "kind": "text",
    "answer": "bought",
-   "explanation": ""
+   "explanation": "",
+   "kr": "아버지가 나에게 CD를 사 주셨다."
   },
   {
    "id": "1-01-36",
@@ -432,7 +467,8 @@
    "choices": null,
    "kind": "text",
    "answer": "like",
-   "explanation": ""
+   "explanation": "",
+   "kr": "내 아이들은 파스타를 좋아한다."
   },
   {
    "id": "1-01-37",
@@ -444,7 +480,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was helped",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 어제 도움을 받았다."
   },
   {
    "id": "1-01-38",
@@ -456,7 +493,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is bought",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우유는 매일 구입된다."
   },
   {
    "id": "1-01-39",
@@ -468,7 +506,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was sent",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Nick은 어제 도서관에 보내졌다."
   },
   {
    "id": "1-01-40",
@@ -480,7 +519,8 @@
    "choices": null,
    "kind": "text",
    "answer": "will be given",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Liz는 내일 새 장난감을 받게 될 것이다."
   },
   {
    "id": "1-01-41",
@@ -492,7 +532,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was published",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 이야기는 2년 전에 출판되었다."
   },
   {
    "id": "1-02-01",
@@ -504,7 +545,8 @@
    "choices": null,
    "kind": "text",
    "answer": "by a thief",
-   "explanation": ""
+   "explanation": "",
+   "kr": "내 보석은 도둑에게 도난당했다!"
   },
   {
    "id": "1-02-02",
@@ -516,7 +558,8 @@
    "choices": null,
    "kind": "text",
    "answer": "X",
-   "explanation": ""
+   "explanation": "",
+   "kr": "소설 '1984'는 George Orwell이 썼다."
   },
   {
    "id": "1-02-03",
@@ -528,7 +571,8 @@
    "choices": null,
    "kind": "text",
    "answer": "by someone",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Judy는 줄에서 누군가에 의해 넘어뜨려졌다."
   },
   {
    "id": "1-02-04",
@@ -540,7 +584,8 @@
    "choices": null,
    "kind": "text",
    "answer": "by people",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 축제는 보통 사람들에 의해 매년 열린다."
   },
   {
    "id": "1-02-05",
@@ -552,7 +597,8 @@
    "choices": null,
    "kind": "text",
    "answer": "X",
-   "explanation": ""
+   "explanation": "",
+   "kr": "어느 날 Peter는 과학 실험에서 나온 거미에게 물린다."
   },
   {
    "id": "1-02-06",
@@ -564,7 +610,8 @@
    "choices": null,
    "kind": "text",
    "answer": "by us",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우리 반의 누구든 우리에게 환영받는다!"
   },
   {
    "id": "1-02-07",
@@ -576,7 +623,8 @@
    "choices": null,
    "kind": "text",
    "answer": "by post",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 편지는 지난달 21일에 우편으로 보내졌다."
   },
   {
    "id": "1-02-08",
@@ -588,7 +636,8 @@
    "choices": null,
    "kind": "text",
    "answer": "X",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우리는 훌륭한 선생님에게 독일어를 배웠다."
   },
   {
    "id": "1-02-09",
@@ -600,7 +649,8 @@
    "choices": null,
    "kind": "text",
    "answer": "by cleaners",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 방은 매일 청소부들이 청소하나요?"
   },
   {
    "id": "1-02-10",
@@ -612,7 +662,8 @@
    "choices": null,
    "kind": "text",
    "answer": "X",
-   "explanation": ""
+   "explanation": "",
+   "kr": "많은 사람이 그 소식에 충격을 받았다."
   },
   {
    "id": "1-02-11",
@@ -624,7 +675,8 @@
    "choices": null,
    "kind": "text",
    "answer": "by people",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 사람들에게 베토벤이라고 불린다."
   },
   {
    "id": "1-02-12",
@@ -636,7 +688,8 @@
    "choices": null,
    "kind": "text",
    "answer": "X",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 초상화는 무명 화가가 그렸다."
   },
   {
    "id": "1-02-13",
@@ -648,7 +701,8 @@
    "choices": null,
    "kind": "text",
    "answer": "by him",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그의 감정은 그림 속에서 그에 의해 강하게 표현되었다."
   },
   {
    "id": "1-02-14",
@@ -660,7 +714,8 @@
    "choices": null,
    "kind": "text",
    "answer": "X",
-   "explanation": ""
+   "explanation": "",
+   "kr": "케네디 대통령은 Lee Harvey Oswald에게 살해당했다."
   },
   {
    "id": "1-02-15",
@@ -672,7 +727,8 @@
    "choices": null,
    "kind": "text",
    "answer": "by someone",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 누군가에게서 내 여동생이 여기 있다는 말을 들었다."
   },
   {
    "id": "1-02-16",
@@ -684,7 +740,8 @@
    "choices": null,
    "kind": "text",
    "answer": "by the selectors",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Anne은 선발 위원들에 의해 국가 행사에 뽑혔다."
   },
   {
    "id": "1-03-01",
@@ -696,7 +753,8 @@
    "choices": null,
    "kind": "text",
    "answer": "brought",
-   "explanation": ""
+   "explanation": "",
+   "kr": "많은 장미가 그녀에게 가져다졌다."
   },
   {
    "id": "1-03-02",
@@ -708,7 +766,8 @@
    "choices": null,
    "kind": "text",
    "answer": "be built",
-   "explanation": ""
+   "explanation": "",
+   "kr": "내년에 새 건물이 지어질 것이다."
   },
   {
    "id": "1-03-03",
@@ -720,7 +779,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is spoken",
-   "explanation": ""
+   "explanation": "",
+   "kr": "영어는 전 세계에서 사용된다."
   },
   {
    "id": "1-03-04",
@@ -732,7 +792,8 @@
    "choices": null,
    "kind": "text",
    "answer": "be found",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 책은 도서관에서 발견되지 않을 것이다."
   },
   {
    "id": "1-03-05",
@@ -744,7 +805,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was written",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 편지는 어제 쓰여졌다."
   },
   {
    "id": "1-03-06",
@@ -756,7 +818,8 @@
    "choices": null,
    "kind": "text",
    "answer": "were thrown",
-   "explanation": ""
+   "explanation": "",
+   "kr": "오래된 신문들은 어제 버려졌다."
   },
   {
    "id": "1-03-07",
@@ -768,7 +831,8 @@
    "choices": null,
    "kind": "text",
    "answer": "be done",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 일은 곧 그에 의해 끝날 것이다."
   },
   {
    "id": "1-03-08",
@@ -780,7 +844,8 @@
    "choices": null,
    "kind": "text",
    "answer": "can be seen",
-   "explanation": ""
+   "explanation": "",
+   "kr": "한강은 우리 집 모든 방에서 보일 수 있다."
   },
   {
    "id": "1-03-09",
@@ -792,7 +857,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is cleaned",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 방은 매일 청소된다."
   },
   {
    "id": "1-03-10",
@@ -804,7 +870,8 @@
    "choices": null,
    "kind": "text",
    "answer": "cleaned",
-   "explanation": ""
+   "explanation": "",
+   "kr": "누군가 어제 그 방을 청소했다."
   },
   {
    "id": "1-03-11",
@@ -816,7 +883,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is made",
-   "explanation": ""
+   "explanation": "",
+   "kr": "버터는 우유로 만들어진다."
   },
   {
    "id": "1-03-12",
@@ -828,7 +896,8 @@
    "choices": null,
    "kind": "text",
    "answer": "are imported",
-   "explanation": ""
+   "explanation": "",
+   "kr": "오렌지는 캐나다로 수입된다."
   },
   {
    "id": "1-03-13",
@@ -840,7 +909,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was built",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 집은 100년 전에 지어졌다."
   },
   {
    "id": "1-03-14",
@@ -852,7 +922,8 @@
    "choices": null,
    "kind": "text",
    "answer": "were built",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 집들은 100년 전에 지어졌다."
   },
   {
    "id": "1-03-15",
@@ -864,7 +935,8 @@
    "choices": null,
    "kind": "text",
    "answer": "were injured",
-   "explanation": ""
+   "explanation": "",
+   "kr": "어제 그 사고로 여섯 명이 다쳤다."
   },
   {
    "id": "1-03-16",
@@ -876,7 +948,8 @@
    "choices": null,
    "kind": "text",
    "answer": "were woken",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우리는 어젯밤 소음 때문에 깼다."
   },
   {
    "id": "1-03-17",
@@ -888,7 +961,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was bitten",
-   "explanation": ""
+   "explanation": "",
+   "kr": "내 남동생은 지난주에 개에게 물렸다."
   },
   {
    "id": "1-03-18",
@@ -900,7 +974,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is used",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 기계는 매우 자주 사용된다."
   },
   {
    "id": "1-03-19",
@@ -912,7 +987,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was broken",
-   "explanation": ""
+   "explanation": "",
+   "kr": "어젯밤 누군가에 의해 창문이 깨졌다."
   },
   {
    "id": "1-03-20",
@@ -924,7 +1000,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was sent",
-   "explanation": ""
+   "explanation": "",
+   "kr": "마지막 이메일은 잘못된 주소로 보내졌다."
   },
   {
    "id": "1-03-21",
@@ -936,7 +1013,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is made",
-   "explanation": ""
+   "explanation": "",
+   "kr": "종이는 나무로 만들어진다."
   },
   {
    "id": "1-03-22",
@@ -948,7 +1026,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was stolen",
-   "explanation": ""
+   "explanation": "",
+   "kr": "내 차는 지난주에 도난당했다."
   },
   {
    "id": "1-03-23",
@@ -960,7 +1039,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was invented",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 기계는 1948년에 발명되었다."
   },
   {
    "id": "1-03-24",
@@ -972,7 +1052,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was born",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Tony는 로마에서 태어났다."
   },
   {
    "id": "1-03-25",
@@ -984,7 +1065,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is spoken",
-   "explanation": ""
+   "explanation": "",
+   "kr": "독일어는 많은 유럽인에 의해 사용된다."
   },
   {
    "id": "1-03-26",
@@ -996,7 +1078,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was found",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 개는 어젯밤 주인에게 발견되었다."
   },
   {
    "id": "1-03-27",
@@ -1008,7 +1091,8 @@
    "choices": null,
    "kind": "text",
    "answer": "invited",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Judy는 오늘 친구들을 저녁 식사에 초대했다."
   },
   {
    "id": "1-03-28",
@@ -1020,7 +1104,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was built",
-   "explanation": ""
+   "explanation": "",
+   "kr": "런던 탑은 11세기 초에 지어졌다."
   },
   {
    "id": "1-03-29",
@@ -1032,7 +1117,8 @@
    "choices": null,
    "kind": "text",
    "answer": "were invited",
-   "explanation": ""
+   "explanation": "",
+   "kr": "어제 저녁 많은 사람이 파티에 초대되었다."
   },
   {
    "id": "1-03-30",
@@ -1044,7 +1130,8 @@
    "choices": null,
    "kind": "text",
    "answer": "stolen",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 그림은 어제 도난당했다."
   },
   {
    "id": "1-03-31",
@@ -1056,7 +1143,8 @@
    "choices": null,
    "kind": "text",
    "answer": "sung",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 노래는 1995년에 David Smith가 불렀다."
   },
   {
    "id": "1-03-32",
@@ -1068,7 +1156,8 @@
    "choices": null,
    "kind": "text",
    "answer": "broken",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 의자는 내 남동생에 의해 부서졌다."
   },
   {
    "id": "1-03-33",
@@ -1080,7 +1169,8 @@
    "choices": null,
    "kind": "text",
    "answer": "caught",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 코끼리들은 사람들에게 잡혔다."
   },
   {
    "id": "1-03-34",
@@ -1092,7 +1182,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was bitten",
-   "explanation": ""
+   "explanation": "",
+   "kr": "어린아이가 어젯밤 우리 개에게 물렸다."
   },
   {
    "id": "1-03-35",
@@ -1104,7 +1195,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was not invented",
-   "explanation": ""
+   "explanation": "",
+   "kr": "달력은 Anthony가 발명한 것이 아니다."
   },
   {
    "id": "1-03-36",
@@ -1116,7 +1208,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was used",
-   "explanation": ""
+   "explanation": "",
+   "kr": "지폐는 13세기에 중국에서 사용되었다."
   },
   {
    "id": "1-04-01",
@@ -1128,7 +1221,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was kicked",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 공은 그 소년에 의해 차였다."
   },
   {
    "id": "1-04-02",
@@ -1140,7 +1234,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was painted by",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 그림은 우리 아버지에 의해 그려졌다."
   },
   {
    "id": "1-04-03",
@@ -1152,7 +1247,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is kept by",
-   "explanation": ""
+   "explanation": "",
+   "kr": "흰 개 한 마리가 그 노인에게 길러진다."
   },
   {
    "id": "1-04-04",
@@ -1164,7 +1260,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was opened by her",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 문은 그녀에 의해 열렸다."
   },
   {
    "id": "1-04-05",
@@ -1176,7 +1273,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was stopped by",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 차는 경찰관에 의해 제지되었다."
   },
   {
    "id": "1-04-06",
@@ -1188,7 +1286,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is liked",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 모두에게 사랑받는다."
   },
   {
    "id": "1-04-07",
@@ -1200,7 +1299,8 @@
    "choices": null,
    "kind": "text",
    "answer": "were eaten",
-   "explanation": ""
+   "explanation": "",
+   "kr": "모든 바나나가 그에 의해 먹혔다."
   },
   {
    "id": "1-04-08",
@@ -1212,7 +1312,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was painted",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 벽은 우리 어머니에 의해 칠해졌다."
   },
   {
    "id": "1-04-09",
@@ -1224,7 +1325,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was made by",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 책상은 그에 의해 만들어졌다."
   },
   {
    "id": "1-04-10",
@@ -1236,7 +1338,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The room is cleaned",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 방은 매일 청소된다."
   },
   {
    "id": "1-04-11",
@@ -1248,7 +1351,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was drawn by him",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 그림은 그에 의해 그려졌다."
   },
   {
    "id": "1-04-12",
@@ -1260,7 +1364,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was opened by Mike",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 문은 Mike에 의해 열렸다."
   },
   {
    "id": "1-04-13",
@@ -1272,7 +1377,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was made by King Sejong",
-   "explanation": ""
+   "explanation": "",
+   "kr": "한글은 세종대왕에 의해 만들어졌다."
   },
   {
    "id": "1-04-14",
@@ -1284,7 +1390,8 @@
    "choices": null,
    "kind": "text",
    "answer": "were baked by my sister",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 쿠키는 내 여동생이 구웠다."
   },
   {
    "id": "1-04-15",
@@ -1296,7 +1403,8 @@
    "choices": null,
    "kind": "text",
    "answer": "My dog is fed",
-   "explanation": ""
+   "explanation": "",
+   "kr": "내 개는 매일 나에게 먹이를 받는다."
   },
   {
    "id": "1-04-16",
@@ -1308,7 +1416,8 @@
    "choices": null,
    "kind": "text",
    "answer": "are sold online",
-   "explanation": ""
+   "explanation": "",
+   "kr": "요즘 신발은 온라인으로 팔린다."
   },
   {
    "id": "1-04-17",
@@ -1320,7 +1429,8 @@
    "choices": null,
    "kind": "text",
    "answer": "am interested in",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 인도 미술에 관심이 있다."
   },
   {
    "id": "1-04-18",
@@ -1332,7 +1442,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was covered with[by] snow",
-   "explanation": ""
+   "explanation": "",
+   "kr": "산꼭대기는 눈으로 덮여 있었다."
   },
   {
    "id": "1-04-19",
@@ -1344,7 +1455,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was bought",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 시계는 우리 아버지가 나에게 사 주셨다."
   },
   {
    "id": "1-04-20",
@@ -1356,7 +1468,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was found",
-   "explanation": ""
+   "explanation": "",
+   "kr": "실종된 아이는 프랑스인 가족에게 발견되었다."
   },
   {
    "id": "1-04-21",
@@ -1368,7 +1481,8 @@
    "choices": null,
    "kind": "text",
    "answer": "were taken by",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 사진들은 파티에서 민호가 찍었다."
   },
   {
    "id": "1-04-22",
@@ -1380,7 +1494,8 @@
    "choices": null,
    "kind": "text",
    "answer": "wasn't broken",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 창문은 그들에 의해 깨지지 않았다."
   },
   {
    "id": "1-04-23",
@@ -1392,7 +1507,8 @@
    "choices": null,
    "kind": "text",
    "answer": "wasn’t done",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 일은 그에 의해 되지 않았다."
   },
   {
    "id": "1-04-24",
@@ -1404,7 +1520,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was not liked",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 개는 그녀에게 좋아함을 받지 못했다."
   },
   {
    "id": "1-04-25",
@@ -1416,7 +1533,8 @@
    "choices": null,
    "kind": "text",
    "answer": "isn't cleaned by Judy",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 방은 Judy가 청소하지 않는다."
   },
   {
    "id": "1-04-26",
@@ -1428,7 +1546,8 @@
    "choices": null,
    "kind": "text",
    "answer": "weren't pulled by me",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 상자들은 내가 끌지 않았다."
   },
   {
    "id": "1-04-27",
@@ -1440,7 +1559,8 @@
    "choices": null,
    "kind": "text",
    "answer": "vase wasn't broken by Jason",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 꽃병은 Jason이 깨지 않았다."
   },
   {
    "id": "1-04-28",
@@ -1452,7 +1572,8 @@
    "choices": null,
    "kind": "text",
    "answer": "wasn’t written by my brother",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 책은 내 형이 쓰지 않았다."
   },
   {
    "id": "1-04-29",
@@ -1464,7 +1585,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was not checked",
-   "explanation": ""
+   "explanation": "",
+   "kr": "학생들의 숙제는 그에게 검사되지 않았다."
   },
   {
    "id": "1-04-30",
@@ -1476,7 +1598,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is not delivered",
-   "explanation": ""
+   "explanation": "",
+   "kr": "당신의 편지는 집배원에 의해 나에게 배달되지 않는다."
   },
   {
    "id": "1-04-31",
@@ -1488,7 +1611,8 @@
    "choices": null,
    "kind": "text",
    "answer": "wasn't written by",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 소설은 그녀가 쓰지 않았다."
   },
   {
    "id": "1-04-32",
@@ -1500,7 +1624,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The back door wasn’t locked",
-   "explanation": ""
+   "explanation": "",
+   "kr": "뒷문은 경비원들이 잠그지 않았다."
   },
   {
    "id": "1-04-33",
@@ -1512,7 +1637,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Money isn’t spent on magazines",
-   "explanation": ""
+   "explanation": "",
+   "kr": "돈은 그에 의해 잡지에 쓰이지 않는다."
   },
   {
    "id": "1-04-34",
@@ -1524,7 +1650,8 @@
    "choices": null,
    "kind": "text",
    "answer": "will be loved",
-   "explanation": ""
+   "explanation": "",
+   "kr": "너는 그녀에게 사랑받게 될 것이다."
   },
   {
    "id": "1-04-35",
@@ -1536,7 +1663,8 @@
    "choices": null,
    "kind": "text",
    "answer": "will finish",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그들은 내일까지 그 일을 끝낼 것이다."
   },
   {
    "id": "1-04-36",
@@ -1548,7 +1676,8 @@
    "choices": null,
    "kind": "text",
    "answer": "can be seen",
-   "explanation": ""
+   "explanation": "",
+   "kr": "공원에서 많은 사람을 볼 수 있다."
   },
   {
    "id": "1-04-37",
@@ -1560,7 +1689,8 @@
    "choices": null,
    "kind": "text",
    "answer": "have been written",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 편지들은 민수가 써 왔다."
   },
   {
    "id": "1-04-38",
@@ -1572,7 +1702,8 @@
    "choices": null,
    "kind": "text",
    "answer": "be built",
-   "explanation": ""
+   "explanation": "",
+   "kr": "집이 그에 의해 지어질 것이다."
   },
   {
    "id": "1-04-39",
@@ -1584,7 +1715,8 @@
    "choices": null,
    "kind": "text",
    "answer": "This service can be used by",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 서비스는 모든 아이가 이용할 수 있다."
   },
   {
    "id": "1-04-40",
@@ -1596,7 +1728,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Is, spoken",
-   "explanation": ""
+   "explanation": "",
+   "kr": "페루에서는 사람들이 스페인어를 사용하나요?"
   },
   {
    "id": "1-04-41",
@@ -1608,7 +1741,8 @@
    "choices": null,
    "kind": "text",
    "answer": "When was, invented by",
-   "explanation": ""
+   "explanation": "",
+   "kr": "벨은 첫 전화기를 언제 발명했나요?"
   },
   {
    "id": "1-04-42",
@@ -1620,7 +1754,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Were, taken by Cathy",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Cathy가 사진을 찍었나요?"
   },
   {
    "id": "1-04-43",
@@ -1632,7 +1767,8 @@
    "choices": null,
    "kind": "text",
    "answer": "When was, invented by",
-   "explanation": ""
+   "explanation": "",
+   "kr": "라이트 형제는 언제 비행기를 발명했나요?"
   },
   {
    "id": "1-04-44",
@@ -1644,7 +1780,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Were uniforms worn",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그들은 학교에서 교복을 입었나요?"
   },
   {
    "id": "1-04-45",
@@ -1656,7 +1793,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Was Yesterday sung by",
-   "explanation": ""
+   "explanation": "",
+   "kr": "비틀즈가 'Yesterday'를 불렀나요?"
   },
   {
    "id": "1-04-46",
@@ -1668,7 +1806,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Was the man caught, the police",
-   "explanation": ""
+   "explanation": "",
+   "kr": "경찰이 그 남자를 잡았나요?"
   },
   {
    "id": "1-04-47",
@@ -1680,7 +1819,8 @@
    "choices": null,
    "kind": "text",
    "answer": "whom was the telephone",
-   "explanation": ""
+   "explanation": "",
+   "kr": "전화기는 누가 발명했나요?"
   },
   {
    "id": "1-04-48",
@@ -1692,7 +1832,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is called",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우리는 그를 천재라고 부른다."
   },
   {
    "id": "1-04-49",
@@ -1704,7 +1845,8 @@
    "choices": null,
    "kind": "text",
    "answer": "can be called",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우리는 그 기계를 컴퓨터라고 부를 수 있다.\n그 기계는 컴퓨터라고 불릴 수 있다."
   },
   {
    "id": "1-04-50",
@@ -1716,7 +1858,8 @@
    "choices": null,
    "kind": "text",
    "answer": "must be given",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우리는 펭귄에게 손으로 먹이를 줘야 한다.\n펭귄은 손으로 먹이를 받아야 한다."
   },
   {
    "id": "1-04-51",
@@ -1728,7 +1871,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was made for me",
-   "explanation": ""
+   "explanation": "",
+   "kr": "어머니가 나에게 흰 드레스를 만들어 주셨다.\n흰 드레스가 어머니에 의해 나를 위해 만들어졌다."
   },
   {
    "id": "1-04-52",
@@ -1740,7 +1884,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was made unhappy",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 내 삶을 불행하게 만들었다.\n내 삶은 그녀에 의해 불행해졌다."
   },
   {
    "id": "1-04-53",
@@ -1752,7 +1897,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was found dead",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그들은 숲에서 죽은 군인을 발견했다.\n죽은 군인이 숲에서 그들에 의해 발견되었다."
   },
   {
    "id": "1-04-54",
@@ -1764,7 +1910,8 @@
    "choices": null,
    "kind": "text",
    "answer": "were taken care of by the babysitter",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 보모는 두 아이를 돌보았다.\n두 아이는 그 보모에 의해 돌봐졌다."
   },
   {
    "id": "1-04-55",
@@ -1776,7 +1923,8 @@
    "choices": null,
    "kind": "text",
    "answer": "We are taught math",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Shelly 선생님은 우리에게 수학을 가르치신다.\n우리는 Shelly 선생님에게 수학을 배운다."
   },
   {
    "id": "1-04-56",
@@ -1788,7 +1936,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was made for him",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그의 어머니는 그에게 맛있는 케이크를 만들어 주셨다.\n맛있는 케이크가 그의 어머니에 의해 그를 위해 만들어졌다."
   },
   {
    "id": "1-04-57",
@@ -1800,7 +1949,8 @@
    "choices": null,
    "kind": "text",
    "answer": "People are made fat",
-   "explanation": ""
+   "explanation": "",
+   "kr": "패스트푸드를 먹는 것은 사람들을 살찌게 한다.\n사람들은 패스트푸드를 먹음으로써 살이 찐다."
   },
   {
    "id": "1-04-58",
@@ -1812,7 +1962,8 @@
    "choices": null,
    "kind": "text",
    "answer": "You will be made healthy",
-   "explanation": ""
+   "explanation": "",
+   "kr": "요가는 당신을 건강하게 해 줄 것이다.\n당신은 요가를 함으로써 건강해질 것이다."
   },
   {
    "id": "1-05-01",
@@ -1824,7 +1975,8 @@
    "choices": null,
    "kind": "text",
    "answer": "invites people",
-   "explanation": ""
+   "explanation": "",
+   "kr": "사람들은 Jack에 의해 파티에 초대된다.\nJack은 사람들을 파티에 초대한다."
   },
   {
    "id": "1-05-02",
@@ -1836,7 +1988,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Bell, the first telephone",
-   "explanation": ""
+   "explanation": "",
+   "kr": "최초의 전화기는 Bell에 의해 발명되었다.\nBell이 최초의 전화기를 발명했다."
   },
   {
    "id": "1-05-03",
@@ -1848,7 +2001,8 @@
    "choices": null,
    "kind": "text",
    "answer": "will plant many trees",
-   "explanation": ""
+   "explanation": "",
+   "kr": "4월에 사람들에 의해 많은 나무가 심어질 것이다.\n사람들은 4월에 많은 나무를 심을 것이다."
   },
   {
    "id": "1-05-04",
@@ -1860,7 +2014,8 @@
    "choices": null,
    "kind": "text",
    "answer": "We[They/People]: 일반인, 끝에 by us(them) 생략",
-   "explanation": ""
+   "explanation": "",
+   "kr": "산에서 나무들을 볼 수 있다.\n우리는(일반인은) 산에서 나무들을 볼 수 있다."
   },
   {
    "id": "1-05-05",
@@ -1872,7 +2027,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Kate doesn’t catch",
-   "explanation": ""
+   "explanation": "",
+   "kr": "게는 Kate에게 잡히지 않는다.\nKate는 게를 잡지 않는다."
   },
   {
    "id": "1-05-06",
@@ -1884,7 +2040,8 @@
    "choices": null,
    "kind": "text",
    "answer": "King Sejong, Hanguel",
-   "explanation": ""
+   "explanation": "",
+   "kr": "한글은 세종대왕에 의해 만들어졌다.\n세종대왕이 한글을 만들었다."
   },
   {
    "id": "1-05-07",
@@ -1896,7 +2053,8 @@
    "choices": null,
    "kind": "text",
    "answer": "ran after",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 소년은 개에게 쫓겼다.\n개가 그 소년을 쫓았다."
   },
   {
    "id": "1-05-08",
@@ -1908,7 +2066,8 @@
    "choices": null,
    "kind": "text",
    "answer": "will walk the dog",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 개는 그에 의해 산책될 것이다.\n그는 그 개를 산책시킬 것이다."
   },
   {
    "id": "1-05-09",
@@ -1920,7 +2079,8 @@
    "choices": null,
    "kind": "text",
    "answer": "wrote this book",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 책은 헤밍웨이가 썼다.\n헤밍웨이가 이 책을 썼다."
   },
   {
    "id": "1-05-10",
@@ -1932,7 +2092,8 @@
    "choices": null,
    "kind": "text",
    "answer": "pleased the teacher",
-   "explanation": ""
+   "explanation": "",
+   "kr": "선생님은 그 소년의 작품에 기뻐하셨다.\n그 소년의 작품이 선생님을 기쁘게 했다."
   },
   {
    "id": "1-05-11",
@@ -1944,7 +2105,8 @@
    "choices": null,
    "kind": "text",
    "answer": "loved the movie star",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 영화배우는 십대 소녀들에게 사랑받았다.\n십대 소녀들은 그 영화배우를 사랑했다."
   },
   {
    "id": "1-05-12",
@@ -1956,7 +2118,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Was the room cleaned by David",
-   "explanation": ""
+   "explanation": "",
+   "kr": "David는 방과 후에 방을 청소했니?\n방은 방과 후에 David에 의해 청소되었니?"
   },
   {
    "id": "1-05-13",
@@ -1968,7 +2131,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The baby read the whole book",
-   "explanation": ""
+   "explanation": "",
+   "kr": "책 전체가 아기에 의해 혼자서 읽혔다.\n아기가 혼자서 책 전체를 읽었다."
   },
   {
    "id": "1-05-14",
@@ -1980,7 +2144,8 @@
    "choices": null,
    "kind": "text",
    "answer": "I dropped the pen",
-   "explanation": ""
+   "explanation": "",
+   "kr": "펜이 나에 의해 바닥에 떨어뜨려졌다.\n나는 펜을 바닥에 떨어뜨렸다."
   },
   {
    "id": "1-05-15",
@@ -1992,7 +2157,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The thief stole my wallet",
-   "explanation": ""
+   "explanation": "",
+   "kr": "내 지갑이 어제 도둑에게 도난당했다.\n도둑이 어제 내 지갑을 훔쳤다."
   },
   {
    "id": "1-05-16",
@@ -2004,7 +2170,8 @@
    "choices": null,
    "kind": "text",
    "answer": "deliver this letter to him",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 편지는 나에 의해 그에게 전달될 수 있다.\n나는 이 편지를 그에게 전달할 수 있다."
   },
   {
    "id": "1-05-17",
@@ -2016,7 +2183,8 @@
    "choices": null,
    "kind": "text",
    "answer": "He may buy",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 CD는 그가 온라인으로 살 수도 있다.\n그는 그 CD를 온라인으로 살 수도 있다."
   },
   {
    "id": "1-05-18",
@@ -2028,7 +2196,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Who taught you",
-   "explanation": ""
+   "explanation": "",
+   "kr": "너는 누구에게 프랑스어를 배웠니?\n누가 너에게 프랑스어를 가르쳤니?"
   },
   {
    "id": "1-05-19",
@@ -2040,7 +2209,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Grandma bought me",
-   "explanation": ""
+   "explanation": "",
+   "kr": "스웨터는 할머니가 나에게 사 주셨다.\n할머니가 나에게 스웨터를 사 주셨다."
   },
   {
    "id": "1-05-20",
@@ -2052,7 +2222,8 @@
    "choices": null,
    "kind": "text",
    "answer": "blew down the trees",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나무들은 바람에 의해 쓰러졌다.\n바람이 나무들을 쓰러뜨렸다."
   },
   {
    "id": "1-05-21",
@@ -2064,7 +2235,8 @@
    "choices": null,
    "kind": "text",
    "answer": "He will give you",
-   "explanation": ""
+   "explanation": "",
+   "kr": "너는 그에게 표를 받을 것이다.\n그는 너에게 표를 줄 것이다."
   },
   {
    "id": "1-06-01",
@@ -2076,7 +2248,8 @@
    "choices": null,
    "kind": "text",
    "answer": "A wooden box was made by Fred.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Fred는 나무 상자를 만들었다.\n나무 상자는 Fred에 의해 만들어졌다."
   },
   {
    "id": "1-06-02",
@@ -2088,7 +2261,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Korean is spoken in Korea (by people).",
-   "explanation": ""
+   "explanation": "",
+   "kr": "사람들은 한국에서 한국어를 말한다.\n한국어는 한국에서 (사람들에 의해) 말해진다."
   },
   {
    "id": "1-06-03",
@@ -2100,7 +2274,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Nine symphonies were composed by Beethoven in his life.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "베토벤은 평생 아홉 개의 교향곡을 작곡했다.\n아홉 개의 교향곡이 베토벤의 평생 동안 작곡되었다."
   },
   {
    "id": "1-06-04",
@@ -2112,7 +2287,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The car can be repaired by him.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 그 차를 수리할 수 있다.\n그 차는 그에 의해 수리될 수 있다."
   },
   {
    "id": "1-06-05",
@@ -2124,7 +2300,8 @@
    "choices": null,
    "kind": "text",
    "answer": "A farewell party was held by him at the club.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 클럽에서 송별 파티를 열었다.\n송별 파티가 클럽에서 그에 의해 열렸다."
   },
   {
    "id": "1-06-06",
@@ -2136,7 +2313,8 @@
    "choices": null,
    "kind": "text",
    "answer": "When was the car bought by him?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 언제 그 차를 샀니?\n그 차는 언제 그에 의해 구매되었니?"
   },
   {
    "id": "1-06-07",
@@ -2148,7 +2326,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The mouse was thrown by the cat.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "고양이가 쥐를 던졌다.\n쥐가 고양이에 의해 던져졌다."
   },
   {
    "id": "1-06-08",
@@ -2160,7 +2339,8 @@
    "choices": null,
    "kind": "text",
    "answer": "My bike wasn't fixed by my dad.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "아빠는 내 자전거를 고치지 않으셨다.\n내 자전거는 아빠에 의해 고쳐지지 않았다."
   },
   {
    "id": "1-06-09",
@@ -2172,7 +2352,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The promise will be broken by Jimin.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "지민은 그 약속을 깰 것이다.\n그 약속은 지민에 의해 깨질 것이다."
   },
   {
    "id": "1-06-10",
@@ -2184,7 +2365,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Junsu‘s umbrella wasn't taken by him.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "준수는 우산을 가져가지 않았다.\n준수의 우산은 그에 의해 가져가지지 않았다."
   },
   {
    "id": "1-06-11",
@@ -2196,7 +2378,8 @@
    "choices": null,
    "kind": "text",
    "answer": "George Lucas directed Star Wars.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "스타워즈는 조지 루카스가 감독했다.\n조지 루카스가 스타워즈를 감독했다."
   },
   {
    "id": "1-06-12",
@@ -2208,7 +2391,8 @@
    "choices": null,
    "kind": "text",
    "answer": "They don't sell wine at that store.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "와인은 그 가게에서 그들에 의해 팔리지 않는다.\n그들은 그 가게에서 와인을 팔지 않는다."
   },
   {
    "id": "1-06-13",
@@ -2220,7 +2404,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Was the window opened by him?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그가 창문을 열었니?\n창문이 그에 의해 열렸니?"
   },
   {
    "id": "1-06-14",
@@ -2232,7 +2417,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Was a meeting held by them last week?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그들은 지난주에 회의를 열었니?\n회의가 지난주에 그들에 의해 열렸니?"
   },
   {
    "id": "1-06-15",
@@ -2244,7 +2430,8 @@
    "choices": null,
    "kind": "text",
    "answer": "When was the car bought by him?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 언제 그 차를 샀니?\n그 차는 언제 그에 의해 구매되었니?"
   },
   {
    "id": "1-06-16",
@@ -2256,7 +2443,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The car was invented by Henry Ford.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "헨리 포드가 자동차를 발명했다.\n자동차는 헨리 포드에 의해 발명되었다."
   },
   {
    "id": "1-06-17",
@@ -2268,7 +2456,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Is English spoken by people in your country?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "너희 나라에서는 사람들이 영어를 말하니?\n너희 나라에서는 영어가 사람들에 의해 말해지니?"
   },
   {
    "id": "1-06-18",
@@ -2280,7 +2469,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Some bread was bought by Mrs. Dorothy.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Dorothy 부인이 빵을 샀다.\n빵이 Dorothy 부인에 의해 구매되었다."
   },
   {
    "id": "1-06-19",
@@ -2292,7 +2482,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The tool can be used by her to fix the bike.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 그 도구를 사용해서 자전거를 고칠 수 있다.\n그 도구는 자전거를 고치기 위해 그녀에 의해 사용될 수 있다."
   },
   {
    "id": "1-06-20",
@@ -2304,7 +2495,8 @@
    "choices": null,
    "kind": "text",
    "answer": "He will check the e-mail.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 이메일은 그에 의해 확인될 것이다.\n그는 그 이메일을 확인할 것이다."
   },
   {
    "id": "1-06-21",
@@ -2316,7 +2508,8 @@
    "choices": null,
    "kind": "text",
    "answer": "French can be spoken and written by my friend.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "내 친구는 프랑스어를 말하고 쓸 수 있다.\n프랑스어는 내 친구에 의해 말해지고 쓰여질 수 있다."
   },
   {
    "id": "1-06-22",
@@ -2328,7 +2521,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Mike's hometown has been painted by him since last year.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Mike는 작년부터 그의 고향을 그려 왔다.\nMike의 고향은 작년부터 그에 의해 그려져 왔다."
   },
   {
    "id": "1-06-23",
@@ -2340,7 +2534,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The red villa by the lake is being built by my uncle.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "삼촌은 호숫가에 붉은 별장을 짓고 있다.\n호숫가의 붉은 별장은 삼촌에 의해 지어지고 있다."
   },
   {
    "id": "1-06-24",
@@ -2352,7 +2547,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Junsu's homework wasn't done by him yesterday.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "준수는 어제 숙제를 하지 않았다.\n준수의 숙제는 어제 그에 의해 되어지지 않았다."
   },
   {
    "id": "1-06-25",
@@ -2364,7 +2560,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Some cookies can be made by my father.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "아버지는 쿠키를 만드실 수 있다.\n쿠키는 아버지에 의해 만들어질 수 있다."
   },
   {
    "id": "1-06-26",
@@ -2376,7 +2573,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Many students read this book.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 책은 많은 학생들에게 읽힌다.\n많은 학생들이 이 책을 읽는다."
   },
   {
    "id": "1-06-27",
@@ -2388,7 +2586,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The lake is visited by seals in the summer.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "바다표범들은 여름에 그 호수를 찾는다.\n그 호수는 여름에 바다표범들에게 찾아진다."
   },
   {
    "id": "1-06-28",
@@ -2400,7 +2599,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The treasure was discovered by the explorer.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "탐험가가 보물을 발견했다.\n보물은 탐험가에 의해 발견되었다."
   },
   {
    "id": "1-06-29",
@@ -2412,7 +2612,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The thief was caught by the police officer.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "경찰관이 도둑을 잡았다.\n도둑은 경찰관에게 잡혔다."
   },
   {
    "id": "1-06-30",
@@ -2424,7 +2625,8 @@
    "choices": null,
    "kind": "text",
    "answer": "We[People] must observe the rules of the school.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "학교 규칙은 지켜져야 한다.\n우리는(사람들은) 학교 규칙을 지켜야 한다."
   },
   {
    "id": "1-06-31",
@@ -2436,7 +2638,8 @@
    "choices": null,
    "kind": "text",
    "answer": "He is spoken well of by all his classmates.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그의 반 친구들은 모두 그를 좋게 이야기한다.\n그는 반 친구들 모두에게 좋은 이야기를 듣는다."
   },
   {
    "id": "1-06-32",
@@ -2448,7 +2651,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Milk is made into butter and cheese (by us).",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우리는 우유로 버터와 치즈를 만든다.\n우유는 (우리에 의해) 버터와 치즈로 만들어진다."
   },
   {
    "id": "1-06-33",
@@ -2460,7 +2664,8 @@
    "choices": null,
    "kind": "text",
    "answer": "His mother made him a delicious cake.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "맛있는 케이크가 그의 어머니에 의해 그를 위해 만들어졌다.\n그의 어머니가 그에게 맛있는 케이크를 만들어 주셨다."
   },
   {
    "id": "1-06-34",
@@ -2472,7 +2677,8 @@
    "choices": null,
    "kind": "text",
    "answer": "My cat was looked after by my sister while I was out.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "내가 외출한 동안 언니가 내 고양이를 돌봤다.\n내 고양이는 내가 외출한 동안 언니에 의해 돌봐졌다."
   },
   {
    "id": "1-06-35",
@@ -2484,7 +2690,8 @@
    "choices": null,
    "kind": "text",
    "answer": "My mom made curry and rice.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "카레라이스는 엄마가 만드셨다.\n엄마가 카레라이스를 만드셨다."
   },
   {
    "id": "1-06-36",
@@ -2496,7 +2703,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Brian plays the grand piano.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그랜드 피아노는 Brian이 연주한다.\nBrian이 그랜드 피아노를 연주한다."
   },
   {
    "id": "1-06-37",
@@ -2508,7 +2716,8 @@
    "choices": null,
    "kind": "text",
    "answer": "You must do the project.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 프로젝트는 네가 해야 한다.\n너는 그 프로젝트를 해야 한다."
   },
   {
    "id": "1-06-38",
@@ -2520,7 +2729,8 @@
    "choices": null,
    "kind": "text",
    "answer": "This project must be finished by me tomorrow.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 내일 이 프로젝트를 끝내야 한다.\n이 프로젝트는 내일 나에 의해 끝내져야 한다."
   },
   {
    "id": "1-06-39",
@@ -2532,7 +2742,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The large house was built there by them.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그들은 그곳에 큰 집을 지었다.\n그 큰 집은 그들에 의해 그곳에 지어졌다."
   },
   {
    "id": "1-06-40",
@@ -2544,7 +2755,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Their guests were entertained with music.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그들은 음악으로 손님들을 즐겁게 했다.\n손님들은 음악으로 즐거움을 받았다."
   },
   {
    "id": "1-06-41",
@@ -2556,7 +2768,8 @@
    "choices": null,
    "kind": "text",
    "answer": "She was stung by a jellyfish while she was swimming.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀가 수영하는 동안 해파리가 그녀를 쏘았다.\n그녀는 수영하는 동안 해파리에게 쏘였다."
   },
   {
    "id": "1-06-42",
@@ -2568,7 +2781,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Can French be learned easily?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "너는 프랑스어를 쉽게 배울 수 있니?\n프랑스어는 쉽게 배워질 수 있니?"
   },
   {
    "id": "1-06-43",
@@ -2580,7 +2794,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Ben will direct the show.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 쇼는 Ben이 감독할 것이다.\nBen이 그 쇼를 감독할 것이다."
   },
   {
    "id": "1-06-44",
@@ -2592,7 +2807,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Did Ms. Collins make it last week?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그것은 지난주에 Collins 선생님이 만들었니?\nCollins 선생님이 지난주에 그것을 만들었니?"
   },
   {
    "id": "1-06-45",
@@ -2604,7 +2820,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Nick breaks windows.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "창문들은 Nick에 의해 깨진다.\nNick이 창문들을 깬다."
   },
   {
    "id": "1-06-46",
@@ -2616,7 +2833,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The picture is being drawn by her.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 그림을 그리고 있다.\n그림이 그녀에 의해 그려지고 있다."
   },
   {
    "id": "1-06-47",
@@ -2628,7 +2846,8 @@
    "choices": null,
    "kind": "text",
    "answer": "I was given his photo by him.   /   His photo was given to me by him.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 나에게 그의 사진을 주었다.\n나는 그에게 그의 사진을 받았다.\n그의 사진은 그에 의해 나에게 주어졌다."
   },
   {
    "id": "1-06-48",
@@ -2640,7 +2859,8 @@
    "choices": null,
    "kind": "text",
    "answer": "One million won will be paid by him.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 백만 원을 낼 것이다.\n백만 원이 그에 의해 지불될 것이다."
   },
   {
    "id": "1-06-49",
@@ -2652,7 +2872,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The thief wasn't caught by the police.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "경찰은 도둑을 잡지 못했다.\n도둑은 경찰에게 잡히지 않았다."
   },
   {
    "id": "1-06-50",
@@ -2664,7 +2885,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Many accidents are caused by careless driving.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "부주의한 운전은 많은 사고를 일으킨다.\n많은 사고가 부주의한 운전에 의해 일어난다."
   },
   {
    "id": "1-06-51",
@@ -2676,7 +2898,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The singer is loved by all Koreans.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "모든 한국인이 그 가수를 사랑한다.\n그 가수는 모든 한국인에게 사랑받는다."
   },
   {
    "id": "1-06-52",
@@ -2688,7 +2911,8 @@
    "choices": null,
    "kind": "text",
    "answer": "They should be taught good behavior by their parents.   /   Good behavior should be taught to them by their parents.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "부모는 아이들에게 좋은 행동을 가르쳐야 한다.\n아이들은 부모에게 좋은 행동을 배워야 한다.\n좋은 행동은 부모에 의해 아이들에게 가르쳐져야 한다."
   },
   {
    "id": "1-06-53",
@@ -2700,7 +2924,8 @@
    "choices": null,
    "kind": "text",
    "answer": "My friend broke the door.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "문은 내 친구에 의해 부서졌다.\n내 친구가 문을 부쉈다."
   },
   {
    "id": "1-06-54",
@@ -2712,7 +2937,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The bathroom was cleaned by Jane.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Jane이 욕실을 청소했다.\n욕실은 Jane에 의해 청소되었다."
   },
   {
    "id": "1-06-55",
@@ -2724,7 +2950,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The letter wasn’t sent by Minsu.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "민수는 편지를 보내지 않았다.\n편지는 민수에 의해 보내지지 않았다."
   },
   {
    "id": "1-06-56",
@@ -2736,7 +2963,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The ball was hit by the girl.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "소녀가 공을 쳤다.\n공은 소녀에 의해 쳐졌다."
   },
   {
    "id": "1-06-57",
@@ -2748,7 +2976,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The mouse was caught by the cat.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "고양이가 쥐를 잡았다.\n쥐는 고양이에게 잡혔다."
   },
   {
    "id": "1-07-01",
@@ -2760,7 +2989,8 @@
    "choices": null,
    "kind": "text",
    "answer": "A snowball",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그의 창문은 눈덩이에 의해 깨졌다.\nQ. 무엇이 그의 창문을 깼니? → 눈덩이"
   },
   {
    "id": "1-07-02",
@@ -2772,7 +3002,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Everyone",
-   "explanation": ""
+   "explanation": "",
+   "kr": "티셔츠는 모두에게 사랑받는다.\nQ. 누가 티셔츠를 좋아하니? → 모두"
   },
   {
    "id": "1-07-03",
@@ -2784,7 +3015,8 @@
    "choices": null,
    "kind": "text",
    "answer": "unknown",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 천은 티셔츠 공장으로 옮겨진다.\nQ. 누가 그 천을 티셔츠 공장으로 옮기니? → 알 수 없음"
   },
   {
    "id": "1-07-04",
@@ -2796,7 +3028,8 @@
    "choices": null,
    "kind": "text",
    "answer": "unknown",
-   "explanation": ""
+   "explanation": "",
+   "kr": "많은 새들이 식용이나 스포츠로 사냥된다.\nQ. 누가 식용이나 스포츠로 많은 새를 사냥하니? → 알 수 없음"
   },
   {
    "id": "1-07-05",
@@ -2808,7 +3041,8 @@
    "choices": null,
    "kind": "text",
    "answer": "unknown",
-   "explanation": ""
+   "explanation": "",
+   "kr": "어젯밤 나는 프라이드치킨을 주문했는데 30분도 안 되어 배달되었다.\nQ. 누가 프라이드치킨을 배달했니? → 알 수 없음"
   },
   {
    "id": "1-07-06",
@@ -2820,7 +3054,8 @@
    "choices": null,
    "kind": "text",
    "answer": "unknown",
-   "explanation": ""
+   "explanation": "",
+   "kr": "보트 레이스는 보통 매년 열린다.\nQ. 누가 매년 보트 레이스를 여니? → 알 수 없음"
   },
   {
    "id": "1-07-07",
@@ -2832,7 +3067,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Hugh, the meanest boy at her school",
-   "explanation": ""
+   "explanation": "",
+   "kr": "학교 식당에서 Juliet은 학교에서 가장 못된 소년 Hugh에게 괴롭힘을 당한다.\nQ. 학교 식당에서 누가 Juliet을 괴롭히니? → 학교에서 가장 못된 소년 Hugh"
   },
   {
    "id": "1-07-08",
@@ -2844,7 +3080,8 @@
    "choices": null,
    "kind": "text",
    "answer": "An old witch",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Rapunzel은 긴 머리의 소녀로 늙은 마녀에 의해 탑에 갇혔다.\nQ. 누가 Rapunzel을 탑에 가뒀니? → 늙은 마녀"
   },
   {
    "id": "1-07-09",
@@ -2856,7 +3093,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Many organizations and businesses",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 축제는 많은 단체와 기업의 후원을 받는다.\nQ. 누가 이 축제를 후원하니? → 많은 단체와 기업"
   },
   {
    "id": "1-07-10",
@@ -2868,7 +3106,8 @@
    "choices": null,
    "kind": "text",
    "answer": "unknown",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 4층 집은 2011년에 지어졌다.\nQ. 누가 2011년에 이 4층 집을 지었니? → 알 수 없음"
   },
   {
    "id": "1-07-11",
@@ -2880,7 +3119,8 @@
    "choices": null,
    "kind": "text",
    "answer": "unknown",
-   "explanation": ""
+   "explanation": "",
+   "kr": "독도는 500년대에 처음으로 한국의 일부로 기록되었다.\nQ. 누가 500년대에 독도를 한국의 일부로 처음 기록했니? → 알 수 없음"
   },
   {
    "id": "1-07-12",
@@ -2892,7 +3132,8 @@
    "choices": null,
    "kind": "text",
    "answer": "unknown",
-   "explanation": ""
+   "explanation": "",
+   "kr": "청력이 한번 손상되면 회복하지 못할 수도 있다.\nQ. 누가 당신의 청력을 손상시키니? → 알 수 없음"
   },
   {
    "id": "1-07-13",
@@ -2904,7 +3145,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The first Jamaican bobsleigh team",
-   "explanation": ""
+   "explanation": "",
+   "kr": "1988년 캘거리 동계 올림픽에서 세계는 자메이카 최초의 봅슬레이 팀에 놀랐다.\nQ. 누가 1988년 캘거리 동계 올림픽에서 세계를 놀라게 했니? → 자메이카 최초의 봅슬레이 팀"
   },
   {
    "id": "1-07-14",
@@ -2916,7 +3158,8 @@
    "choices": null,
    "kind": "text",
    "answer": "unknown",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 황사는 중국의 사막에서 만들어져 한국으로 불어온다.\nQ. 무엇이 중국의 사막에서 이 황사를 만드니? → 알 수 없음"
   },
   {
    "id": "1-07-15",
@@ -2928,7 +3171,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Many publishers",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀의 첫 해리 포터 책은 많은 출판사에게 거절당했다.\nQ. 누가 그녀의 첫 해리 포터 책을 거절했니? → 많은 출판사"
   },
   {
    "id": "1-07-16",
@@ -2940,7 +3184,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The top artists in Paris",
-   "explanation": ""
+   "explanation": "",
+   "kr": "당시 모네의 작품은 파리의 최고 화가들에게 좋아하는 대상이 아니었다.\nQ. 누가 모네의 작품을 좋아하지 않았니? → 파리의 최고 화가들"
   },
   {
    "id": "1-07-17",
@@ -2952,7 +3197,8 @@
    "choices": null,
    "kind": "text",
    "answer": "unknown",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그날 많은 거북이가 잡혀서 배로 옮겨졌다.\nQ. 누가 거북이를 잡아 배로 옮겼니? → 알 수 없음"
   },
   {
    "id": "1-07-18",
@@ -2964,7 +3210,8 @@
    "choices": null,
    "kind": "text",
    "answer": "A storm",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그들은 폭풍을 만났다. 그래서 배가 부서졌고 무인도에 닿았다.\nQ. 무엇이 그들의 배를 부쉈니? → 폭풍"
   },
   {
    "id": "1-07-19",
@@ -2976,7 +3223,8 @@
    "choices": null,
    "kind": "text",
    "answer": "An accident",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Washington은 다리 건설을 지휘하던 중 사고로 마비되었다.\nQ. 무엇이 Washington을 마비시켰니? → 사고"
   },
   {
    "id": "1-07-20",
@@ -2988,7 +3236,8 @@
    "choices": null,
    "kind": "text",
    "answer": "War",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 오래된 도서관은 전쟁으로 파괴되었다.\nQ. 무엇이 그 오래된 도서관을 파괴했니? → 전쟁"
   },
   {
    "id": "1-08-01",
@@ -3000,7 +3249,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is cleaned",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 방은 매일 청소된다."
   },
   {
    "id": "1-08-02",
@@ -3012,7 +3262,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is made",
-   "explanation": ""
+   "explanation": "",
+   "kr": "종이는 나무로 만들어진다."
   },
   {
    "id": "1-08-03",
@@ -3024,7 +3275,8 @@
    "choices": null,
    "kind": "text",
    "answer": "were damaged",
-   "explanation": ""
+   "explanation": "",
+   "kr": "지난주 호텔에 화재가 있었다. 방 두 개가 피해를 입었다."
   },
   {
    "id": "1-08-04",
@@ -3036,7 +3288,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was stolen, was found",
-   "explanation": ""
+   "explanation": "",
+   "kr": "내 차는 지난주에 도난당했지만 다음 날 경찰에 의해 발견되었다."
   },
   {
    "id": "1-08-05",
@@ -3048,7 +3301,8 @@
    "choices": null,
    "kind": "text",
    "answer": "were taken",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 어제 사고를 봤다. 두 사람이 병원으로 옮겨졌다."
   },
   {
    "id": "1-08-06",
@@ -3060,7 +3314,8 @@
    "choices": null,
    "kind": "text",
    "answer": "are caused",
-   "explanation": ""
+   "explanation": "",
+   "kr": "많은 사고가 위험한 운전 때문에 일어난다."
   },
   {
    "id": "1-08-07",
@@ -3072,7 +3327,8 @@
    "choices": null,
    "kind": "text",
    "answer": "be found",
-   "explanation": ""
+   "explanation": "",
+   "kr": "경찰은 실종된 소년을 찾고 있다. 그는 어디에서도 발견될 수 없다."
   },
   {
    "id": "1-08-08",
@@ -3084,7 +3340,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was given",
-   "explanation": ""
+   "explanation": "",
+   "kr": "\"이 그림 어디서 났어?\" \"내 친구가 나에게 줬어.\""
   },
   {
    "id": "1-08-09",
@@ -3096,7 +3353,8 @@
    "choices": null,
    "kind": "text",
    "answer": "were invited",
-   "explanation": ""
+   "explanation": "",
+   "kr": "\"Jim과 Sue는 결혼식에 갔니?\" \"아니. 그들은 초대받았지만 가지 않았어.\""
   },
   {
    "id": "1-08-10",
@@ -3108,7 +3366,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was made",
-   "explanation": ""
+   "explanation": "",
+   "kr": "\"이 영화는 얼마나 오래됐니?\" \"1965년에 만들어졌어.\""
   },
   {
    "id": "1-09-01",
@@ -3120,7 +3379,8 @@
    "choices": null,
    "kind": "text",
    "answer": "be taken",
-   "explanation": ""
+   "explanation": "",
+   "kr": "A: 어제 누가 프린터를 고쳤니? B: 응, 고쳐졌어.\nA: 네 고양이가 건강해 보이지 않아. B: 맞아, 그래. 수의사에게 데려가야 해."
   },
   {
    "id": "1-09-02",
@@ -3132,7 +3392,8 @@
    "choices": null,
    "kind": "text",
    "answer": "wasn’t invited",
-   "explanation": ""
+   "explanation": "",
+   "kr": "A: 어제 누가 프린터를 고쳤니? B: 응, 고쳐졌어.\nA: 그녀는 왜 네 파티에 안 왔니? B: 초대받지 않았기 때문이야."
   },
   {
    "id": "1-09-03",
@@ -3144,7 +3405,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is included",
-   "explanation": ""
+   "explanation": "",
+   "kr": "A: 어제 누가 프린터를 고쳤니? B: 응, 고쳐졌어.\nA: 계산서에 서비스 요금이 포함되어 있나요? B: 네, 서비스 요금은 포함되어 있습니다."
   },
   {
    "id": "1-09-04",
@@ -3156,7 +3418,8 @@
    "choices": null,
    "kind": "text",
    "answer": "will be put off",
-   "explanation": ""
+   "explanation": "",
+   "kr": "B: 나는 그 회의가 연기될 거라고 확신해."
   },
   {
    "id": "1-09-05",
@@ -3168,7 +3431,8 @@
    "choices": null,
    "kind": "text",
    "answer": "cannot be left",
-   "explanation": ""
+   "explanation": "",
+   "kr": "A: 자전거를 진입로에 둬도 되나요? B: 아니요. 자전거는 진입로에 놓아둘 수 없습니다."
   },
   {
    "id": "1-10-01",
@@ -3180,7 +3444,8 @@
    "choices": null,
    "kind": "text",
    "answer": "How many bottles of coke are drunk by him?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 차는 Mark가 운전했다. → 그 차는 누가 운전했니?\n콜라 두 병이 매일 그에 의해 마셔진다. → 콜라 몇 병이 그에 의해 마셔지니?"
   },
   {
    "id": "1-10-02",
@@ -3192,7 +3457,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Are flowers picked by Judy?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "아니, 꽃은 Judy가 꺾지 않았어. → 꽃은 Judy가 꺾었니?"
   },
   {
    "id": "1-10-03",
@@ -3204,7 +3470,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Where was the picture painted?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 프랑스에서 그림을 그렸다. → 그 그림은 어디에서 그려졌니?"
   },
   {
    "id": "1-10-04",
@@ -3216,7 +3483,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Are these books sold in Korea?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "아니, 그렇지 않아. 이 책들은 한국에서 팔리지 않아. → 이 책들은 한국에서 팔리니?"
   },
   {
    "id": "1-10-05",
@@ -3228,7 +3496,8 @@
    "choices": null,
    "kind": "text",
    "answer": "What time will breakfast be served?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그들은 8시에 아침을 제공할 것이다. → 아침은 몇 시에 제공되니?"
   },
   {
    "id": "1-10-06",
@@ -3240,7 +3509,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Was the letter written by John?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "응, 그랬어. 그 편지는 John이 썼어. → 그 편지는 John이 썼니?"
   },
   {
    "id": "1-10-07",
@@ -3252,7 +3522,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Where are the plates kept?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "접시들은 찬장에 보관된다. → 접시들은 어디에 보관되니?"
   },
   {
    "id": "1-10-08",
@@ -3264,7 +3535,8 @@
    "choices": null,
    "kind": "text",
    "answer": "How was the message sent?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그들은 이메일로 메시지를 보냈다. → 메시지는 어떻게 보내졌니?"
   },
   {
    "id": "1-10-09",
@@ -3276,7 +3548,8 @@
    "choices": null,
    "kind": "text",
    "answer": "How often will the car be cleaned?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "누군가 매주 그 차를 세차할 것이다. → 그 차는 얼마나 자주 세차될까?"
   },
   {
    "id": "1-10-10",
@@ -3288,7 +3561,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Where are these toys made?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그들은 런던에서 이 장난감들을 만든다. → 이 장난감들은 어디에서 만들어지니?"
   },
   {
    "id": "1-10-11",
@@ -3300,7 +3574,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Where was the plane flown?",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 비행기는 비행장 위로 날아갔다. → 그 비행기는 어디에서 비행했니?"
   },
   {
    "id": "1-11-01",
@@ -3312,7 +3587,8 @@
    "choices": null,
    "kind": "text",
    "answer": "at",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 그 소식에 놀랐다."
   },
   {
    "id": "1-11-02",
@@ -3324,7 +3600,8 @@
    "choices": null,
    "kind": "text",
    "answer": "from",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 와인은 프랑스 포도로 만들어진다."
   },
   {
    "id": "1-11-03",
@@ -3336,7 +3613,8 @@
    "choices": null,
    "kind": "text",
    "answer": "in",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 로봇 만드는 데 관심이 있다."
   },
   {
    "id": "1-11-04",
@@ -3348,7 +3626,8 @@
    "choices": null,
    "kind": "text",
    "answer": "with",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 케이크는 신선한 크림으로 덮여 있다."
   },
   {
    "id": "1-11-05",
@@ -3360,7 +3639,8 @@
    "choices": null,
    "kind": "text",
    "answer": "of",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 이 비 오는 날씨에 질렸다."
   },
   {
    "id": "1-11-06",
@@ -3372,7 +3652,8 @@
    "choices": null,
    "kind": "text",
    "answer": "with",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 상자는 책으로 가득 차 있다."
   },
   {
    "id": "1-11-07",
@@ -3384,7 +3665,8 @@
    "choices": null,
    "kind": "text",
    "answer": "at",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우리 어머니는 그 소식에 놀라셨다."
   },
   {
    "id": "1-11-08",
@@ -3396,7 +3678,8 @@
    "choices": null,
    "kind": "text",
    "answer": "about",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Emily는 이번 여행을 가는 것에 신이 나 있다."
   },
   {
    "id": "1-11-09",
@@ -3408,7 +3691,8 @@
    "choices": null,
    "kind": "text",
    "answer": "to",
-   "explanation": ""
+   "explanation": "",
+   "kr": "싸이는 전 세계 사람들에게 알려져 있었다."
   },
   {
    "id": "1-11-10",
@@ -3420,7 +3704,8 @@
    "choices": null,
    "kind": "text",
    "answer": "of",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 가방은 가죽으로 만들어졌다."
   },
   {
    "id": "1-11-11",
@@ -3432,7 +3717,8 @@
    "choices": null,
    "kind": "text",
    "answer": "at",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 그 소식에 놀랐다."
   },
   {
    "id": "1-12-01",
@@ -3444,7 +3730,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was baked by → baked",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Dorothy 부인이 빵을 구웠다."
   },
   {
    "id": "1-12-02",
@@ -3456,7 +3743,8 @@
    "choices": null,
    "kind": "text",
    "answer": "are bought → were bought",
-   "explanation": ""
+   "explanation": "",
+   "kr": "어젯밤에 아빠가 책을 몇 권 사셨다(사 오셨다)."
   },
   {
    "id": "1-12-03",
@@ -3468,7 +3756,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Do → Are",
-   "explanation": ""
+   "explanation": "",
+   "kr": "너희 식사는 주말마다 아빠가 요리하시니?"
   },
   {
    "id": "1-12-04",
@@ -3480,7 +3769,8 @@
    "choices": null,
    "kind": "text",
    "answer": "plays → is played",
-   "explanation": ""
+   "explanation": "",
+   "kr": "축구는 세계 대부분의 나라에서 경기된다."
   },
   {
    "id": "1-12-05",
@@ -3492,7 +3782,8 @@
    "choices": null,
    "kind": "text",
    "answer": "did the letter send → was the letter sent",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 편지는 왜 잘못된 주소로 보내졌니?"
   },
   {
    "id": "1-12-06",
@@ -3504,7 +3795,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is → are",
-   "explanation": ""
+   "explanation": "",
+   "kr": "영어와 프랑스어는 캐나다에서 사용된다."
   },
   {
    "id": "1-12-07",
@@ -3516,7 +3808,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was stolen → stole",
-   "explanation": ""
+   "explanation": "",
+   "kr": "장 발장은 빵을 훔쳤다."
   },
   {
    "id": "1-12-08",
@@ -3528,7 +3821,8 @@
    "choices": null,
    "kind": "text",
    "answer": "to → by",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 그림은 피카소에 의해 그려졌다."
   },
   {
    "id": "1-12-09",
@@ -3540,7 +3834,8 @@
    "choices": null,
    "kind": "text",
    "answer": "built → was built",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 집은 100년 전에 지어졌다."
   },
   {
    "id": "1-12-10",
@@ -3552,7 +3847,8 @@
    "choices": null,
    "kind": "text",
    "answer": "are → were",
-   "explanation": ""
+   "explanation": "",
+   "kr": "당신은 어디에서 태어났습니까?"
   },
   {
    "id": "1-12-11",
@@ -3564,7 +3860,8 @@
    "choices": null,
    "kind": "text",
    "answer": "speaking → spoken",
-   "explanation": ""
+   "explanation": "",
+   "kr": "스위스에서는 몇 개 언어가 사용되니?"
   },
   {
    "id": "1-12-12",
@@ -3576,7 +3873,8 @@
    "choices": null,
    "kind": "text",
    "answer": "stolen → was stolen",
-   "explanation": ""
+   "explanation": "",
+   "kr": "누군가 우리 집에 침입했지만 아무것도 도난당하지 않았다."
   },
   {
    "id": "1-12-13",
@@ -3588,7 +3886,8 @@
    "choices": null,
    "kind": "text",
    "answer": "invented the bicycle → the bicycle invented",
-   "explanation": ""
+   "explanation": "",
+   "kr": "자전거는 언제 발명되었니?"
   },
   {
    "id": "1-12-14",
@@ -3600,7 +3899,8 @@
    "choices": null,
    "kind": "text",
    "answer": "J.K. Rowling → by J.K. Rowling",
-   "explanation": ""
+   "explanation": "",
+   "kr": "해리 포터는 J.K. 롤링에 의해 쓰였다."
   },
   {
    "id": "1-12-15",
@@ -3612,7 +3912,8 @@
    "choices": null,
    "kind": "text",
    "answer": "covered → was covered",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 숲은 키 큰 소나무들로 덮여 있었다."
   },
   {
    "id": "1-12-16",
@@ -3624,7 +3925,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Is life existed → Does life exist",
-   "explanation": ""
+   "explanation": "",
+   "kr": "다른 행성에도 생명체가 존재하니?"
   },
   {
    "id": "1-12-17",
@@ -3636,7 +3938,8 @@
    "choices": null,
    "kind": "text",
    "answer": "built → was built",
-   "explanation": ""
+   "explanation": "",
+   "kr": "에펠탑은 1889년에 프랑스 기술자 귀스타브 에펠에 의해 지어졌다."
   },
   {
    "id": "1-12-18",
@@ -3648,7 +3951,8 @@
    "choices": null,
    "kind": "text",
    "answer": "were → was",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 차는 한국에서 만들어졌다."
   },
   {
    "id": "1-12-19",
@@ -3660,7 +3964,8 @@
    "choices": null,
    "kind": "text",
    "answer": "to → by",
-   "explanation": ""
+   "explanation": "",
+   "kr": "전구는 에디슨에 의해 발명되었다."
   },
   {
    "id": "1-12-20",
@@ -3672,7 +3977,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Did → Was",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 방은 그녀가 청소했니?"
   },
   {
    "id": "1-12-21",
@@ -3684,7 +3990,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was held → held",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 독도에서 콘서트를 열었다."
   },
   {
    "id": "1-12-22",
@@ -3696,7 +4003,8 @@
    "choices": null,
    "kind": "text",
    "answer": "cleaning → cleaned",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 방은 직원이 청소할 것이다."
   },
   {
    "id": "1-12-23",
@@ -3708,7 +4016,8 @@
    "choices": null,
    "kind": "text",
    "answer": "chasing → chased",
-   "explanation": ""
+   "explanation": "",
+   "kr": "토끼는 호랑이에게 쫓기고 있다."
   },
   {
    "id": "1-12-24",
@@ -3720,7 +4029,8 @@
    "choices": null,
    "kind": "text",
    "answer": "caught → was caught or caught by → caught",
-   "explanation": ""
+   "explanation": "",
+   "kr": "개가 큰 쥐에게 잡혔다."
   },
   {
    "id": "1-12-25",
@@ -3732,7 +4042,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is eaten → eats",
-   "explanation": ""
+   "explanation": "",
+   "kr": "내 반려견은 매일 사탕 두 개를 먹는다."
   },
   {
    "id": "1-12-26",
@@ -3744,7 +4055,8 @@
    "choices": null,
    "kind": "text",
    "answer": "will prepared → will be prepared",
-   "explanation": ""
+   "explanation": "",
+   "kr": "파티를 위해 많은 음식이 그들에 의해 준비될 것이다."
   },
   {
    "id": "1-12-27",
@@ -3756,7 +4068,8 @@
    "choices": null,
    "kind": "text",
    "answer": "did the bridge build → was the bridge built",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 다리는 언제 지어졌니?"
   },
   {
    "id": "1-12-28",
@@ -3768,7 +4081,8 @@
    "choices": null,
    "kind": "text",
    "answer": "wasn't taken → didn't take",
-   "explanation": ""
+   "explanation": "",
+   "kr": "준수는 우산을 가져가지 않았다."
   },
   {
    "id": "1-12-29",
@@ -3780,7 +4094,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was appeared → appeared",
-   "explanation": ""
+   "explanation": "",
+   "kr": "버스가 모퉁이를 돌아 나타났다."
   },
   {
    "id": "1-12-30",
@@ -3792,7 +4107,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was changed → changed",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 책은 내 삶을 완전히 바꿔 놓았다."
   },
   {
    "id": "1-12-31",
@@ -3804,7 +4120,8 @@
    "choices": null,
    "kind": "text",
    "answer": "didn't build → weren't built",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 건물들은 그들에 의해 지어지지 않았다."
   },
   {
    "id": "1-12-32",
@@ -3816,7 +4133,8 @@
    "choices": null,
    "kind": "text",
    "answer": "study → to study[studying]",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 내가 영어를 공부하는 것을 보았다."
   },
   {
    "id": "1-12-33",
@@ -3828,7 +4146,8 @@
    "choices": null,
    "kind": "text",
    "answer": "will be → was",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 차는 어제 사고로 부서졌다."
   },
   {
    "id": "1-12-34",
@@ -3840,7 +4159,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was watered → watered",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우리 엄마는 어제 꽃에 물을 주셨다."
   },
   {
    "id": "1-12-35",
@@ -3852,7 +4172,8 @@
    "choices": null,
    "kind": "text",
    "answer": "loves → is loved",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 가수는 모든 한국인에게 사랑받는다."
   },
   {
    "id": "1-12-36",
@@ -3864,7 +4185,8 @@
    "choices": null,
    "kind": "text",
    "answer": "finding → found",
-   "explanation": ""
+   "explanation": "",
+   "kr": "황금 가면은 White 씨에 의해 발견되었다."
   },
   {
    "id": "1-12-37",
@@ -3876,7 +4198,8 @@
    "choices": null,
    "kind": "text",
    "answer": "wrote → written",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 책은 누가 썼니?"
   },
   {
    "id": "1-12-38",
@@ -3888,7 +4211,8 @@
    "choices": null,
    "kind": "text",
    "answer": "will easily solved → will be easily solved",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 문제는 그가 쉽게 풀 것이다."
   },
   {
    "id": "1-12-39",
@@ -3900,7 +4224,8 @@
    "choices": null,
    "kind": "text",
    "answer": "wasn't → weren't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 사진들은 그때 찍히지 않았다."
   },
   {
    "id": "1-12-40",
@@ -3912,7 +4237,8 @@
    "choices": null,
    "kind": "text",
    "answer": "bring → brought",
-   "explanation": ""
+   "explanation": "",
+   "kr": "좋은 이름은 행운을 가져다줄 것이다."
   },
   {
    "id": "1-12-41",
@@ -3924,7 +4250,8 @@
    "choices": null,
    "kind": "text",
    "answer": "will saved → will be saved",
-   "explanation": ""
+   "explanation": "",
+   "kr": "태양열 발전으로 많은 에너지가 절약될 것이다."
   },
   {
    "id": "1-12-42",
@@ -3936,7 +4263,8 @@
    "choices": null,
    "kind": "text",
    "answer": "broke → broken",
-   "explanation": ""
+   "explanation": "",
+   "kr": "네 컴퓨터 화면은 언제 깨졌니?"
   },
   {
    "id": "1-12-43",
@@ -3948,7 +4276,8 @@
    "choices": null,
    "kind": "text",
    "answer": "deliver → delivered",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 책은 내일까지 네게 배달될 것이다."
   },
   {
    "id": "1-12-44",
@@ -3960,7 +4289,8 @@
    "choices": null,
    "kind": "text",
    "answer": "by → of",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 가방은 가죽으로 만들어졌다."
   },
   {
    "id": "1-12-45",
@@ -3972,7 +4302,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was had → had",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 새 차와 보트를 가지고 있었다."
   },
   {
    "id": "1-12-46",
@@ -3984,7 +4315,8 @@
    "choices": null,
    "kind": "text",
    "answer": "by → with",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Jane은 자신의 아파트에 만족하지 않는다."
   },
   {
    "id": "1-12-47",
@@ -3996,7 +4328,8 @@
    "choices": null,
    "kind": "text",
    "answer": "by → with",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 그의 훌륭한 연기에 만족했다."
   },
   {
    "id": "1-12-48",
@@ -4008,7 +4341,8 @@
    "choices": null,
    "kind": "text",
    "answer": "loved → is loved",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 Mario가 모든 사람에게 사랑받는다고 생각하지 않는다."
   },
   {
    "id": "1-12-49",
@@ -4020,7 +4354,8 @@
    "choices": null,
    "kind": "text",
    "answer": "to Kitty → Kitty",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 고양이는 Jenny에 의해 Kitty라고 불렸다."
   },
   {
    "id": "1-12-50",
@@ -4032,7 +4367,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is → will be",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 가게는 다음 주에 문을 열 것이다."
   },
   {
    "id": "1-12-51",
@@ -4044,7 +4380,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Who → Who was",
-   "explanation": ""
+   "explanation": "",
+   "kr": "미국은 누구에 의해 발견되었니?"
   },
   {
    "id": "1-13-01",
@@ -4056,7 +4393,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The letters were read by him yesterday.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "1-13-02",
@@ -4068,7 +4406,8 @@
    "choices": null,
    "kind": "text",
    "answer": "This machine was invented by my father.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "1-13-03",
@@ -4080,7 +4419,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Oranges are imported into Korea.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "1-13-04",
@@ -4092,7 +4432,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The play was written by William Shakespeare.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "1-13-05",
@@ -4104,7 +4445,8 @@
    "choices": null,
    "kind": "text",
    "answer": "I was bitten by a dog",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "1-13-06",
@@ -4116,7 +4458,8 @@
    "choices": null,
    "kind": "text",
    "answer": "When was the telephone invented?",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "1-13-07",
@@ -4128,7 +4471,8 @@
    "choices": null,
    "kind": "text",
    "answer": "French is spoken in Canada.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "1-13-08",
@@ -4140,7 +4484,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The door was locked by John.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "1-13-09",
@@ -4152,7 +4497,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The children were found by the police.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "1-13-10",
@@ -4164,7 +4510,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The promise was kept by everybody.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "1-13-11",
@@ -4176,7 +4523,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Many actors were injured",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "1-13-12",
@@ -4188,7 +4536,8 @@
    "choices": null,
    "kind": "text",
    "answer": "They believed a paper was invented by Chinese.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "1-13-13",
@@ -4200,7 +4549,8 @@
    "choices": null,
    "kind": "text",
    "answer": "These cookies were baked by my mom.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "1-13-14",
@@ -4212,7 +4562,8 @@
    "choices": null,
    "kind": "text",
    "answer": "the chairs were broken by Minsu",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-01-01",
@@ -4224,7 +4575,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The movie was so boring that I fell asleep.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 영화는 너무 지루해서 나는 잠들었다."
   },
   {
    "id": "2-01-02",
@@ -4236,7 +4588,8 @@
    "choices": null,
    "kind": "text",
    "answer": "This computer is so small that I can carry it.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 컴퓨터는 너무 작아서 내가 들고 다닐 수 있다."
   },
   {
    "id": "2-01-03",
@@ -4248,7 +4601,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The coffee was so hot that she couldn't drink it.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 커피는 너무 뜨거워서 그녀는 마실 수 없었다."
   },
   {
    "id": "2-01-04",
@@ -4260,7 +4614,8 @@
    "choices": null,
    "kind": "text",
    "answer": "She studied so hard that she passed the exam.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 너무 열심히 공부해서 시험에 합격했다."
   },
   {
    "id": "2-01-05",
@@ -4272,7 +4627,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The table was so heavy that I couldn't move it.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 탁자는 너무 무거워서 나는 옮길 수 없었다."
   },
   {
    "id": "2-01-06",
@@ -4284,7 +4640,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The questions are so difficult that I can't answer them.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 문제들은 너무 어려워서 나는 답할 수 없다."
   },
   {
    "id": "2-01-07",
@@ -4296,7 +4653,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Jack was injured so badly that he had to be in the hospital for a few months.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Jack은 너무 심하게 다쳐서 몇 달 동안 입원해야 했다."
   },
   {
    "id": "2-01-08",
@@ -4308,7 +4666,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Today was so warm that I could hardly work.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "오늘은 너무 따뜻해서 나는 거의 일할 수 없었다."
   },
   {
    "id": "2-01-09",
@@ -4320,7 +4679,8 @@
    "choices": null,
    "kind": "text",
    "answer": "I was so tired last night that I couldn't fall asleep.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 어젯밤 너무 피곤해서 잠들 수 없었다."
   },
   {
    "id": "2-01-10",
@@ -4332,7 +4692,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Jenny was so thirsty that she decided to have a lot of water.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Jenny는 너무 목이 말라서 물을 많이 마시기로 했다."
   },
   {
    "id": "2-01-11",
@@ -4344,7 +4705,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Two hours are so short that we can't discuss it.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "두 시간은 너무 짧아서 우리는 그것을 논의할 수 없다."
   },
   {
    "id": "2-01-12",
@@ -4356,7 +4718,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The animal moves so quickly that people can't see it.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 동물은 너무 빨리 움직여서 사람들이 볼 수 없다."
   },
   {
    "id": "2-01-13",
@@ -4368,7 +4731,8 @@
    "choices": null,
    "kind": "text",
    "answer": "He spoke so quickly that I couldn't understand him.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 빨리 말해서 나는 그를 이해할 수 없었다."
   },
   {
    "id": "2-01-14",
@@ -4380,7 +4744,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The lecture was so interesting that Jenny listened to it carefully.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 강의는 너무 흥미로워서 Jenny는 주의 깊게 들었다."
   },
   {
    "id": "2-01-15",
@@ -4392,7 +4757,8 @@
    "choices": null,
    "kind": "text",
    "answer": "You run so fast that I can't follow you.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "너는 너무 빨리 달려서 나는 너를 따라갈 수 없다."
   },
   {
    "id": "2-01-16",
@@ -4404,7 +4770,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Gangnam becomes so popular that thousands of tourists visit there every day.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "강남은 너무 유명해져서 매일 수천 명의 관광객이 그곳을 방문한다."
   },
   {
    "id": "2-01-17",
@@ -4416,7 +4783,8 @@
    "choices": null,
    "kind": "text",
    "answer": "He is too busy to take a break.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 바빠서 쉴 수 없다."
   },
   {
    "id": "2-01-18",
@@ -4428,7 +4796,8 @@
    "choices": null,
    "kind": "text",
    "answer": "I was too hungry to say a word.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 너무 배고파서 한마디도 할 수 없었다."
   },
   {
    "id": "2-01-19",
@@ -4440,7 +4809,8 @@
    "choices": null,
    "kind": "text",
    "answer": "She has become too fat to wear her old clothes.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 너무 살이 쪄서 예전 옷을 입을 수 없다."
   },
   {
    "id": "2-01-20",
@@ -4452,7 +4822,8 @@
    "choices": null,
    "kind": "text",
    "answer": "He was too nervous to perform well on stage.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 긴장해서 무대에서 잘 해내지 못했다."
   },
   {
    "id": "2-01-21",
@@ -4464,7 +4835,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Judy arrived too late to catch the train.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Judy는 너무 늦게 도착해서 기차를 탈 수 없었다."
   },
   {
    "id": "2-01-22",
@@ -4476,7 +4848,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Her behaviour was too rude for me to tolerate.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀의 행동은 너무 무례해서 나는 참을 수 없었다."
   },
   {
    "id": "2-01-23",
@@ -4488,7 +4861,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The weather was too hot for us to go out.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "날씨가 너무 더워서 우리는 나가지 않았다."
   },
   {
    "id": "2-01-24",
@@ -4500,7 +4874,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The problem was too difficult for me to solve.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 문제는 너무 어려워서 나는 풀 수 없었다."
   },
   {
    "id": "2-02-01",
@@ -4512,7 +4887,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so warm",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 바닥이 매우 따뜻해서 한옥을 좋아한다."
   },
   {
    "id": "2-02-02",
@@ -4524,7 +4900,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so dark that",
-   "explanation": ""
+   "explanation": "",
+   "kr": "너무 어두워서 그는 불을 켰다."
   },
   {
    "id": "2-02-03",
@@ -4536,7 +4913,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so fast that I can't understand her",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀가 너무 빨리 말해서 나는 그녀를 이해할 수 없다."
   },
   {
    "id": "2-02-04",
@@ -4548,7 +4926,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so exciting that",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 영화가 너무 재미있어서 나는 그것을 다시 보고 싶었다."
   },
   {
    "id": "2-02-05",
@@ -4560,7 +4939,8 @@
    "choices": null,
    "kind": "text",
    "answer": "sick that I couldn’t",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 어제 너무 아파서 학교에 갈 수 없었다."
   },
   {
    "id": "2-02-06",
@@ -4572,7 +4952,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so sick that she couldn't go",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 너무 아파서 학교에 갈 수 없었다."
   },
   {
    "id": "2-02-07",
@@ -4584,7 +4965,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so strong that it blew my hat off my head",
-   "explanation": ""
+   "explanation": "",
+   "kr": "바람이 너무 세서 내 모자가 머리에서 날아갔다."
   },
   {
    "id": "2-02-08",
@@ -4596,7 +4978,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so close to my homestay family that it was hard",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 홈스테이 가족과 너무 가까워져서 작별 인사를 하기가 힘들었다."
   },
   {
    "id": "2-03-01",
@@ -4608,7 +4991,8 @@
    "choices": null,
    "kind": "text",
    "answer": "excited",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 너무 신이 나서 잠들 수 없었다."
   },
   {
    "id": "2-03-02",
@@ -4620,7 +5004,8 @@
    "choices": null,
    "kind": "text",
    "answer": "heavy",
-   "explanation": ""
+   "explanation": "",
+   "kr": "비가 너무 많이 와서 우리의 소풍이 불가능했다."
   },
   {
    "id": "2-03-03",
@@ -4632,7 +5017,8 @@
    "choices": null,
    "kind": "text",
    "answer": "fast",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 너무 빨리 걸어서 그가 나를 따라잡을 수 없었다."
   },
   {
    "id": "2-03-04",
@@ -4644,7 +5030,8 @@
    "choices": null,
    "kind": "text",
    "answer": "dark",
-   "explanation": ""
+   "explanation": "",
+   "kr": "너무 어두워서 나는 그의 얼굴을 볼 수 없었다."
   },
   {
    "id": "2-03-05",
@@ -4656,7 +5043,8 @@
    "choices": null,
    "kind": "text",
    "answer": "bright",
-   "explanation": ""
+   "explanation": "",
+   "kr": "빛이 너무 밝아서 그녀는 눈을 가려야 했다."
   },
   {
    "id": "2-03-06",
@@ -4668,7 +5056,8 @@
    "choices": null,
    "kind": "text",
    "answer": "clearly",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우리 선생님은 너무 또렷하게 말씀하셔서 모두가 이해할 수 있다."
   },
   {
    "id": "2-03-07",
@@ -4680,7 +5069,8 @@
    "choices": null,
    "kind": "text",
    "answer": "beautiful",
-   "explanation": ""
+   "explanation": "",
+   "kr": "너는 너무 아름다워서 나는 눈을 뗄 수 없다."
   },
   {
    "id": "2-03-08",
@@ -4692,7 +5082,8 @@
    "choices": null,
    "kind": "text",
    "answer": "easy",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 시험은 너무 쉬워서 나는 답을 확인할 필요가 없었다."
   },
   {
    "id": "2-03-09",
@@ -4704,7 +5095,8 @@
    "choices": null,
    "kind": "text",
    "answer": "horrible",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우리는 너무 끔찍한 하루를 보내서 우울했다."
   },
   {
    "id": "2-03-10",
@@ -4716,7 +5108,8 @@
    "choices": null,
    "kind": "text",
    "answer": "boring",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 프로그램들은 너무 지루해서 아무도 보지 않는다."
   },
   {
    "id": "2-03-11",
@@ -4728,7 +5121,8 @@
    "choices": null,
    "kind": "text",
    "answer": "much",
-   "explanation": ""
+   "explanation": "",
+   "kr": "너는 너무 많이 자라서 나는 너를 거의 알아보지 못했다."
   },
   {
    "id": "2-03-12",
@@ -4740,7 +5134,8 @@
    "choices": null,
    "kind": "text",
    "answer": "busy",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 너무 바빠서 쇼핑하러 갈 수 없었다."
   },
   {
    "id": "2-03-13",
@@ -4752,7 +5147,8 @@
    "choices": null,
    "kind": "text",
    "answer": "hot",
-   "explanation": ""
+   "explanation": "",
+   "kr": "여름에는 너무 더워서 잠을 잘 수 없다."
   },
   {
    "id": "2-03-14",
@@ -4764,7 +5160,8 @@
    "choices": null,
    "kind": "text",
    "answer": "tired",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 피곤해서 더 이상 걸을 수 없었다."
   },
   {
    "id": "2-03-15",
@@ -4776,7 +5173,8 @@
    "choices": null,
    "kind": "text",
    "answer": "poor",
-   "explanation": ""
+   "explanation": "",
+   "kr": "어떤 아이들은 너무 가난해서 원하는 장난감을 살 수 없다."
   },
   {
    "id": "2-03-16",
@@ -4788,7 +5186,8 @@
    "choices": null,
    "kind": "text",
    "answer": "sleepy",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그들은 너무 졸려서 수업에 집중할 수 없었다."
   },
   {
    "id": "2-03-17",
@@ -4800,7 +5199,8 @@
    "choices": null,
    "kind": "text",
    "answer": "nervous",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 너무 긴장해서 시험을 잘 볼 수 없었다."
   },
   {
    "id": "2-03-18",
@@ -4812,7 +5212,8 @@
    "choices": null,
    "kind": "text",
    "answer": "tall",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 트럭은 너무 높아서 터널을 지나갈 수 없다."
   },
   {
    "id": "2-03-19",
@@ -4824,7 +5225,8 @@
    "choices": null,
    "kind": "text",
    "answer": "interesting",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 책은 너무 재미있어서 하루 만에 다 읽을 수 있다."
   },
   {
    "id": "2-03-20",
@@ -4836,7 +5238,8 @@
    "choices": null,
    "kind": "text",
    "answer": "cold",
-   "explanation": ""
+   "explanation": "",
+   "kr": "날씨가 너무 추워서 강이 얼었다."
   },
   {
    "id": "2-03-21",
@@ -4848,7 +5251,8 @@
    "choices": null,
    "kind": "text",
    "answer": "heavy",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 도끼는 너무 무거워서 아무도 들 수 없었다."
   },
   {
    "id": "2-03-22",
@@ -4860,7 +5264,8 @@
    "choices": null,
    "kind": "text",
    "answer": "hot",
-   "explanation": ""
+   "explanation": "",
+   "kr": "도로 표면이 너무 뜨거워져서 녹았다."
   },
   {
    "id": "2-03-23",
@@ -4872,7 +5277,8 @@
    "choices": null,
    "kind": "text",
    "answer": "expensive",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 반지는 너무 비싸서 James는 여자친구에게 사 줄 수 없다."
   },
   {
    "id": "2-04-01",
@@ -4884,7 +5290,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too, to",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 화가 나서 말할 수 없었다."
   },
   {
    "id": "2-04-02",
@@ -4896,7 +5303,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too, to",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 너무 피곤해서 더 이상 걸을 수 없다."
   },
   {
    "id": "2-04-03",
@@ -4908,7 +5316,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too, to cross",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 트럭은 너무 무거워서 다리를 건널 수 없었다."
   },
   {
    "id": "2-04-04",
@@ -4920,7 +5329,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too shy to",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Calvin은 너무 수줍어서 반 친구들과 어울리지 못한다."
   },
   {
    "id": "2-04-05",
@@ -4932,7 +5342,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too short to",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 어린 소년은 키가 너무 작아서 선반에 손이 닿지 않는다."
   },
   {
    "id": "2-04-06",
@@ -4944,7 +5355,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too big to wear",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 커서 그 청바지를 입을 수 없다."
   },
   {
    "id": "2-04-07",
@@ -4956,7 +5368,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too busy to play tennis",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 너무 바빠서 그와 테니스를 칠 수 없다."
   },
   {
    "id": "2-04-08",
@@ -4968,7 +5381,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too difficult, to read",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 책은 너무 어려워서 나는 읽을 수 없다."
   },
   {
    "id": "2-04-09",
@@ -4980,7 +5394,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too big for me to wear",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 파란 셔츠는 너무 커서 나는 입을 수 없다."
   },
   {
    "id": "2-04-10",
@@ -4992,7 +5407,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is too hot for her to touch",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 접시는 너무 뜨거워서 그녀는 만질 수 없다."
   },
   {
    "id": "2-04-11",
@@ -5004,7 +5420,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so, that",
-   "explanation": ""
+   "explanation": "",
+   "kr": "준호는 너무 놀라서 아무 말도 할 수 없었다."
   },
   {
    "id": "2-04-12",
@@ -5016,7 +5433,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so shy that",
-   "explanation": ""
+   "explanation": "",
+   "kr": "James는 너무 수줍어서 낯선 사람들에게 말을 걸 수 없다."
   },
   {
    "id": "2-04-13",
@@ -5028,7 +5446,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so, that, couldn't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 피곤해서 방을 청소할 수 없었다."
   },
   {
    "id": "2-04-14",
@@ -5040,7 +5459,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so, couldn't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 긴장해서 잠잘 수 없었다."
   },
   {
    "id": "2-04-15",
@@ -5052,7 +5472,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so, that, couldn't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "너무 어두워서 우리는 곰의 발자국을 따라갈 수 없었다."
   },
   {
    "id": "2-04-16",
@@ -5064,7 +5485,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so, that, can't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Adam은 너무 어려서 먼 거리를 여행할 수 없다."
   },
   {
    "id": "2-04-17",
@@ -5076,7 +5498,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so, that, can't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 상자는 너무 무거워서 나는 그것을 들 수 없다."
   },
   {
    "id": "2-04-18",
@@ -5088,7 +5511,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so poor that, can't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "윤 씨는 너무 가난해서 집을 살 수 없다."
   },
   {
    "id": "2-04-19",
@@ -5100,7 +5524,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so tired, she couldn't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Judy는 너무 피곤해서 밖에 나갈 수 없었다."
   },
   {
    "id": "2-04-20",
@@ -5112,7 +5537,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so exhausted that I couldn't go",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 너무 지쳐서 산 정상까지 올라갈 수 없었다."
   },
   {
    "id": "2-04-21",
@@ -5124,7 +5550,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so ambitious that he couldn't be",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 남자는 너무 야심이 커서 그 상에 만족할 수 없었다."
   },
   {
    "id": "2-04-22",
@@ -5136,7 +5563,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so young that he can't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Tommy는 너무 어려서 차를 운전할 수 없다."
   },
   {
    "id": "2-04-23",
@@ -5148,7 +5576,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was so short that he couldn't reach the books",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 키가 너무 작아서 책에 손이 닿지 않았다."
   },
   {
    "id": "2-04-24",
@@ -5160,7 +5589,8 @@
    "choices": null,
    "kind": "text",
    "answer": "was so young that he couldn't walk",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 어려서 걸을 수 없었다."
   },
   {
    "id": "2-04-25",
@@ -5172,7 +5602,8 @@
    "choices": null,
    "kind": "text",
    "answer": "high that boats can’t leave the port",
-   "explanation": ""
+   "explanation": "",
+   "kr": "파도가 너무 높아서 배들이 항구를 떠날 수 없다."
   },
   {
    "id": "2-04-26",
@@ -5184,7 +5615,8 @@
    "choices": null,
    "kind": "text",
    "answer": "short, she couldn't press",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 키가 너무 작아서 버튼을 누를 수 없었다."
   },
   {
    "id": "2-04-27",
@@ -5196,7 +5628,8 @@
    "choices": null,
    "kind": "text",
    "answer": "that he couldn't eat lunch",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Kevin은 너무 바빠서 점심을 먹을 수 없었다."
   },
   {
    "id": "2-04-28",
@@ -5208,7 +5641,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so nervous, they couldn't sleep",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그들은 너무 긴장해서 잘 수 없었다."
   },
   {
    "id": "2-04-29",
@@ -5220,7 +5654,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so hard that she can’t solve it",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 문제는 너무 어려워서 그녀가 풀 수 없다."
   },
   {
    "id": "2-04-30",
@@ -5232,7 +5667,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so nice that we went to the zoo",
-   "explanation": ""
+   "explanation": "",
+   "kr": "날씨가 너무 좋아서 우리는 동물원에 갔다."
   },
   {
    "id": "2-04-31",
@@ -5244,7 +5680,8 @@
    "choices": null,
    "kind": "text",
    "answer": "is so difficult that I can't solve it",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 문제는 너무 어려워서 나는 풀 수 없다."
   },
   {
    "id": "2-04-32",
@@ -5256,7 +5693,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so angry that",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 너무 화가 나서 청중에게 소리를 질렀다."
   },
   {
    "id": "2-04-33",
@@ -5268,7 +5706,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so, that I can’t carry",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 탁자는 너무 무거워서 나는 그것을 들 수 없다."
   },
   {
    "id": "2-04-34",
@@ -5280,7 +5719,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so, that she couldn't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Cathy는 너무 피곤해서 개를 산책시킬 수 없었다."
   },
   {
    "id": "2-04-35",
@@ -5292,7 +5732,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too weak to catch, so weak that it couldn't catch",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 새는 너무 약해서 벌레를 잡을 수 없었다.\n그 새는 너무 약해서 벌레를 잡을 수 없었다."
   },
   {
    "id": "2-05-01",
@@ -5304,7 +5745,8 @@
    "choices": null,
    "kind": "text",
    "answer": "(1) sleepy that I couldn't keep my eyes open   /   (2) too sleepy to keep my eyes open",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 너무 졸려서 눈을 뜨고 있을 수 없었다.\n나는 너무 졸려서 눈을 뜨고 있을 수 없었다."
   },
   {
    "id": "2-05-02",
@@ -5316,7 +5758,8 @@
    "choices": null,
    "kind": "text",
    "answer": "(1) She was so busy that she couldn't take summer holiday last year.   /   (2) She was too busy to take summer holiday last year.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 너무 바빠서 작년에 여름휴가를 갈 수 없었다.\n그녀는 너무 바빠서 작년에 여름휴가를 갈 수 없었다."
   },
   {
    "id": "2-05-03",
@@ -5328,7 +5771,8 @@
    "choices": null,
    "kind": "text",
    "answer": "(1) I was so sick that I couldn't do my homework.   /   (2) I was too sick to do my homework.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 너무 아파서 숙제를 할 수 없었다.\n나는 너무 아파서 숙제를 할 수 없었다."
   },
   {
    "id": "2-05-04",
@@ -5340,7 +5784,8 @@
    "choices": null,
    "kind": "text",
    "answer": "(1) was so nervous that she couldn't sit still   /   (2) The girl was too nervous to sit still.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 소녀는 너무 긴장해서 가만히 앉아 있을 수 없었다.\n그 소녀는 너무 긴장해서 가만히 앉아 있을 수 없었다."
   },
   {
    "id": "2-05-05",
@@ -5352,7 +5797,8 @@
    "choices": null,
    "kind": "text",
    "answer": "(1) We were so late that we couldn't go to the party.   /   (2) We were too late to go to the party.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우리는 너무 늦어서 파티에 갈 수 없었다.\n우리는 너무 늦어서 파티에 갈 수 없었다."
   },
   {
    "id": "2-05-06",
@@ -5364,7 +5810,8 @@
    "choices": null,
    "kind": "text",
    "answer": "(1) I was so sleepy that I couldn’t focus in class.   /   (2) I was too sleepy to focus in class.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 너무 졸려서 수업에 집중할 수 없었다.\n나는 너무 졸려서 수업에 집중할 수 없었다."
   },
   {
    "id": "2-05-07",
@@ -5376,7 +5823,8 @@
    "choices": null,
    "kind": "text",
    "answer": "(1) She was so exhausted that she couldn't take care of her two brothers any more.   /   (2) She was too exhausted to take care of her two brothers any more.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 너무 지쳐서 더 이상 두 남동생을 돌볼 수 없었다.\n그녀는 너무 지쳐서 더 이상 두 남동생을 돌볼 수 없었다."
   },
   {
    "id": "2-05-08",
@@ -5388,7 +5836,8 @@
    "choices": null,
    "kind": "text",
    "answer": "(1) are so heavy that she can’t carry them   /   (2) too heavy for her to carry",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 가방들은 너무 무거워서 그녀는 그것들을 들 수 없다.\n그 가방들은 너무 무거워서 그녀는 그것들을 들 수 없다."
   },
   {
    "id": "2-05-09",
@@ -5400,7 +5849,8 @@
    "choices": null,
    "kind": "text",
    "answer": "(1) is so difficult that I can’t understand it   /   (2) is too difficult for me to understand",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 책은 너무 어려워서 나는 이해할 수 없다.\n그 책은 너무 어려워서 나는 이해할 수 없다."
   },
   {
    "id": "2-05-10",
@@ -5412,7 +5862,8 @@
    "choices": null,
    "kind": "text",
    "answer": "(1) The shirt was so small that I couldn't wear it.   /   (2) The shirt was too small for me to wear.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 셔츠는 너무 작아서 나는 입을 수 없었다.\n그 셔츠는 너무 작아서 나는 입을 수 없었다."
   },
   {
    "id": "2-06-01",
@@ -5424,7 +5875,8 @@
    "choices": null,
    "kind": "text",
    "answer": "(1) old that she couldn't run fast   /   (2) too old to run fast",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-06-02",
@@ -5436,7 +5888,8 @@
    "choices": null,
    "kind": "text",
    "answer": "(1) so sick that she couldn't go out   /   (2) too sick to go out",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-06-03",
@@ -5448,7 +5901,8 @@
    "choices": null,
    "kind": "text",
    "answer": "(1) was so hot that I couldn't drink it   /   (2) was too hot for me to drink",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-06-04",
@@ -5460,7 +5914,8 @@
    "choices": null,
    "kind": "text",
    "answer": "(1) I was so busy that I couldn't play with my son.   /   (1) I was too busy to play with my son.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-06-05",
@@ -5472,7 +5927,8 @@
    "choices": null,
    "kind": "text",
    "answer": "(1) was so expensive that I couldn’t buy it   /   (2) was too expensive for me to buy",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-07-01",
@@ -5484,7 +5940,8 @@
    "choices": null,
    "kind": "text",
    "answer": "She is too young to go to school.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 너무 어려서 학교에 갈 수 없다."
   },
   {
    "id": "2-07-02",
@@ -5496,7 +5953,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Judy was so full that she couldn't drink a glass of water.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Judy는 너무 배가 불러서 물 한 잔도 마실 수 없었다."
   },
   {
    "id": "2-07-03",
@@ -5508,7 +5966,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Tom was too shy to ask out Anne for a date.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Tom은 너무 수줍어서 Anne에게 데이트를 신청할 수 없었다."
   },
   {
    "id": "2-07-04",
@@ -5520,7 +5979,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Amelia was too weak to travel long distance.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Amelia는 너무 약해서 먼 거리를 여행할 수 없었다."
   },
   {
    "id": "2-07-05",
@@ -5532,7 +5992,8 @@
    "choices": null,
    "kind": "text",
    "answer": "My daughter is so young that she can’t go to school.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "내 딸은 너무 어려서 학교에 갈 수 없다."
   },
   {
    "id": "2-07-06",
@@ -5544,7 +6005,8 @@
    "choices": null,
    "kind": "text",
    "answer": "She is too polite to refuse the proposal.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 너무 예의 바라서 그 제안을 거절할 수 없다."
   },
   {
    "id": "2-07-07",
@@ -5556,7 +6018,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The tea was so hot that I couldn’t drink it.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 차는 너무 뜨거워서 나는 마실 수 없었다."
   },
   {
    "id": "2-07-08",
@@ -5568,7 +6031,8 @@
    "choices": null,
    "kind": "text",
    "answer": "We are too tired to walk anymore.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우리는 너무 피곤해서 더 이상 걸을 수 없다."
   },
   {
    "id": "2-07-09",
@@ -5580,7 +6044,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Lucy was so lazy that she couldn’t finish the work on time.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Lucy는 너무 게을러서 제시간에 일을 끝낼 수 없었다."
   },
   {
    "id": "2-07-10",
@@ -5592,7 +6057,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The problem was too difficult for me to find the answer.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 문제는 너무 어려워서 나는 답을 찾을 수 없었다."
   },
   {
    "id": "2-07-11",
@@ -5604,7 +6070,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The stone is too heavy for you to lift.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 돌은 너무 무거워서 너는 들 수 없다."
   },
   {
    "id": "2-07-12",
@@ -5616,7 +6083,8 @@
    "choices": null,
    "kind": "text",
    "answer": "She is so arrogant that she can’t speak to us.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 너무 거만해서 우리에게 말을 걸 수 없다."
   },
   {
    "id": "2-07-13",
@@ -5628,7 +6096,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The movie was too boring for me to watch all the way to the end.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 영화는 너무 지루해서 나는 끝까지 볼 수 없었다."
   },
   {
    "id": "2-07-14",
@@ -5640,7 +6109,8 @@
    "choices": null,
    "kind": "text",
    "answer": "He is too poor to buy it.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 가난해서 그것을 살 수 없다."
   },
   {
    "id": "2-07-15",
@@ -5652,7 +6122,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The pants are so tight that he can't wear them.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 바지는 너무 꽉 껴서 그는 입을 수 없다."
   },
   {
    "id": "2-07-16",
@@ -5664,7 +6135,8 @@
    "choices": null,
    "kind": "text",
    "answer": "When I finished cleaning, I was so tired that I couldn't exercise.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "청소를 끝냈을 때 나는 너무 피곤해서 운동을 할 수 없었다."
   },
   {
    "id": "2-07-17",
@@ -5676,7 +6148,8 @@
    "choices": null,
    "kind": "text",
    "answer": "He is so proud that he can’t admit his fault.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 자존심이 강해서 자신의 잘못을 인정할 수 없다."
   },
   {
    "id": "2-07-18",
@@ -5688,7 +6161,8 @@
    "choices": null,
    "kind": "text",
    "answer": "This news is so good that it cannot be true.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "이 소식은 너무 좋아서 사실일 수 없다."
   },
   {
    "id": "2-07-19",
@@ -5700,7 +6174,8 @@
    "choices": null,
    "kind": "text",
    "answer": "He was so hopeless that he couldn't learn anything.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 희망이 없어서 아무것도 배울 수 없었다."
   },
   {
    "id": "2-07-20",
@@ -5712,7 +6187,8 @@
    "choices": null,
    "kind": "text",
    "answer": "My father was too tired to drive.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "우리 아버지는 너무 피곤해서 운전할 수 없었다."
   },
   {
    "id": "2-07-21",
@@ -5724,7 +6200,8 @@
    "choices": null,
    "kind": "text",
    "answer": "His friends warned him that the fox was so mean that he[she] couldn’t be a friend.",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그의 친구들은 그 여우가 너무 못돼서 친구가 될 수 없다고 그에게 경고했다."
   },
   {
    "id": "2-08-01",
@@ -5736,7 +6213,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so expensive, buy",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 스웨터는 너무 비싸서 Kate는 그것을 살 수 없었다."
   },
   {
    "id": "2-08-02",
@@ -5748,7 +6226,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so fast, come",
-   "explanation": ""
+   "explanation": "",
+   "kr": "준호는 너무 빨라서 1등으로 들어올 수 있었다."
   },
   {
    "id": "2-08-03",
@@ -5760,7 +6239,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so shocked, move",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Susie는 너무 놀라서 한 발자국도 움직일 수 없었다."
   },
   {
    "id": "2-08-04",
@@ -5772,7 +6252,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so fast, follow",
-   "explanation": ""
+   "explanation": "",
+   "kr": "준수는 너무 빨리 달려서 Hanna는 그를 따라갈 수 없다."
   },
   {
    "id": "2-08-05",
@@ -5784,7 +6265,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so busy, attend",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Sunny는 너무 바빠서 회의에 참석할 수 없었다."
   },
   {
    "id": "2-08-06",
@@ -5796,7 +6278,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so early, get",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Judy는 너무 일찍 도착해서 좋은 자리를 잡을 수 있었다."
   },
   {
    "id": "2-08-07",
@@ -5808,7 +6291,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so strong, blew",
-   "explanation": ""
+   "explanation": "",
+   "kr": "바람이 너무 세서 내 모자가 머리에서 날아갔다."
   },
   {
    "id": "2-08-08",
@@ -5820,7 +6304,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so hot, burned",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 음식이 너무 뜨거워서 혀를 데었다."
   },
   {
    "id": "2-08-09",
@@ -5832,7 +6317,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so sick, stay",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 너무 아파서 하루 종일 침대에 누워 있어야 했다."
   },
   {
    "id": "2-08-10",
@@ -5844,7 +6330,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so touched, cried",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Sunny는 너무 감동해서 거의 울 뻔했다."
   },
   {
    "id": "2-08-11",
@@ -5856,7 +6343,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so loud, be heard",
-   "explanation": ""
+   "explanation": "",
+   "kr": "지섭이의 목소리는 너무 커서 멀리서도 들릴 수 있다."
   },
   {
    "id": "2-08-12",
@@ -5868,7 +6356,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so busy, forgot",
-   "explanation": ""
+   "explanation": "",
+   "kr": "지훈이는 너무 바빠서 숙제하는 것을 잊었다."
   },
   {
    "id": "2-08-13",
@@ -5880,7 +6369,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so nice, loves",
-   "explanation": ""
+   "explanation": "",
+   "kr": "성규는 너무 착해서 모두가 그를 사랑한다."
   },
   {
    "id": "2-09-01",
@@ -5892,7 +6382,8 @@
    "choices": null,
    "kind": "text",
    "answer": "like → like him",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Kim 선생님은 너무 친절해서 학생들이 그를 좋아한다."
   },
   {
    "id": "2-09-02",
@@ -5904,7 +6395,8 @@
    "choices": null,
    "kind": "text",
    "answer": "beautiful so → so beautiful",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 장소는 너무 아름다워서 그들은 거기서 살고 싶어 했다."
   },
   {
    "id": "2-09-03",
@@ -5916,7 +6408,8 @@
    "choices": null,
    "kind": "text",
    "answer": "that can't → that he can't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "내 동생은 너무 어려서 그 영화를 볼 수 없다."
   },
   {
    "id": "2-09-04",
@@ -5928,7 +6421,8 @@
    "choices": null,
    "kind": "text",
    "answer": "sudden → suddenly",
-   "explanation": ""
+   "explanation": "",
+   "kr": "버스가 너무 갑자기 출발해서 나는 넘어졌다."
   },
   {
    "id": "2-09-05",
@@ -5940,7 +6434,8 @@
    "choices": null,
    "kind": "text",
    "answer": "can't → couldn't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 너무 바빠서 그에게 전화할 수 없었다."
   },
   {
    "id": "2-09-06",
@@ -5952,7 +6447,8 @@
    "choices": null,
    "kind": "text",
    "answer": "couldn't buy → couldn't buy it",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 가방은 너무 비싸서 그는 그것을 살 수 없었다."
   },
   {
    "id": "2-09-07",
@@ -5964,7 +6460,8 @@
    "choices": null,
    "kind": "text",
    "answer": "can't → couldn't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 너무 예뻐서 나는 그녀에게 화를 낼 수 없었다."
   },
   {
    "id": "2-09-08",
@@ -5976,7 +6473,8 @@
    "choices": null,
    "kind": "text",
    "answer": "eat → eat it",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 음식은 너무 뜨거워서 우리는 그것을 먹을 수 없었다."
   },
   {
    "id": "2-09-09",
@@ -5988,7 +6486,8 @@
    "choices": null,
    "kind": "text",
    "answer": "well → good",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 계획은 너무 좋아서 나는 그것을 받아들였다."
   },
   {
    "id": "2-09-10",
@@ -6000,7 +6499,8 @@
    "choices": null,
    "kind": "text",
    "answer": "nervously → nervous",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 배우는 너무 긴장해서 다음에 무엇을 해야 할지 잊어버렸다."
   },
   {
    "id": "2-09-11",
@@ -6012,7 +6512,8 @@
    "choices": null,
    "kind": "text",
    "answer": "read → read it",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 책은 너무 어려워서 나는 읽을 수 없다."
   },
   {
    "id": "2-09-12",
@@ -6024,7 +6525,8 @@
    "choices": null,
    "kind": "text",
    "answer": "carry it → carry",
-   "explanation": ""
+   "explanation": "",
+   "kr": "저 상자는 너무 커서 그녀가 들 수 없다."
   },
   {
    "id": "2-09-13",
@@ -6036,7 +6538,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too → so",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 문제는 너무 쉬워서 나는 답할 수 있다."
   },
   {
    "id": "2-09-14",
@@ -6048,7 +6551,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so → too",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 책은 너무 어려워서 독자들의 흥미를 끌 수 없었다."
   },
   {
    "id": "2-09-15",
@@ -6060,7 +6564,8 @@
    "choices": null,
    "kind": "text",
    "answer": "answering → to answer",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 바빠서 전화를 받을 수 없었다."
   },
   {
    "id": "2-09-16",
@@ -6072,7 +6577,8 @@
    "choices": null,
    "kind": "text",
    "answer": "move it → move",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 탁자는 너무 무거워서 내가 옮길 수 없었다."
   },
   {
    "id": "2-09-17",
@@ -6084,7 +6590,8 @@
    "choices": null,
    "kind": "text",
    "answer": "can’t → couldn’t",
-   "explanation": ""
+   "explanation": "",
+   "kr": "민지는 너무 충격을 받아서 한 마디도 할 수 없었다."
   },
   {
    "id": "2-09-18",
@@ -6096,7 +6603,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so → too",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Mary는 너무 바빠서 점심을 먹을 수 없었다."
   },
   {
    "id": "2-09-19",
@@ -6108,7 +6616,8 @@
    "choices": null,
    "kind": "text",
    "answer": "buy → bought",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 인형이 너무 귀여워서 나는 그것을 샀다."
   },
   {
    "id": "2-09-20",
@@ -6120,7 +6629,8 @@
    "choices": null,
    "kind": "text",
    "answer": "buying → to buy",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 가난해서 그 가방을 살 수 없었다."
   },
   {
    "id": "2-09-21",
@@ -6132,7 +6642,8 @@
    "choices": null,
    "kind": "text",
    "answer": "wear it → wear",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 드레스는 너무 작아서 그녀가 입을 수 없다."
   },
   {
    "id": "2-09-22",
@@ -6144,7 +6655,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too → so",
-   "explanation": ""
+   "explanation": "",
+   "kr": "너무 늦어서 나는 피아노를 칠 수 없다."
   },
   {
    "id": "2-09-23",
@@ -6156,7 +6668,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so → too",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 바빠서 오늘 영화를 보러 갈 수 없다."
   },
   {
    "id": "2-09-24",
@@ -6168,7 +6681,8 @@
    "choices": null,
    "kind": "text",
    "answer": "to want to drink something → that he wanted to drink something",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 목이 말라서 무언가를 마시고 싶었다."
   },
   {
    "id": "2-09-25",
@@ -6180,7 +6694,8 @@
    "choices": null,
    "kind": "text",
    "answer": "can't → couldn't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "비가 너무 세게 내려서 나는 밖에 나갈 수 없었다."
   },
   {
    "id": "2-09-26",
@@ -6192,7 +6707,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too → so",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 너무 빨리 달려서 우리는 그녀를 잡을 수 없다."
   },
   {
    "id": "2-09-27",
@@ -6204,7 +6720,8 @@
    "choices": null,
    "kind": "text",
    "answer": "for him to sleep → that he slept",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 영화는 너무 지루해서 그는 잠이 들었다."
   },
   {
    "id": "2-09-28",
@@ -6216,7 +6733,8 @@
    "choices": null,
    "kind": "text",
    "answer": "very → so",
-   "explanation": ""
+   "explanation": "",
+   "kr": "내 눈이 너무 아파서 나는 병원에 갔다."
   },
   {
    "id": "2-09-29",
@@ -6228,7 +6746,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too → so",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 수프는 너무 뜨거워서 나는 먹을 수 없었다."
   },
   {
    "id": "2-09-30",
@@ -6240,7 +6759,8 @@
    "choices": null,
    "kind": "text",
    "answer": "can't → couldn't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 배가 불러서 더 이상 아무것도 먹을 수 없었다."
   },
   {
    "id": "2-09-31",
@@ -6252,7 +6772,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too → so",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 너무 친절해서 나를 집에 데려다줄 수 있었다."
   },
   {
    "id": "2-09-32",
@@ -6264,7 +6785,8 @@
    "choices": null,
    "kind": "text",
    "answer": "very → so",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그것은 너무 놀라워서 우리는 결코 잊지 못할 것이다."
   },
   {
    "id": "2-09-33",
@@ -6276,7 +6798,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too →so",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 책은 너무 좋아서 나는 내려놓을 수 없었다."
   },
   {
    "id": "2-09-34",
@@ -6288,7 +6811,8 @@
    "choices": null,
    "kind": "text",
    "answer": "can't → couldn't",
-   "explanation": ""
+   "explanation": "",
+   "kr": "Mike는 너무 수줍어서 선생님께 질문할 수 없었다."
   },
   {
    "id": "2-09-35",
@@ -6300,7 +6824,8 @@
    "choices": null,
    "kind": "text",
    "answer": "too → so",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 너무 긴장해서 밤에 잘 수 없다."
   },
   {
    "id": "2-09-36",
@@ -6312,7 +6837,8 @@
    "choices": null,
    "kind": "text",
    "answer": "can't catch → couldn't catch",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그는 공을 너무 빨리 던져서 나는 잡을 수 없었다."
   },
   {
    "id": "2-09-37",
@@ -6324,7 +6850,8 @@
    "choices": null,
    "kind": "text",
    "answer": "fastly → fast",
-   "explanation": ""
+   "explanation": "",
+   "kr": "너는 너무 빨리 말해서 나는 따라갈 수 없다."
   },
   {
    "id": "2-09-38",
@@ -6336,7 +6863,8 @@
    "choices": null,
    "kind": "text",
    "answer": "such → so",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 소설은 너무 재미있어서 나는 두 번 읽었다."
   },
   {
    "id": "2-09-39",
@@ -6348,7 +6876,8 @@
    "choices": null,
    "kind": "text",
    "answer": "goes → went",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그녀는 너무 피곤해서 일찍 잠자리에 들었다."
   },
   {
    "id": "2-09-40",
@@ -6360,7 +6889,8 @@
    "choices": null,
    "kind": "text",
    "answer": "tall so that → so tall that",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 소년은 너무 키가 커서 천장에 손이 닿았다."
   },
   {
    "id": "2-09-41",
@@ -6372,7 +6902,8 @@
    "choices": null,
    "kind": "text",
    "answer": "finish it  → finish",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그 시험은 너무 어려워서 50분 안에 끝낼 수 없었다."
   },
   {
    "id": "2-09-42",
@@ -6384,7 +6915,8 @@
    "choices": null,
    "kind": "text",
    "answer": "so → such",
-   "explanation": ""
+   "explanation": "",
+   "kr": "그것은 너무 어려운 문제여서 아무도 풀지 못했다."
   },
   {
    "id": "2-09-43",
@@ -6396,7 +6928,8 @@
    "choices": null,
    "kind": "text",
    "answer": "nervously → nervous",
-   "explanation": ""
+   "explanation": "",
+   "kr": "나는 너무 긴장해서 시험에서 최선을 다할 수 없었다."
   },
   {
    "id": "2-10-01",
@@ -6408,7 +6941,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The actor was so nervous that he forgot his lines.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-10-02",
@@ -6420,7 +6954,8 @@
    "choices": null,
    "kind": "text",
    "answer": "He was so busy that he couldn't go to her birthday party.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-10-03",
@@ -6432,7 +6967,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The book was so interesting that I finished reading it within a few hours.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-10-04",
@@ -6444,7 +6980,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Cathy typed so fast that we couldn't see her fingers.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-10-05",
@@ -6456,7 +6993,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The place was so beautiful that they wanted to live there.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-10-06",
@@ -6468,7 +7006,8 @@
    "choices": null,
    "kind": "text",
    "answer": "My brother is so young that he can't see the movie.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-10-07",
@@ -6480,7 +7019,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Jack was too short to get on the ride.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-10-08",
@@ -6492,7 +7032,8 @@
    "choices": null,
    "kind": "text",
    "answer": "My grandma is so wise that everyone respects her.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-10-09",
@@ -6504,7 +7045,8 @@
    "choices": null,
    "kind": "text",
    "answer": "She was so shocked that she could not move even a step.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-10-10",
@@ -6516,7 +7058,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The road is so sloppy that it is very hard to walk on.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-10-11",
@@ -6528,7 +7071,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Math problems were so difficult that he couldn't solve them.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-01",
@@ -6540,7 +7084,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The music was too loud for me to study.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-02",
@@ -6552,7 +7097,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Mike was so hungry that he couldn’t think of anything else.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-03",
@@ -6564,7 +7110,8 @@
    "choices": null,
    "kind": "text",
    "answer": "It's so easy that anyone can do it.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-04",
@@ -6576,7 +7123,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The woman was so strong that she could carry the bags.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-05",
@@ -6588,7 +7136,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The dog was so happy that it jumped high.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-06",
@@ -6600,7 +7149,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The problem was so difficult that I couldn't solve it.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-07",
@@ -6612,7 +7162,8 @@
    "choices": null,
    "kind": "text",
    "answer": "I was so hungry that I ate a lot of snack.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-08",
@@ -6624,7 +7175,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Judy was so sick that she couldn't go to work.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-09",
@@ -6636,7 +7188,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Amy was so tired that she couldn't finish her homework.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-10",
@@ -6648,7 +7201,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The movie star is so famous that everyone wants to see him.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-11",
@@ -6660,7 +7214,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The bike was so expensive that I couldn't buy it.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-12",
@@ -6672,7 +7227,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The water in the river was so dirty that we couldn't drink it.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-13",
@@ -6684,7 +7240,8 @@
    "choices": null,
    "kind": "text",
    "answer": "Being a human is so difficult that you might have a hard time.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-14",
@@ -6696,7 +7253,8 @@
    "choices": null,
    "kind": "text",
    "answer": "I love the prince so much that I would do anything for him!",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-15",
@@ -6708,7 +7266,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The jacket was so small that I couldn't wear it.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-16",
@@ -6720,7 +7279,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The hats were so expensive that I couldn't buy them.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-17",
@@ -6732,7 +7292,8 @@
    "choices": null,
    "kind": "text",
    "answer": "The game was so exciting that we could not stop playing it.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   },
   {
    "id": "2-11-18",
@@ -6744,7 +7305,8 @@
    "choices": null,
    "kind": "text",
    "answer": "I like horror movies so much that I watch ones on Sundays.",
-   "explanation": ""
+   "explanation": "",
+   "kr": ""
   }
  ],
  "sections": [

@@ -264,6 +264,9 @@ def build_item_slide(prs, item, index, total):
         expl_top = bottom - expl_h_in
     kr_lines = [x for x in (item.get("kr") or "").split("\n") if x.strip()]
     kr_pt = 15
+    if has_expl and kr_lines:  # 해설 패널이 있는 문항: 해석을 한 줄·작은 글씨로
+        kr_lines = ["  /  ".join(x.strip() for x in kr_lines)]
+        kr_pt = 13
     if kr_lines:  # 해석 줄만큼 정답 배너를 키운다
         ans_h_in += sum(estimate_lines(plain(l), kr_pt, full_w_in - 0.4) for l in kr_lines) * kr_pt * line_gap / 72.0 + 0.12
     ans_top = expl_top - 0.12 - ans_h_in

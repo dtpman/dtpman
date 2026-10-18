@@ -18,7 +18,8 @@
    "answer": "⑤ had",
    "explanation": "현재 사실과 반대되는 것을 가정할 때 [If+주어 +동사의 과거형, 주어+조동사의 과거형+동사 원형]의 형태인 가정법 과거를 사용한다.",
    "topic": "원본 문제 p.132  ·  정답·해설 p.151",
-   "passage_ans": "If I [[had]] some money, I would lend it to you."
+   "passage_ans": "If I [[had]] some money, I would lend it to you.",
+   "kr": "내가 돈이 좀 있다면, 너에게 빌려줄 텐데."
   },
   {
    "id": "P1-02",
@@ -36,7 +37,8 @@
    "answer": "③ would",
    "explanation": "가정법 과거 문장으로 빈칸에는 조동사의 과거형이 들어가야 한다.",
    "topic": "원본 문제 p.132  ·  정답·해설 p.151",
-   "passage_ans": "If I were you, I [[would]] tell her the truth."
+   "passage_ans": "If I were you, I [[would]] tell her the truth.",
+   "kr": "내가 너라면, 그녀에게 사실을 말할 텐데."
   },
   {
    "id": "P1-03",
@@ -53,7 +55,8 @@
    "kind": "choice",
    "answer": "② were",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.132  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.132  ·  정답·해설 p.151",
+   "kr": "네가 아프지 않다면, 우리가 너를 방문할 수 있을 텐데."
   },
   {
    "id": "P1-04",
@@ -70,7 +73,8 @@
    "kind": "choice",
    "answer": "④ were",
    "explanation": "모두 가정법 과거 문장으로 be동사의 과거형인 were가 올바르다.",
-   "topic": "원본 문제 p.132  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.132  ·  정답·해설 p.151",
+   "kr": "내가 새라면, 너에게 날아갈 텐데.\n우리가 부자라면, 자동차를 살 텐데."
   },
   {
    "id": "P1-05",
@@ -88,7 +92,8 @@
    "answer": "⑤ had been",
    "explanation": "'날씨가 더 좋았더라면, 나는 소풍을 갈 수 있었을 텐데.' 가정법 과거완료는 「If+주어+had p.p., 주어+조동사 과거형+have p.p」의 형태로 나타낸다. 주절에 ‘could have gone’이 온 것으로 보아 가정법 과거완료이므로 if절에는 과거완료 ‘had p.p.’가 와야 한다. ‘과거 사실에 대한 반대’를 나타내며, ‘만약 ~했더라면’이라고 해석한다.",
    "topic": "원본 문제 p.132  ·  정답·해설 p.151",
-   "passage_ans": "If the weather [[had been]] better, I could have\ngone on a picnic."
+   "passage_ans": "If the weather [[had been]] better, I could have\ngone on a picnic.",
+   "kr": "날씨가 더 좋았다면, 우리는 소풍을 갈 수 있었을 텐데."
   },
   {
    "id": "P1-06",
@@ -106,7 +111,8 @@
    "answer": "④ had known",
    "explanation": "가정법 과거완료 시제로 빈칸에는 had p.p. 형 태가 들어가야 한다.",
    "topic": "원본 문제 p.132  ·  정답·해설 p.151",
-   "passage_ans": "As I didn't know your email address, I couldn't\nwrite to you.\n→ If I [[had known]] your email address, I could\nhave written to you."
+   "passage_ans": "As I didn't know your email address, I couldn't\nwrite to you.\n→ If I [[had known]] your email address, I could\nhave written to you.",
+   "kr": "나는 네 이메일 주소를 몰랐기 때문에 너에게 편지를 쓸 수 없었다.\n→ 내가 네 이메일 주소를 알았더라면, 너에게 편지를 쓸 수 있었을 텐데."
   },
   {
    "id": "P1-07",
@@ -124,7 +130,8 @@
    "answer": "④ didn't have to",
    "explanation": "현재 사실과 반대되는 것을 가정할 때 [If+주어+ 동사의 과거형, 주어+조동사의 과거형+동사원 형]의 형태인 가정법 과거를 사용한다.",
    "topic": "원본 문제 p.132  ·  정답·해설 p.151",
-   "passage_ans": "I have to go to class, so I can't go shopping with\nyou.\n→ If I [[didn't have to]] go to class, I could go\nshopping with you."
+   "passage_ans": "I have to go to class, so I can't go shopping with\nyou.\n→ If I [[didn't have to]] go to class, I could go\nshopping with you.",
+   "kr": "나는 수업에 가야 해서 너와 쇼핑하러 갈 수 없다.\n→ 내가 수업에 가지 않아도 된다면, 너와 쇼핑하러 갈 수 있을 텐데."
   },
   {
    "id": "P1-08",
@@ -142,7 +149,8 @@
    "answer": "⑤ if it were not raining",
    "explanation": "(원문 정답지에 별도 해설 없음)",
    "topic": "원본 문제 p.132  ·  정답·해설 p.151",
-   "passage_ans": "I would go out for dinner [[if it were not raining]], but\nit is raining outside."
+   "passage_ans": "I would go out for dinner [[if it were not raining]], but\nit is raining outside.",
+   "kr": "밖에 비가 오고 있지 않다면 저녁을 먹으러 나갈 텐데, 지금 비가 오고 있다."
   },
   {
    "id": "P1-09",
@@ -159,7 +167,8 @@
    "kind": "choice",
    "answer": "③ had - could buy",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.132  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.132  ·  정답·해설 p.151",
+   "kr": "나는 돈이 많지 않아서 큰 집을 살 수 없다.\n= 내게 돈이 많다면, 큰 집을 살 수 있을 텐데."
   },
   {
    "id": "P1-10",
@@ -176,7 +185,8 @@
    "kind": "choice",
    "answer": "④ were - could lend",
    "explanation": "가정법 과거 문장으로 (A)에는 be동사의 과거형이, (B)에는 조동사의 과거형과 동사원형이 온다.",
-   "topic": "원본 문제 p.132  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.132  ·  정답·해설 p.151",
+   "kr": "이 책은 내 것이 아니어서 너에게 빌려줄 수 없다.\n그 책이 내 것이라면, 너에게 빌려줄 수 있을 텐데."
   },
   {
    "id": "P1-11",
@@ -193,7 +203,8 @@
    "kind": "choice",
    "answer": "④ did - were",
    "explanation": "가정법 과거 「If+주어+동사의 과거형, 주어+ 조동사의 과거형+동사원형」 ※ if절의 be동사는 주어의 인칭과 관계없이 were를 쓴다.",
-   "topic": "원본 문제 p.133  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.133  ·  정답·해설 p.151",
+   "kr": "그녀가 운동을 더 한다면, 더 건강할 텐데.\n그가 지금 여기 있다면, 우리를 도와줄 텐데."
   },
   {
    "id": "P1-12",
@@ -210,7 +221,8 @@
    "kind": "choice",
    "answer": "④ did - were",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.133  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.133  ·  정답·해설 p.151",
+   "kr": "그녀가 거짓말을 하지 않는다면, 우리는 그녀를 좋아할 텐데.\n그가 아프지 않다면, 학교에 갈 수 있을 텐데."
   },
   {
    "id": "P1-13",
@@ -227,7 +239,8 @@
    "kind": "choice",
    "answer": "⑤ were - could fly",
    "explanation": "가정법 과거 문장으로 (A)에는 be동사의 과거형 were가, (B)에는 조동사의 과거형과 동사원 형이 와야 한다.",
-   "topic": "원본 문제 p.133  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.133  ·  정답·해설 p.151",
+   "kr": "그는 학교에 매우 늦었다. 선생님이 자신을 혼낼까 봐 두려웠다. 그는 \"내가 새라면, 학교까지 날아갈 수 있을 텐데.\"라고 생각했다."
   },
   {
    "id": "P1-14",
@@ -244,7 +257,8 @@
    "kind": "choice",
    "answer": "③ wasn't - couldn't see",
    "explanation": "가정법 과거완료는 ‘과거 사실에 대한 반대’를 나타내므로 직설법으로 고치면 ‘과거 동사’를 - 21 쓴다.",
-   "topic": "원본 문제 p.133  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.133  ·  정답·해설 p.151",
+   "kr": "내가 거기에 있었다면, 너를 볼 수 있었을 텐데.\n→ 나는 거기에 없었기 때문에 너를 볼 수 없었다."
   },
   {
    "id": "P1-15",
@@ -261,7 +275,8 @@
    "kind": "choice",
    "answer": "④ worked - would do",
    "explanation": "가정법 과거로 if절의 동사에는 과거형이, 주 절의 동사 자리에는 '조동사의 과거형+동사원 형' 형태가 들어가야 한다.",
-   "topic": "원본 문제 p.133  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.133  ·  정답·해설 p.151",
+   "kr": "A: 민수는 열심히 일하니?\nB: 아니, 하지만 그가 열심히 일한다면, 학교에서 잘할 텐데."
   },
   {
    "id": "P1-16",
@@ -278,7 +293,8 @@
    "kind": "choice",
    "answer": "④ had - were",
    "explanation": "현재 사실과 반대되는 것을 가정할 때 [If+주 어+동사의 과거형, 주어+조동사의 과거형+동 사원형]의 형태인 가정법 과거를 사용한다. if절의 be동사는 주어의 인칭, 수에 관계없이 were를 쓴다.",
-   "topic": "원본 문제 p.133  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.133  ·  정답·해설 p.151",
+   "kr": "그녀에게 충분한 돈이 있다면, 그 코트를 살 텐데.\n내가 너라면, 그 제안을 받아들일 텐데."
   },
   {
    "id": "P1-17",
@@ -295,7 +311,8 @@
    "kind": "choice",
    "answer": "⑤ knew - didn't",
    "explanation": "현재 사실과 반대되는 것을 가정할 때 [If+주 어+동사의 과거형, 주어+조동사의 과거형+동 사원형]의 형태인 가정법 과거를 사용한다.",
-   "topic": "원본 문제 p.133  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.133  ·  정답·해설 p.151",
+   "kr": "그가 네 상황을 안다면, 너를 도울 수 있을 텐데.\n내게 친구가 하나도 없다면, 나는 외로울 텐데."
   },
   {
    "id": "P1-18",
@@ -312,7 +329,8 @@
    "kind": "choice",
    "answer": "② had - could buy",
    "explanation": "가정법 과거 문장으로 (A)에는 동사의 과거형이 들어가야 하고, (B)에는 조동사의 과거형과 동사원형이 들어가야 한다.",
-   "topic": "원본 문제 p.134  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.134  ·  정답·해설 p.151",
+   "kr": "나는 돈이 충분하지 않아서 차를 살 수 없다.\n→ 내게 돈이 충분하다면, 차를 살 수 있을 텐데."
   },
   {
    "id": "P1-19",
@@ -329,7 +347,8 @@
    "kind": "choice",
    "answer": "⑤ had come - would have had",
    "explanation": "대화의 흐름상 과거의 사실에 반대되는 가정을 나타내고 있다. 따라서 문장의 시제는 가정법 과거완료로, 주절에는 ‘조동사의 과거형 +have p.p.’가 와야 한다.",
-   "topic": "원본 문제 p.134  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.134  ·  정답·해설 p.151",
+   "kr": "A: 파티는 어땠어?\nB: 훌륭했어. 네가 우리와 함께 왔더라면, 즐거운 시간을 보냈을 텐데."
   },
   {
    "id": "P1-20",
@@ -346,7 +365,8 @@
    "kind": "choice",
    "answer": "④ will fix - would fix",
    "explanation": "ⓐ는 조건문으로 현재나 미래에 대한 예상 가능한 사실을 표현할 때 사용된다. ⓑ는 가정법 과거로 현재 사실과 반대되는 상황을 가정할 때 사용된다. [If+주어+과거 동사, 주어+조동사 과거형+동 사원형]",
-   "topic": "원본 문제 p.134  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.134  ·  정답·해설 p.151",
+   "kr": "내가 적절한 도구를 가지고 있으면, 네 자전거를 고쳐 줄 것이다.\n내가 적절한 도구를 가지고 있다면, 네 자전거를 고쳐 줄 텐데."
   },
   {
    "id": "P1-21",
@@ -363,7 +383,8 @@
    "kind": "choice",
    "answer": "④ had had - would be",
    "explanation": "ⓐ 주절에 ‘would have lent’가 왔으므로, 가정법 과거완료이다. 따라서 if절에는 과거완료 ‘had p.p.’ 형태인 had had가 알맞다. ⓑ ‘if’ 조건절의 시제가 과거이므로, ‘가정법 과거’이다. 그러므로 주절은 ‘과거 조동사+동 사원형(would be)’ 형태가 알맞다.",
-   "topic": "원본 문제 p.134  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.134  ·  정답·해설 p.151",
+   "kr": "내가 돈이 조금이라도 있었더라면, 네게 좀 빌려줬을 텐데.\n나는 너 같은 친구가 없다면 매우 외로울 텐데."
   },
   {
    "id": "P1-22",
@@ -381,7 +402,8 @@
    "answer": "④ I would not know what to do",
    "explanation": "(원문 정답지에 별도 해설 없음)",
    "topic": "원본 문제 p.134  ·  정답·해설 p.151",
-   "passage_ans": "I don't know anything about cars. If the car broke\ndown, [[I would not know what to do]]."
+   "passage_ans": "I don't know anything about cars. If the car broke\ndown, [[I would not know what to do]].",
+   "kr": "나는 자동차에 대해 아무것도 모른다. 차가 고장 나면, 무엇을 해야 할지 모를 것이다."
   },
   {
    "id": "P1-23",
@@ -398,7 +420,8 @@
    "kind": "choice",
    "answer": "⑤ e - c - d",
    "explanation": "(A) 내가 돈이 충분히 있다면, 새 노트북을 살수 있을 텐데. (B) 내가 누군가의 지갑을 찾는다면, 경찰서에 가져다 줄 텐데. (C) 내가 일찍 일어난다면, 학교에 늦지 않을 텐데.",
-   "topic": "원본 문제 p.134  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.134  ·  정답·해설 p.151",
+   "kr": "내게 돈이 충분하다면, 새 노트북 컴퓨터를 살 수 있을 텐데.\n내가 누군가의 지갑을 발견한다면, 경찰서에 가져갈 텐데.\n내가 일찍 일어난다면, 학교에 지각하지 않을 텐데."
   },
   {
    "id": "P1-24",
@@ -415,7 +438,8 @@
    "kind": "choice",
    "answer": "④ I don't have a lot of money.",
    "explanation": "\"만약 내가 돈이 많다면, 나는 차를 살 텐데\" 라는 뜻으로, 내가 현재 돈이 많지 않음을 나타내고 있다.",
-   "topic": "원본 문제 p.135  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.135  ·  정답·해설 p.151",
+   "kr": "내게 돈이 많다면, 자동차를 살 텐데. → 나는 돈이 많지 않다."
   },
   {
    "id": "P1-25",
@@ -432,7 +456,8 @@
    "kind": "choice",
    "answer": "⑤ She has enough friends, so she's not lonely.",
    "explanation": "소라가 말한 것은 \"내가 어떤 친구도 없다면, 나는 외로울 텐데\"라는 뜻으로, 현재의 상황에 반대되는 것을 가정한 것이다. 즉, 현재 그 녀는 친구가 많고, 외롭지 않다는 것을 의미 한다.",
-   "topic": "원본 문제 p.135  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.135  ·  정답·해설 p.151",
+   "kr": "소라는 \"내게 친구가 하나도 없다면, 나는 외로울 텐데.\"라고 말한다. → 그녀는 친구가 충분해서 외롭지 않다."
   },
   {
    "id": "P1-26",
@@ -450,7 +475,8 @@
    "answer": "② I would call him if I knew his number.",
    "explanation": "가정법 과거 [If+주어+동사의 과거형, 주어+조 1 - 동사의 과거형+동사원형]을 이용하여 영작한 문장이 정답이다.",
    "topic": "원본 문제 p.135  ·  정답·해설 p.151",
-   "passage_ans": "Sue wants to phone Steven, but she can't because\nshe doesn't know his number. She says:\n[[I would call him if I knew his number.]]"
+   "passage_ans": "Sue wants to phone Steven, but she can't because\nshe doesn't know his number. She says:\n[[I would call him if I knew his number.]]",
+   "kr": "Sue는 Steven에게 전화하고 싶지만 그의 번호를 몰라서 할 수 없다. 그녀는 말한다: 그의 번호를 안다면 그에게 전화할 텐데."
   },
   {
    "id": "P1-27",
@@ -468,7 +494,8 @@
    "answer": "④ I must start looking for it",
    "explanation": "(원문 정답지에 별도 해설 없음)",
    "topic": "원본 문제 p.135  ·  정답·해설 p.152",
-   "passage_ans": "If I were you, [[I must start looking for it]]."
+   "passage_ans": "If I were you, [[I must start looking for it]].",
+   "kr": "내가 너라면, 그것을 찾기 시작해야 해. (알맞지 않은 문장)"
   },
   {
    "id": "P1-28",
@@ -486,7 +513,8 @@
    "answer": "⑤ talk to him first",
    "explanation": "(원문 정답지에 별도 해설 없음)",
    "topic": "원본 문제 p.135  ·  정답·해설 p.152",
-   "passage_ans": "A: I wish I could make friends with Tom.\nB: If I were you, I'd [[talk to him first]]."
+   "passage_ans": "A: I wish I could make friends with Tom.\nB: If I were you, I'd [[talk to him first]].",
+   "kr": "A: 나는 Tom과 친구가 되었으면 좋겠어.\nB: 내가 너라면, 그에게 먼저 말을 걸어 볼 텐데."
   },
   {
    "id": "P1-29",
@@ -504,7 +532,8 @@
    "answer": "③ the air would be clean",
    "explanation": "현재 사실의 반대를 가정하고 있으므로 가정법 과거의 형태가 되어야 함",
    "topic": "원본 문제 p.135  ·  정답·해설 p.152",
-   "passage_ans": "Air pollution is getting worse. If there weren't so\nmuch traffic, [[the air would be clean]]."
+   "passage_ans": "Air pollution is getting worse. If there weren't so\nmuch traffic, [[the air would be clean]].",
+   "kr": "대기오염이 점점 심해지고 있다. 교통량이 그렇게 많지 않다면, 공기가 깨끗할 텐데."
   },
   {
    "id": "P1-30",
@@ -521,7 +550,8 @@
    "kind": "choice",
    "answer": "③ If he were here right now, he would help me.",
    "explanation": "현재 사실과 반대되는 것을 가정할 때 [If+주 어+동사의 과거형, 주어+조동사의 과거형+동 사원형]의 형태인 가정법 과거를 사용한다. if절의 be동사는 were를 쓴다.",
-   "topic": "원본 문제 p.135  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.135  ·  정답·해설 p.152",
+   "kr": "If he were here right now, he would help me.\n= 만약 지금 그가 여기 있다면, 그가 나를 도와줄 텐데."
   },
   {
    "id": "P1-31",
@@ -538,7 +568,8 @@
    "kind": "choice",
    "answer": "① If I knew his address, I would write to him.",
    "explanation": "가정법 과거로 [If+주어+동사의 과거형, 주어+ 조동사의 과거형+동사원형]의 형태로 써야 한다.",
-   "topic": "원본 문제 p.135  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.135  ·  정답·해설 p.152",
+   "kr": "내가 그의 주소를 안다면, 그에게 편지를 쓸 텐데."
   },
   {
    "id": "P1-32",
@@ -555,7 +586,8 @@
    "kind": "choice",
    "answer": "③ If I were a bird, I would fly to you.",
    "explanation": "가정법 과거 어순에 따라 [If+주어+동사의 과 거형, 주어+조동사의 과거형+동사원형]으로 영작된 선택지를 찾는다.",
-   "topic": "원본 문제 p.136  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.136  ·  정답·해설 p.152",
+   "kr": "만약 내가 새라면, 너에게 날아갈 텐데."
   },
   {
    "id": "P1-33",
@@ -572,7 +604,8 @@
    "kind": "choice",
    "answer": "③ If I had a sister, I would lend her my clothes.",
    "explanation": "가정법 과거 어순에 따라 [If+주어+동사의 과 거형, 주어+조동사의 과거형+동사원형]으로 영작된 선택지를 찾는다.",
-   "topic": "원본 문제 p.136  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.136  ·  정답·해설 p.152",
+   "kr": "나에게 여동생이 있다면, 내 옷을 빌려줄 텐데."
   },
   {
    "id": "P1-34",
@@ -589,7 +622,8 @@
    "kind": "choice",
    "answer": "④ If he had thought about money, he would have given up.",
    "explanation": "과거 사실을 반대로 가정하고 있으므로 가정법 과거완료 「If+주어+had+과거분사 ~, 주어 +조동사 과거형+have+과거분사 …」 형태로 쓴다.",
-   "topic": "원본 문제 p.136  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.136  ·  정답·해설 p.152",
+   "kr": "만약 그가 돈에 대해 생각했더라면, 그는 포기했을 텐데."
   },
   {
    "id": "P1-35",
@@ -606,7 +640,8 @@
    "kind": "choice",
    "answer": "⑤ If I knew her e-mail address, I could write a letter to her.",
    "explanation": "가정법 과거 [If+주어+동사의 과거형, 주어+조 동사의 과거형+동사원형]의 어순을 이용하여 영작한 문장이 정답이다.",
-   "topic": "원본 문제 p.136  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.136  ·  정답·해설 p.152",
+   "kr": "내가 그녀의 이메일 주소를 안다면, 그녀에게 편지를 쓸 수 있을 텐데."
   },
   {
    "id": "P1-36",
@@ -623,7 +658,8 @@
    "kind": "choice",
    "answer": "② If you jumped out of a plane, you would have the same experience.",
    "explanation": "가정법 과거 [If+주어+동사의 과거형, 주어+조 동사의 과거형+동사원형]을 이용하여 영작한다.",
-   "topic": "원본 문제 p.136  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.136  ·  정답·해설 p.152",
+   "kr": "만약 당신이 비행기에서 뛰어내린다면, 같은 경험을 하게 될 텐데."
   },
   {
    "id": "P1-37",
@@ -640,7 +676,8 @@
    "kind": "choice",
    "answer": "③ If I knew her phone number, I could call her.",
    "explanation": "내가 현재 그녀의 전화번호가 없어서 전화를못 하는 상황이기 때문에 가정법 과거를 이용 하여 문장을 바꿀 수 있다.",
-   "topic": "원본 문제 p.136  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.136  ·  정답·해설 p.152",
+   "kr": "나는 그녀의 전화번호를 몰라서 그녀에게 전화할 수 없다.\n= 내가 그녀의 전화번호를 안다면, 그녀에게 전화할 수 있을 텐데."
   },
   {
    "id": "P1-38",
@@ -657,7 +694,8 @@
    "kind": "choice",
    "answer": "④ I don't have enough time, so I can't swim all day.",
    "explanation": "'만약 내가 더 많은 시간이 있다면, 나는 하루 종일 수영할 텐데'의 가정법 문장은, 현재 시 점에 나는 시간이 충분하지 않아서 하루 종일 수영을 할 수 없음을 나타낸다.",
-   "topic": "원본 문제 p.136  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.136  ·  정답·해설 p.152",
+   "kr": "내게 시간이 더 있다면, 하루 종일 수영할 텐데.\n= 나는 시간이 충분하지 않아서 하루 종일 수영할 수 없다."
   },
   {
    "id": "P1-39",
@@ -674,7 +712,8 @@
    "kind": "choice",
    "answer": "③ Since I am sick, I can't go to the party.",
    "explanation": "가정법 과거 문장은 현재의 사실과 반대되는 가정이나, 실현 가능성이 거의 없는 소망을 말할 때 사용되므로, 주어진 가정법 문장과 반대되는 상황을 현재시제로 풀어놓은 문장을 답으로 고른다.",
-   "topic": "원본 문제 p.136  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.136  ·  정답·해설 p.152",
+   "kr": "내가 아프지 않다면, 파티에 갈 수 있을 텐데.\n= 나는 아파서 파티에 갈 수 없다."
   },
   {
    "id": "P1-40",
@@ -691,7 +730,8 @@
    "kind": "choice",
    "answer": "⑤ If I had known about your problem, I would have helped you.",
    "explanation": "과거 사실에 대한 반대를 가정하고 있으므로, 가정법 과거완료로 바꾸어 쓸 수 있다.",
-   "topic": "원본 문제 p.137  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.137  ·  정답·해설 p.152",
+   "kr": "나는 네 문제에 대해 몰랐기 때문에 너를 도울 수 없었다.\n= 내가 네 문제에 대해 알았더라면, 너를 도왔을 텐데."
   },
   {
    "id": "P1-41",
@@ -708,7 +748,8 @@
    "kind": "choice",
    "answer": "① If Kevin sang well, he would join the music club.",
    "explanation": "현재와 반대되는 상황(Kevin이 노래를 잘한다면, 음악 동아리에 가입할 텐데)을 나타내는 가정법 과거 [If+주어+동사의 과거형, 주어+ 조동사의 과거형+동사원형]의 어순을 취한 문 장을 고른다.",
-   "topic": "원본 문제 p.137  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.137  ·  정답·해설 p.152",
+   "kr": "Kevin은 노래를 잘 못해서 음악 동아리에 들어가지 않는다.\n= Kevin이 노래를 잘한다면, 음악 동아리에 들어갈 텐데."
   },
   {
    "id": "P1-42",
@@ -725,7 +766,8 @@
    "kind": "choice",
    "answer": "③ As he doesn't know her phone number, he can't call her up.",
    "explanation": "가정법 과거 문장으로, 현재 시점에서 반대되는 상황을 직설법 문장으로 바꾼 보기가 정답이 된다. - 22",
-   "topic": "원본 문제 p.137  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.137  ·  정답·해설 p.152",
+   "kr": "그가 그녀의 전화번호를 안다면, 그녀에게 전화할 수 있을 텐데.\n= 그는 그녀의 전화번호를 몰라서 그녀에게 전화할 수 없다."
   },
   {
    "id": "P1-43",
@@ -742,7 +784,8 @@
    "kind": "choice",
    "answer": "③ As we don't know how to swim, we can't have more fun.",
    "explanation": "가정법 과거 「If+주어+과거 동사, 주어+조동 사의 과거형+동사원형」 ~라면 …할 텐데 (현재 사실과 반대되는 상황을 가정)",
-   "topic": "원본 문제 p.137  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.137  ·  정답·해설 p.152",
+   "kr": "우리가 수영하는 법을 안다면, 더 재미있게 놀 수 있을 텐데.\n= 우리는 수영하는 법을 몰라서 더 재미있게 놀 수 없다."
   },
   {
    "id": "P1-44",
@@ -759,7 +802,8 @@
    "kind": "choice",
    "answer": "① If we had arrived in time, we could have caught the bus.",
    "explanation": "과거의 사실과 반대되는 가정이나, 과거에 실현 가능성이 희박했던 소망을 말할 때 사용되는 가정법 과거완료 시제 「If+주어+had+과거 분사 ~, 주어+조동사 과거형+have+과거분사 …」 형태로 나타낼 수 있다.",
-   "topic": "원본 문제 p.137  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.137  ·  정답·해설 p.152",
+   "kr": "우리는 제시간에 도착하지 못해서 버스를 잡을 수 없었다.\n= 우리가 제시간에 도착했더라면, 버스를 잡을 수 있었을 텐데."
   },
   {
    "id": "P1-45",
@@ -776,7 +820,8 @@
    "kind": "choice",
    "answer": "① If my little sister often lay down on the ground, her clothes wouldn't usually be kept clean.",
    "explanation": "현재와 반대되는 상황(내 여동생이 자주 땅에 눕는다면, 옷이 보통 깨끗하지 않을 텐데)을 나타내는 가정법 과거 [If+주어+동사의 과거형, 주어+조동사의 과거형+동사원형]의 어순을 취한 문장을 고른다.",
-   "topic": "원본 문제 p.137  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.137  ·  정답·해설 p.152",
+   "kr": "내 여동생은 땅에 자주 눕지 않아서 옷이 대개 깨끗하게 유지된다.\n= 내 여동생이 땅에 자주 눕는다면, 옷이 대개 깨끗하게 유지되지 않을 텐데."
   },
   {
    "id": "P1-46",
@@ -793,7 +838,8 @@
    "kind": "choice",
    "answer": "④ If he were not poor, he could buy an expensive car.",
    "explanation": "가정법 과거는 [If+주어+동사의 과거형, 주어+조동사의 과거형+동사원형]의 어순을 취하고,\n현재의 일에 반대되는 상황을 가정할 때 쓰인다.",
-   "topic": "원본 문제 p.138  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.138  ·  정답·해설 p.152",
+   "kr": "그는 가난해서 비싼 차를 살 수 없다.\n→ 그가 가난하지 않다면, 비싼 차를 살 수 있을 텐데."
   },
   {
    "id": "P1-47",
@@ -810,7 +856,8 @@
    "kind": "choice",
    "answer": "② He doesn't have a key, so he can't open the door.",
    "explanation": "가정법 과거로 표현했으므로 현재 사실에 대해 나타내는 것을 고른다.",
-   "topic": "원본 문제 p.138  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.138  ·  정답·해설 p.152",
+   "kr": "그에게 열쇠가 있다면, 문을 열 수 있을 텐데.\n→ 그는 열쇠가 없어서 문을 열 수 없다."
   },
   {
    "id": "P1-48",
@@ -827,7 +874,8 @@
    "kind": "choice",
    "answer": "① If Tom were rich, he could buy a building.",
    "explanation": "현재와 반대되는 상황(Tom이 부자라면 빌딩을 살 수 있을 것이다)을 나타내는 가정법 과거\n[If+주어+동사의 과거형, 주어+조동사의 과거형+동사원형]의 어순을 취한 문장을 고른다.",
-   "topic": "원본 문제 p.138  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.138  ·  정답·해설 p.152",
+   "kr": "Tom은 부자가 아니어서 건물을 살 수 없다.\n→ Tom이 부자라면, 건물을 살 수 있을 텐데."
   },
   {
    "id": "P1-49",
@@ -844,7 +892,8 @@
    "kind": "choice",
    "answer": "② He is busy, so he can't go to the movies.",
    "explanation": "가정법 과거는 현재 사실의 반대를 나타낸다. 'If he were not busy, he could go' → 현재 바쁘기 때문에 갈 수 없다는 뜻이므로 He is busy, so he can't go to the movies.",
-   "topic": "원본 문제 p.138  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.138  ·  정답·해설 p.152",
+   "kr": "그가 바쁘지 않다면, 영화를 보러 갈 수 있을 텐데.\n→ 그는 바빠서 영화를 보러 갈 수 없다."
   },
   {
    "id": "P1-50",
@@ -861,7 +910,8 @@
    "kind": "choice",
    "answer": "③ If I went to Africa, I could help poor children there.",
    "explanation": "가정법 과거는 [If+주어+동사의 과거형, 주어+조동사의 과거형+동사원형]의 어순을 취하고,\n현재의 일에 반대되는 상황을 가정할 때 쓰인다.",
-   "topic": "원본 문제 p.138  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.138  ·  정답·해설 p.152",
+   "kr": "나는 자원봉사를 하러 아프리카에 가지 않아서 그곳의 가난한 아이들을 도울 수 없다.\n→ 내가 아프리카에 간다면, 그곳의 가난한 아이들을 도울 수 있을 텐데."
   },
   {
    "id": "P1-51",
@@ -878,7 +928,8 @@
    "kind": "choice",
    "answer": "④ As it rains hard, we don't play outside.\n→ If it doesn't rain hard, we would play outside.",
    "explanation": "가정법 과거 문장으로 if절의 동사는 과거형으로 써야 한다. doesn't는 didn't로 쓴다.",
-   "topic": "원본 문제 p.138  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.138  ·  정답·해설 p.152",
+   "kr": "④ 비가 세게 와서 우리는 밖에서 놀지 않는다.\n→ 비가 세게 오지 않는다면, 우리는 밖에서 놀 텐데. (어법상 어색한 전환: If it doesn't rain hard → If it didn't rain hard)"
   },
   {
    "id": "P1-52",
@@ -895,7 +946,8 @@
    "kind": "choice",
    "answer": "⑤ A: The exam was so difficult that she got a low score.\nB: If the exam had been difficult, she would have gotten a low score.",
    "explanation": "가정법 과거완료(If+주어+had+과거분사 ~, 주어+조동사 과거형+have+과거분사 …)는 과거 사실을 반대로 가정한 것이므로\nB의 답변을 'If the exam had not been difficult, she would not have gotten a low score.'로 바꿔야 옳다.\n①, ③은 가정법 과거로, 현재의 사실과 반대되거나 현재에 일어나지 않은 일을 가정할 때 쓰인다.",
-   "topic": "원본 문제 p.138  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.138  ·  정답·해설 p.152",
+   "kr": "⑤ A: 시험이 너무 어려워서 그녀는 낮은 점수를 받았다.\nB: 시험이 어렵지 않았더라면 그녀는 낮은 점수를 받지 않았을 텐데. (어색한 전환)"
   },
   {
    "id": "P1-53",
@@ -912,7 +964,8 @@
    "kind": "choice",
    "answer": "① He is not strong, so he can't carry this box.\n→ If he is strong, he can carry this box.",
    "explanation": "①번 문장의 의미가 같으려면 If he were strong, he could carry this box.로 고쳐야 한다.",
-   "topic": "원본 문제 p.139  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.139  ·  정답·해설 p.152",
+   "kr": "① 그는 강하지 않아서 이 상자를 옮길 수 없다. → 그가 강하다면, 이 상자를 옮길 수 있을 텐데. (가정법이 아니므로 두 문장의 의미가 같지 않다)"
   },
   {
    "id": "P1-54",
@@ -929,7 +982,8 @@
    "kind": "choice",
    "answer": "④ I don't know him, so I can't introduce him to you.\n→ If I knew him, I could introduce him to you.",
    "explanation": "① → If it didn't rain, I wouldn't stay home.\n② → If I had wings, I could fly.\n③ → She isn't kind, so many people don't like her.\n⑤ → If I had wings, I could fly to school.",
-   "topic": "원본 문제 p.139  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.139  ·  정답·해설 p.152",
+   "kr": "④ 나는 그를 몰라서 그를 너에게 소개할 수 없다.\n→ 내가 그를 안다면, 그를 너에게 소개할 수 있을 텐데."
   },
   {
    "id": "P1-55",
@@ -946,7 +1000,8 @@
    "kind": "choice",
    "answer": "⑤ As there are so many cars, there is so much air pollution.\n→ There wouldn't be so much air pollution if there weren't so many cars.",
    "explanation": "① 가정법 과거완료 시제로 주절이 could have p.p. 형태가 되어야 하므로 wrote는 written으로 써야 한다.\n② 가정법 과거시제로 주절이 'could+동사원형' 형태가 되어야 하므로 have gone은 go로 써야 한다.\n③ 가정법 과거완료 시제로 if절이 had p.p. 형태가 되어야 하므로 wasn't는 had not been으로 써야 한다.\n④ 가정법 과거완료 시제로 if절이 had p.p. 형태가 되어야 하므로 weren't는 had not been으로 써야 한다.",
-   "topic": "원본 문제 p.139  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.139  ·  정답·해설 p.153",
+   "kr": "⑤ 차가 너무 많아서 대기오염이 심하다.\n→ 차가 그렇게 많지 않다면, 대기오염이 그렇게 심하지 않을 텐데."
   },
   {
    "id": "P1-56",
@@ -963,7 +1018,8 @@
    "kind": "choice",
    "answer": "⑤ If I were born in America, I could speak English fluently.\n= I was born in America, but I can't speak English fluently.",
    "explanation": "가정법 과거는 현재 사실의 반대이므로 ⑤는 'I wasn't born in America, so I can't speak English fluently.'와 같은 의미이다.\n(원문 정답지에는 정답 번호만 제시되어 있음)",
-   "topic": "원본 문제 p.139  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.139  ·  정답·해설 p.153",
+   "kr": "⑤ 내가 미국에서 태어났다면, 영어를 유창하게 말할 수 있을 텐데.\n= 나는 미국에서 태어났지만 영어를 유창하게 말하지 못한다. (의미가 다른 쌍)"
   },
   {
    "id": "P1-57",
@@ -980,7 +1036,8 @@
    "kind": "choice",
    "answer": "② It's raining, so I won't go for a walk.\n→ If it weren't raining, I'd go for a walk.",
    "explanation": "① → If she were here, I wouldn't be lonely.\n③ → If my mom were here, my little sister wouldn't be crying.\n④ → If you came, I would have more time to talk with you.\n⑤ → If he were very good at playing basketball, he could become a professional player.",
-   "topic": "원본 문제 p.139  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.139  ·  정답·해설 p.153",
+   "kr": "② 비가 오고 있어서 나는 산책하러 가지 않을 것이다.\n→ 비가 오고 있지 않다면, 나는 산책하러 갈 텐데."
   },
   {
    "id": "P1-58",
@@ -997,7 +1054,8 @@
    "kind": "choice",
    "answer": "③ He wasn't honest, so they didn't trust him.\n→ If he had been honest, they would trust him.",
    "explanation": "과거의 일에 대한 반대 상황을 가정하고 있으므로, 가정법 과거완료로 표현한다.\n이때 if절은 'had p.p.', 주절에는 '조동사의 과거형+have p.p.'가 와야 하므로 would trust를 would have trusted로 써야 한다.\n①, ② 가정법 과거 / ③, ④, ⑤ 가정법 과거완료",
-   "topic": "원본 문제 p.139  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.139  ·  정답·해설 p.153",
+   "kr": "③ 그는 정직하지 않아서 사람들이 그를 신뢰하지 않았다.\n→ 그가 정직했더라면, 사람들이 그를 신뢰했을 텐데. (알맞게 전환하지 못한 문장)"
   },
   {
    "id": "P1-59",
@@ -1014,7 +1072,8 @@
    "kind": "choice",
    "answer": "② If I knew his address, I could send him a letter.\n→ As I didn't know his address, I couldn't send him a letter.",
    "explanation": "가정법 과거이므로 현재 사실의 반대를 나타낸다. 따라서 didn't → don't, couldn't → can't로 해야 서로 비슷한 의미가 성립된다.",
-   "topic": "원본 문제 p.140  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.140  ·  정답·해설 p.153",
+   "kr": "② 내가 그의 주소를 안다면, 그에게 편지를 보낼 수 있을 텐데.\n→ 나는 그의 주소를 몰라서 그에게 편지를 보낼 수 없다. (과거로 바꾼 것이 어색해 의미가 같지 않음)"
   },
   {
    "id": "P1-60",
@@ -1031,7 +1090,8 @@
    "kind": "choice",
    "answer": "⑤ If you get here before eight, you can catch the early train.",
    "explanation": "⑤의 if는 일어날 가능성이 있는 가정법 현재시제의 if이다.",
-   "topic": "원본 문제 p.140  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.140  ·  정답·해설 p.153",
+   "kr": "우리는 비현실적인 상황, 즉 확실히 일어나지 않고 있거나 일어나지 않았던 일, 사실이 아니거나 상상 속의 상황에 대해 말할 때 'if'를 이용한 특별한 구조를 사용한다.\n⑤ 네가 8시 전에 여기 도착하면, 이른 기차를 탈 수 있다. (실제 가능한 조건이라 해당하지 않음)"
   },
   {
    "id": "P1-61",
@@ -1048,7 +1108,8 @@
    "kind": "choice",
    "answer": "① ⓐ",
    "explanation": "가정법 과거의 문장이므로 were가 들어가야 올바르다.",
-   "topic": "원본 문제 p.140  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.140  ·  정답·해설 p.153",
+   "kr": "내가 오드리 헵번 같은 유명한 영화배우라면, 다른 사람들을 돕는 데 관심이 없을지도 모른다. (ⓐ was → were)"
   },
   {
    "id": "P1-62",
@@ -1065,7 +1126,8 @@
    "kind": "choice",
    "answer": "① If I don't have any friends, I would be lonely.",
    "explanation": "주절이 would be lonely인 가정법 과거 문장이므로 if절의 동사도 과거형 didn't have로 써야 한다.\n(원문 정답지에는 정답 번호만 제시되어 있음)",
-   "topic": "원본 문제 p.140  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.140  ·  정답·해설 p.153",
+   "kr": "① 내게 친구가 하나도 없다면, 나는 외로울 텐데. (If I don't have → If I didn't have)"
   },
   {
    "id": "P1-63",
@@ -1082,7 +1144,8 @@
    "kind": "choice",
    "answer": "⑤ If a dog runs after me, I would run away.",
    "explanation": "가정법 과거로, if절의 동사는 과거형으로 써야 한다. runs는 과거형 ran으로 고친다.",
-   "topic": "원본 문제 p.140  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.140  ·  정답·해설 p.153",
+   "kr": "⑤ 개가 나를 쫓아오면, 나는 도망칠 텐데. (If a dog runs → If a dog ran)"
   },
   {
    "id": "P1-64",
@@ -1099,7 +1162,8 @@
    "kind": "choice",
    "answer": "⑤ If he had enough money, he bought the latest phone.",
    "explanation": "가정법 과거로, 주절의 문장은 [조동사의 과거형+동사원형]이 사용되어야 한다. he would buy the latest phone으로 고쳐야 한다.",
-   "topic": "원본 문제 p.140  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.140  ·  정답·해설 p.153",
+   "kr": "⑤ 그에게 충분한 돈이 있다면, 그는 최신 휴대폰을 살 텐데. (he bought → he would buy)"
   },
   {
    "id": "P1-65",
@@ -1116,7 +1180,8 @@
    "kind": "choice",
    "answer": "④ If I had known your address, I could have sent you a card.",
    "explanation": "① could solve all the questions → could have solved all the questions (가정법 과거완료)\n② would have been very happy → would be very happy (가정법 과거)\n③ would have not eaten → would not have eaten (가정법 과거완료)\n⑤ would have able to finish → would have been able to finish (가정법 과거완료)",
-   "topic": "원본 문제 p.140  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.140  ·  정답·해설 p.153",
+   "kr": "④ 내가 네 주소를 알았더라면, 너에게 카드를 보낼 수 있었을 텐데."
   },
   {
    "id": "P1-66",
@@ -1133,7 +1198,8 @@
    "kind": "choice",
    "answer": "② If she worked hard, she would not fail.",
    "explanation": "① had had → had\n③ is → were\n④ will → would\n⑤ would have flown → would fly",
-   "topic": "원본 문제 p.140  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.140  ·  정답·해설 p.153",
+   "kr": "② 그녀가 열심히 일한다면, 실패하지 않을 텐데."
   },
   {
    "id": "P1-67",
@@ -1150,7 +1216,8 @@
    "kind": "choice",
    "answer": "④ Steven would get a perfect grade if he studied harder.",
    "explanation": "① will은 조동사의 과거형인 would로 고쳐야 한다.\n② can은 조동사의 과거형인 could로 고쳐야 한다.\n③ 가정법 과거이므로 과거형 동사 met으로 고쳐야 한다.\n⑤ What would you say if you were my brother?가 올바른 표현이다.",
-   "topic": "원본 문제 p.140  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.140  ·  정답·해설 p.153",
+   "kr": "④ Steven이 더 열심히 공부한다면, 만점을 받을 텐데."
   },
   {
    "id": "P1-68",
@@ -1167,7 +1234,8 @@
    "kind": "choice",
    "answer": "⑤ If I had a car, I picked you up.",
    "explanation": "가정법 과거 문장으로 주절은 I would pick you up으로 써야 한다.",
-   "topic": "원본 문제 p.141  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.141  ·  정답·해설 p.153",
+   "kr": "⑤ 내게 차가 있다면, 너를 태우러 갈 텐데. (I picked → I would pick)"
   },
   {
    "id": "P1-69",
@@ -1184,7 +1252,8 @@
    "kind": "choice",
    "answer": "② If Jenny were healthy, she could travel with us.",
    "explanation": "① will rain → rains\n③ is → were\n④ would have gone → would go\n⑤ could have seen → could see",
-   "topic": "원본 문제 p.141  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.141  ·  정답·해설 p.153",
+   "kr": "② Jenny가 건강하다면, 우리와 함께 여행할 수 있을 텐데."
   },
   {
    "id": "P1-70",
@@ -1201,7 +1270,8 @@
    "kind": "choice",
    "answer": "④ My friend would be very upset if I hitted him.",
    "explanation": "hit의 과거형은 hit이다.",
-   "topic": "원본 문제 p.141  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.141  ·  정답·해설 p.153",
+   "kr": "(어법상 어색한 문장) 내 친구는 내가 그를 때렸다면 매우 화가 날 텐데. (hitted → hit)"
   },
   {
    "id": "P1-71",
@@ -1218,7 +1288,8 @@
    "kind": "choice",
    "answer": "⑤ If I had heard the weather report, I would have brought my umbrella.",
    "explanation": "① 가정법 과거완료 시제로 if절의 동사는 had p.p.를 써야 한다.\n② 가정법 과거완료 시제로 주절은 I would have been a star로 써야 한다.\n③ 가정법 과거완료 시제로 if절의 동사는 had p.p.를 써야 한다.\n④ 가정법 과거완료 시제로 if절의 동사는 had p.p.를 써야 한다.",
-   "topic": "원본 문제 p.141  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.141  ·  정답·해설 p.153",
+   "kr": "내가 일기예보를 들었더라면, 나는 우산을 가져왔을 텐데."
   },
   {
    "id": "P1-72",
@@ -1235,7 +1306,8 @@
    "kind": "choice",
    "answer": "⑤ If I knew how to dance, I would go to the dance party.",
    "explanation": "① can → could\n② can → could\n③ will → would\n④ have → had",
-   "topic": "원본 문제 p.141  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.141  ·  정답·해설 p.153",
+   "kr": "내가 춤추는 법을 안다면, 나는 댄스파티에 갈 텐데."
   },
   {
    "id": "P1-73",
@@ -1252,7 +1324,8 @@
    "kind": "choice",
    "answer": "② In fact, he witnessed the car accident. But he acts as if he hadn't witnessed it.",
    "explanation": "① 'He doesn't know you are in the hospital.'은 현재 시점의 일이므로 가정법 과거시제로 표현해야 한다.\n③ 'I'm sorry I don't have a twin brother.'는 현재 시점의 소망이므로 I wish 가정법 과거시제로 표현해야 한다.\n④ 주절보다 과거인 상황의 일이므로 I wish 가정법 과거완료 시제로 표현해야 한다.\n⑤ 과거 시점의 일이므로 가정법 과거완료 시제로 표현해야 한다.",
-   "topic": "원본 문제 p.141  ·  정답·해설 p.153"
+   "topic": "원본 문제 p.141  ·  정답·해설 p.153",
+   "kr": "사실 그는 그 자동차 사고를 목격했다. 하지만 그는 마치 목격하지 않은 것처럼 행동한다."
   },
   {
    "id": "P1-74",
@@ -1269,7 +1342,8 @@
    "kind": "choice",
    "answer": "③ She would be sad if she hears the news.",
    "explanation": "hears → heard",
-   "topic": "원본 문제 p.141  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.141  ·  정답·해설 p.154",
+   "kr": "(어법상 어색한 문장) 그녀는 그 소식을 들으면 슬퍼할 텐데. (hears → heard)"
   },
   {
    "id": "P1-75",
@@ -1286,7 +1360,8 @@
    "kind": "choice",
    "answer": "① What would you do if it rained on your wedding day?",
    "explanation": "② know → knew\n③ will → would\n④ isn't → weren't\n⑤ shared → would share",
-   "topic": "원본 문제 p.141  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.141  ·  정답·해설 p.154",
+   "kr": "네 결혼식 날 비가 온다면 너는 무엇을 하겠니?"
   },
   {
    "id": "P1-76",
@@ -1303,7 +1378,8 @@
    "kind": "choice",
    "answer": "④ If I won the lottery, I would buy a cool sports car. / ⑤ If the weather is good, we'll have the party outside.",
    "explanation": "① 가정법 과거로, 주절의 동사는 would be hired가 올바르다.\n② 조동사 could 다음엔 동사원형 have가 와야 한다.\n③ 가정법 과거로, if절의 동사는 did not have가 올바르다.",
-   "topic": "원본 문제 p.142  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.142  ·  정답·해설 p.154",
+   "kr": "④ 내가 복권에 당첨된다면, 나는 멋진 스포츠카를 살 텐데.\n⑤ 날씨가 좋으면, 우리는 야외에서 파티를 할 것이다."
   },
   {
    "id": "P1-77",
@@ -1320,7 +1396,8 @@
    "kind": "choice",
    "answer": "① If ocean water weren't salty, people drank it. / ③ If I know your address, I would mail this letter today.",
    "explanation": "① drank → would drink\n③ know → knew",
-   "topic": "원본 문제 p.142  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.142  ·  정답·해설 p.154",
+   "kr": "① (어색) 바닷물이 짜지 않다면, 사람들은 그것을 마실 텐데. (drank → would drink)\n③ (어색) 내가 네 주소를 안다면, 나는 오늘 이 편지를 부칠 텐데. (know → knew)"
   },
   {
    "id": "P1-78",
@@ -1337,7 +1414,8 @@
    "kind": "choice",
    "answer": "① If she heard the news, she would be pleased. / ④ If he had come to my party, I would have been happy.",
    "explanation": "② would employ → would have employed ('그녀가 영어를 잘했다면, 나는 그녀를 고용했을 텐데.')\n③ would write → would have written\n⑤ could catch → could have caught\n① 현재 사실에 대한 아쉬움을 나타내는 가정법 과거 문장이므로 「If+S+과거 동사, S+조동사 과거형+동사원형」으로 쓸 수 있다.",
-   "topic": "원본 문제 p.142  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.142  ·  정답·해설 p.154",
+   "kr": "① 그녀가 그 소식을 듣는다면, 기뻐할 텐데.\n④ 그가 내 파티에 왔더라면, 나는 기뻤을 텐데."
   },
   {
    "id": "P1-79",
@@ -1354,7 +1432,8 @@
    "kind": "choice",
    "answer": "② If I had told you the truth, you would not believe it.",
    "explanation": "가정법 과거완료 시제 문장으로 주절은 you would not have believed it으로 써야 한다.",
-   "topic": "원본 문제 p.142  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.142  ·  정답·해설 p.154",
+   "kr": "(어법상 어색한 문장) 내가 너에게 사실을 말했다면, 너는 믿지 않을 텐데. (would not believe → would not have believed)"
   },
   {
    "id": "P1-80",
@@ -1371,7 +1450,8 @@
    "kind": "choice",
    "answer": "② 2개",
    "explanation": "• If it was sunny, we would go on a picnic. → was 대신 were로 써야 한다.\n• If I had two bikes, I would gave you one. → would 다음에는 동사원형 give를 써야 한다.\n• If I spend my whole day answering letters, what would happen? → if절의 동사를 과거형 spent로 써야 한다.",
-   "topic": "원본 문제 p.142  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.142  ·  정답·해설 p.154",
+   "kr": "어법상 옳은 문장은 모두 2개이다."
   },
   {
    "id": "P1-81",
@@ -1388,7 +1468,8 @@
    "kind": "choice",
    "answer": "② 2개",
    "explanation": "(C) can → could\n(D) help → would help\n(E) will → would\n(F) drank → would drink\n(G) have → had",
-   "topic": "원본 문제 p.142  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.142  ·  정답·해설 p.154",
+   "kr": "어법상 옳은 문장은 모두 2개이다."
   },
   {
    "id": "P1-82",
@@ -1405,7 +1486,8 @@
    "kind": "choice",
    "answer": "④ 6개",
    "explanation": "ⓑ 가정법 과거 문장으로 if절의 동사를 과거형 sang으로 고치던지, 아니면 단순 조건문으로 could를 can으로 고쳐야 한다.\nⓓ 가정법 과거 문장으로 주절에서 조동사를 과거형 would로 바꿔야 한다.\nⓔ 주절의 can은 could로 고쳐야 한다.\nⓖ 주절의 cannot은 could not으로 고쳐야 한다.\nⓘ 주절의 will은 would로 써야 한다.\nⓙ if절의 동사는 과거형 had로 써야 한다.",
-   "topic": "원본 문제 p.142  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.142  ·  정답·해설 p.154",
+   "kr": "어법상 틀린 문장은 모두 6개이다."
   },
   {
    "id": "P1-83",
@@ -1422,7 +1504,8 @@
    "kind": "choice",
    "answer": "② ⓐ, ⓒ",
    "explanation": "ⓑ would not be late의 형태가 올바르다.\nⓓ 조동사 would 다음에 동사원형 describe가 와야 한다.\nⓔ find의 과거형은 found이다.",
-   "topic": "원본 문제 p.143  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.143  ·  정답·해설 p.154",
+   "kr": "ⓐ 내게 로봇이 있다면, 나는 그것에게 내 숙제를 시킬 텐데.\nⓒ 내가 거리에서 유명한 배우를 본다면, 나는 그에게 함께 사진을 찍어 달라고 부탁할 텐데."
   },
   {
    "id": "P1-84",
@@ -1439,7 +1522,8 @@
    "kind": "choice",
    "answer": "① 3개",
    "explanation": "• 'If I had done any part-time jobs while I was at school, I would have gained some work experience.'가 올바른 문장이다.\n• 'Had I known Woobin was in the hospital, I would have sent him some flowers.'가 올바른 문장이다.\n• 'If the weather was sunny, we would go to the zoo.'가 올바른 문장이다.\n• 'If there were only a breeze in the sauna, the atmosphere wouldn't be quite so unbearable.'이 올바른 문장이다.\n• 'He would have moved into a new house if it had been completed by then.'이 올바른 문장이다.",
-   "topic": "원본 문제 p.143  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.143  ·  정답·해설 p.154",
+   "kr": "어법상 옳은 문장은 모두 3개이다."
   },
   {
    "id": "P2-01",
@@ -1457,7 +1541,8 @@
    "answer": "⑤ so that",
    "explanation": "‘~하기 위해서’라는 의미의 목적을 나타내는 접 속사 자리이므로 'so that'이 적절하다. 「so that+주어+can/could+동사원형」 ‘~하기 위해서’",
    "topic": "원본 문제 p.144  ·  정답·해설 p.154",
-   "passage_ans": "건강을 유지하기 위해 매일 운동을 한다.\n= He exercises every day [[so that]] he can stay healthy."
+   "passage_ans": "건강을 유지하기 위해 매일 운동을 한다.\n= He exercises every day [[so that]] he can stay healthy.",
+   "kr": "건강을 유지하기 위해 매일 운동을 한다. = 그는 건강을 유지할 수 있도록 매일 운동한다."
   },
   {
    "id": "P2-02",
@@ -1475,7 +1560,8 @@
    "answer": "② so that",
    "explanation": "(원문 정답지에 별도 해설 없음)",
    "topic": "원본 문제 p.144  ·  정답·해설 p.154",
-   "passage_ans": "He often walks his dog [[so that]] it can stay\nhealthy."
+   "passage_ans": "He often walks his dog [[so that]] it can stay\nhealthy.",
+   "kr": "그는 개가 건강을 유지할 수 있도록 자주 개를 산책시킨다."
   },
   {
    "id": "P2-03",
@@ -1492,7 +1578,8 @@
    "kind": "choice",
    "answer": "④ so - could",
    "explanation": "to부정사의 부사적 용법과 같은 의미가 되어야 하므로 ‘~하기 위해서’라는 의미를 나타내는 「so that+주어+can/could+동사원형」을 사용한 다.",
-   "topic": "원본 문제 p.144  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.144  ·  정답·해설 p.154",
+   "kr": "그녀는 사진을 찍기 위해 제주도에 갔다. = 그녀는 사진을 찍을 수 있도록 제주도로 여행했다."
   },
   {
    "id": "P2-04",
@@ -1510,7 +1597,8 @@
    "answer": "② could",
    "explanation": "「so that+주어+can/could+동사원형」의 형태로, 주절의 시제가 과거이기 때문에 could가 들어 가야 한다.",
    "topic": "원본 문제 p.144  ·  정답·해설 p.154",
-   "passage_ans": "A: Wow! What a nice bike!\nB: I saved money so that I [[could]] buy this new bike."
+   "passage_ans": "A: Wow! What a nice bike!\nB: I saved money so that I [[could]] buy this new bike.",
+   "kr": "A: 와! 멋진 자전거네! B: 이 새 자전거를 살 수 있도록 돈을 모았어."
   },
   {
    "id": "P2-05",
@@ -1527,7 +1615,8 @@
    "kind": "choice",
    "answer": "① so that / ④ in order that",
    "explanation": "‘~하기 위해서’라는 의미를 나타내는 「so that+주어+동사」는 「in order that+주어+ 동사」과 바꾸어 쓸 수 있다.",
-   "topic": "원본 문제 p.144  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.144  ·  정답·해설 p.154",
+   "kr": "나는 책을 살 수 있도록 서점에 갔다."
   },
   {
    "id": "P2-06",
@@ -1544,7 +1633,8 @@
    "kind": "choice",
    "answer": "④ so - could",
    "explanation": "「so that+주어+can/could+동사원형」: ~하기 위 해서",
-   "topic": "원본 문제 p.144  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.144  ·  정답·해설 p.155",
+   "kr": "그는 아기를 돌보기 위해 직장을 그만두었다. = 그는 아기를 돌볼 수 있도록 직장을 그만두었다."
   },
   {
    "id": "P2-07",
@@ -1562,7 +1652,8 @@
    "answer": "⑤ in order to",
    "explanation": "so as to = in order to ‘~하기 위해서’",
    "topic": "원본 문제 p.144  ·  정답·해설 p.155",
-   "passage_ans": "She donated some money so as to help the poor.\n= She donated some money [[in order to]] help the poor."
+   "passage_ans": "She donated some money so as to help the poor.\n= She donated some money [[in order to]] help the poor.",
+   "kr": "그녀는 가난한 사람들을 돕기 위해 약간의 돈을 기부했다."
   },
   {
    "id": "P2-08",
@@ -1580,7 +1671,8 @@
    "answer": "② so that",
    "explanation": "목적을 나타내는 so that은 「so that+주어 +can/could+동사원형」의 구조로 쓰인다.",
    "topic": "원본 문제 p.144  ·  정답·해설 p.155",
-   "passage_ans": "All Koreans wanted to learn to read and write. So\nKing Sejong invented Hangeul.\n→ King Sejong invented Hangeul [[so that]] all Koreans could learn to read and write."
+   "passage_ans": "All Koreans wanted to learn to read and write. So\nKing Sejong invented Hangeul.\n→ King Sejong invented Hangeul [[so that]] all Koreans could learn to read and write.",
+   "kr": "모든 한국인이 읽고 쓰는 것을 배울 수 있도록 세종대왕은 한글을 만들었다."
   },
   {
    "id": "P2-09",
@@ -1597,7 +1689,8 @@
    "kind": "choice",
    "answer": "① so",
    "explanation": "「so that+주어+can/could+동사원형」 ‘~할 수 있도록’ 「so+형용사/부사+that+주어+can/could」 ‘너무 ~해서 ...하다’",
-   "topic": "원본 문제 p.144  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.144  ·  정답·해설 p.155",
+   "kr": "• 내가 잘 수 있도록 불을 꺼 주세요.\n• 그것은 내가 대답할 수 있을 만큼 쉬운 질문이었다."
   },
   {
    "id": "P2-10",
@@ -1615,7 +1708,8 @@
    "answer": "⑤ talk to other people in different places",
    "explanation": "전화기의 발명으로 우리가 할 수 있게 된 것 은 ⑤번 보기의 내용이 적합하다.",
    "topic": "원본 문제 p.145  ·  정답·해설 p.155",
-   "passage_ans": "A: Bell invented the telephone, didn't he?\nB: Yes, he invented it so that we can [[talk to other people in different places]]."
+   "passage_ans": "A: Bell invented the telephone, didn't he?\nB: Yes, he invented it so that we can [[talk to other people in different places]].",
+   "kr": "A: 벨이 전화기를 발명했지, 그렇지 않니? B: 응, 그는 우리가 다른 곳에 있는 사람들과 이야기할 수 있도록 그것을 발명했어."
   },
   {
    "id": "P2-11",
@@ -1632,7 +1726,8 @@
    "kind": "choice",
    "answer": "① I was nervous, so that I could hardly speak.",
    "explanation": "①은 결과를 나타내는 so that으로 앞의 문장 이 확실한 원인이고, so that 뒤의 문장이 그 에 따르는 결과이다. 이 때 so that은 ‘그 결 과 ~하다’라는 의미이다. 나머지 so that은 ‘~ 하기 위해서‘의 의미로 목적을 나타낸다.",
-   "topic": "원본 문제 p.145  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.145  ·  정답·해설 p.155",
+   "kr": "① (다른 쓰임: 결과) 나는 긴장해서 거의 말을 할 수 없었다."
   },
   {
    "id": "P2-12",
@@ -1649,7 +1744,8 @@
    "kind": "choice",
    "answer": "③ I exercise hard so that I can lose weight.",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.145  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.145  ·  정답·해설 p.155",
+   "kr": "나는 살을 빼기 위해 열심히 운동한다."
   },
   {
    "id": "P2-13",
@@ -1666,7 +1762,8 @@
    "kind": "choice",
    "answer": "③ I studied hard so that I could pass the test.",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.145  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.145  ·  정답·해설 p.155",
+   "kr": "나는 시험에 합격하기 위해 열심히 공부했다."
   },
   {
    "id": "P2-14",
@@ -1683,7 +1780,8 @@
    "kind": "choice",
    "answer": "② Turn in your report so that I can comment on it.",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.145  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.145  ·  정답·해설 p.155",
+   "kr": "제가 코멘트를 할 수 있도록 보고서를 내 주세요."
   },
   {
    "id": "P2-15",
@@ -1700,7 +1798,8 @@
    "kind": "choice",
    "answer": "③ Sam woke up early so as not to miss the train. / ⑤ Sam woke up early so that he would not miss the train.",
    "explanation": "to부정사의 부정은 to앞에 not을 쓴다.",
-   "topic": "원본 문제 p.145  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.145  ·  정답·해설 p.155",
+   "kr": "③ Sam은 기차를 놓치지 않기 위해 일찍 일어났다.\n⑤ Sam은 기차를 놓치지 않도록 일찍 일어났다."
   },
   {
    "id": "P2-16",
@@ -1717,7 +1816,8 @@
    "kind": "choice",
    "answer": "③ He works hard so that he can support his family.",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.145  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.145  ·  정답·해설 p.155",
+   "kr": "그는 가족을 부양하기 위해 열심히 일한다."
   },
   {
    "id": "P2-17",
@@ -1735,7 +1835,8 @@
    "answer": "⑤ we can understand you",
    "explanation": "의미상 ‘우리가 네 말을 알아들을 수 있도록 천천히 말해달라.’가 되어야 하므로 ⑤번이 정 답이 된다.",
    "topic": "원본 문제 p.145  ·  정답·해설 p.155",
-   "passage_ans": "Please speak slowly so that [[we can understand you]]."
+   "passage_ans": "Please speak slowly so that [[we can understand you]].",
+   "kr": "우리가 당신을 이해할 수 있도록 천천히 말해 주세요."
   },
   {
    "id": "P2-18",
@@ -1753,7 +1854,8 @@
    "answer": "④ so that I can help the poor children",
    "explanation": "can → could",
    "topic": "원본 문제 p.145  ·  정답·해설 p.155",
-   "passage_ans": "I saved money [[so that I can help the poor children]]."
+   "passage_ans": "I saved money [[so that I can help the poor children]].",
+   "kr": "(알맞지 않은 것) 나는 가난한 아이들을 도울 수 있도록 돈을 모았다. (앞 문장의 내용과 맞지 않음)"
   },
   {
    "id": "P2-19",
@@ -1771,7 +1873,8 @@
    "answer": "⑤ I could focus on reading",
    "explanation": "(원문 정답지에 별도 해설 없음)",
    "topic": "원본 문제 p.146  ·  정답·해설 p.155",
-   "passage_ans": "I turned off the radio so that [[I could focus on reading]]."
+   "passage_ans": "I turned off the radio so that [[I could focus on reading]].",
+   "kr": "나는 책 읽기에 집중할 수 있도록 라디오를 껐다."
   },
   {
    "id": "P2-20",
@@ -1788,7 +1891,8 @@
    "kind": "choice",
    "answer": "② so as to get a good seat",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.146  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.146  ·  정답·해설 p.155",
+   "kr": "그들은 좋은 자리를 잡기 위해 일찍 출발했다."
   },
   {
    "id": "P2-21",
@@ -1805,7 +1909,8 @@
    "kind": "choice",
    "answer": "③ (C) could",
    "explanation": "주절의 시제가 will의 미래시제로 that절의 시 제는 과거형(could)이 쓰일 수 없다.",
-   "topic": "원본 문제 p.146  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.146  ·  정답·해설 p.155",
+   "kr": "(C) could → can\nAndy는 일찍 일어날 수 있도록 일찍 잤다. / 네가 나를 찾을 수 있도록 나는 여기서 기다릴게. / 벨은 사람들이 서로 다른 곳에서 대화할 수 있도록 전화기를 발명했다."
   },
   {
    "id": "P2-22",
@@ -1822,7 +1927,8 @@
    "kind": "choice",
    "answer": "⑤ We'll do our best so that we can win the game.",
    "explanation": "‘~하기 위해서’의 뜻을 나타내는 「so that+주 어+can/could+동사원형」의 형태로 제시된 것 이 정답이다.",
-   "topic": "원본 문제 p.146  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.146  ·  정답·해설 p.155",
+   "kr": "우리는 게임에서 이기기 위해 최선을 다할 것이다."
   },
   {
    "id": "P2-23",
@@ -1839,7 +1945,8 @@
    "kind": "choice",
    "answer": "④ She studied hard so as to pass the exam.",
    "explanation": "‘~하기 위해서’란 뜻으로 so as to를 사용할 수 있다.",
-   "topic": "원본 문제 p.146  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.146  ·  정답·해설 p.155",
+   "kr": "그녀는 시험에 통과하기 위해 열심히 공부했다."
   },
   {
    "id": "P2-24",
@@ -1856,7 +1963,8 @@
    "kind": "choice",
    "answer": "④ I go jogging every morning enough to keep healthy.",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.146  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.146  ·  정답·해설 p.155",
+   "kr": "나는 건강을 유지하기 위해 매일 아침 조깅을 한다. (④는 의미가 다름)"
   },
   {
    "id": "P2-25",
@@ -1873,7 +1981,8 @@
    "kind": "choice",
    "answer": "④ (C), (A), (B), (D)",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.146  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.146  ·  정답·해설 p.155",
+   "kr": "Jenny는 자전거를 고칠 수 있도록 돈을 모으고 있다. 그는 듣기 실력을 향상시킬 수 있도록 미국 영화를 본다. 그는 아무도 그를 볼 수 없도록 뒷문으로 나갔다. 그녀는 미술을 공부할 수 있도록 해외로 갈 것이다."
   },
   {
    "id": "P2-26",
@@ -1890,7 +1999,8 @@
    "kind": "choice",
    "answer": "⑤ Soyun was very careful so that she wouldn't drop the egg.",
    "explanation": "so that구문을 이용하여 적절하게 영작한 문 장을 고른다.",
-   "topic": "원본 문제 p.147  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.147  ·  정답·해설 p.155",
+   "kr": "소윤이는 계란을 떨어뜨리지 않도록 매우 조심했다."
   },
   {
    "id": "P2-27",
@@ -1907,7 +2017,8 @@
    "kind": "choice",
    "answer": "④ Tom couldn't get in the theater so that he had left his ticket at home.",
    "explanation": "앞의 문장이 결과이고 so that 이하의 내용의 그 원인이므로 because가 오는 것이 자연스 럽다.",
-   "topic": "원본 문제 p.147  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.147  ·  정답·해설 p.155",
+   "kr": "(흐름상 어색) Tom은 영화관에 들어갈 수 없었다, 그래서 입장권을 집에 두고 왔다. (결과가 아니라 원인이어야 함)"
   },
   {
    "id": "P2-28",
@@ -1924,7 +2035,8 @@
    "kind": "choice",
    "answer": "② She turned on the TV so as to watch the news. / ⑤ She turned on the TV so that she could watch the news.",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.147  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.147  ·  정답·해설 p.155",
+   "kr": "② 그녀는 뉴스를 보기 위해 TV를 켰다.\n⑤ 그녀는 뉴스를 볼 수 있도록 TV를 켰다."
   },
   {
    "id": "P2-29",
@@ -1941,7 +2053,8 @@
    "kind": "choice",
    "answer": "② I gave him a knife so that he couldn't peel the fruit.",
    "explanation": "의미상 ‘I gave him a knife because he could peel the fruit.’가 되어야 자연스럽다.",
-   "topic": "원본 문제 p.147  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.147  ·  정답·해설 p.155",
+   "kr": "(의미상 어색) 나는 그가 과일 껍질을 깎을 수 없도록 그에게 칼을 주었다."
   },
   {
    "id": "P2-30",
@@ -1958,7 +2071,8 @@
    "kind": "choice",
    "answer": "① He reads many books about writing.",
    "explanation": "나머지 보기는 모두 ‘그는 작가가 되기 위해서 많은 책을 읽는다.’라는 뜻이고, ①번 보기만 ‘그는 글쓰기에 관한 많은 책을 읽는다.’라는 뜻이다.",
-   "topic": "원본 문제 p.147  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.147  ·  정답·해설 p.155",
+   "kr": "(의미가 다른 것) 그는 글쓰기에 관한 책을 많이 읽는다."
   },
   {
    "id": "P2-31",
@@ -1975,7 +2089,8 @@
    "kind": "choice",
    "answer": "③ He studied so hard that he could pass the exam.",
    "explanation": "③번 보기는 ‘그는 아주 열심히 공부해서 시험 을 통과할 수 있었다.’라는 뜻이다. 나머지 보 기는 모두 ‘그는 시험에 통과하기 위해 열심히 공부했다.’라는 뜻이다.",
-   "topic": "원본 문제 p.147  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.147  ·  정답·해설 p.155",
+   "kr": "(의미가 다른 것) 그는 너무 열심히 공부해서 시험에 합격할 수 있었다."
   },
   {
    "id": "P2-32",
@@ -1992,7 +2107,8 @@
    "kind": "choice",
    "answer": "④ He tries so hard that he can achieve his goal.",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.147  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.147  ·  정답·해설 p.155",
+   "kr": "(의미가 다른 것) 그는 너무 열심히 노력해서 목표를 이룰 수 있다."
   },
   {
    "id": "P2-33",
@@ -2009,7 +2125,8 @@
    "kind": "choice",
    "answer": "③ I woke up so early that I didn't miss the bus.",
    "explanation": "「so+형용사/부사+that+주어+동사」: 너무 ~해 서 …하다\n① 목적을 나타내는 to부정사의 부사적 용법 : ~하기 위해\n= ② 「so that+주어+동사」\n= ④ 「so as to+동사원형」\n= ⑤ 「in order that+주어+동사」",
-   "topic": "원본 문제 p.147  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.147  ·  정답·해설 p.155",
+   "kr": "(의미가 다른 것) 나는 너무 일찍 일어나서 버스를 놓치지 않았다."
   },
   {
    "id": "P2-34",
@@ -2026,7 +2143,8 @@
    "kind": "choice",
    "answer": "⑤ I finished my job quickly because I went home early.",
    "explanation": "⑤번 보기는 ‘나는 집에 일찍 갔기 때문에 일 을 빨리 끝마쳤다.’라는 의미이며 나머지는 ‘나는 집에 일찍 가기 위해 일을 빨리 끝마쳤 다.’라는 뜻이다.",
-   "topic": "원본 문제 p.148  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.148  ·  정답·해설 p.155",
+   "kr": "(의미가 다른 것) 나는 일찍 집에 갔기 때문에 일을 빨리 끝냈다."
   },
   {
    "id": "P2-35",
@@ -2043,7 +2161,8 @@
    "kind": "choice",
    "answer": "③ Please leave your phone number so that she can't call you back.",
    "explanation": "can't → can",
-   "topic": "원본 문제 p.148  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.148  ·  정답·해설 p.155",
+   "kr": "(의미가 어색) 그녀가 당신에게 전화할 수 없도록 전화번호를 남겨 주세요."
   },
   {
    "id": "P2-36",
@@ -2060,7 +2179,8 @@
    "kind": "choice",
    "answer": "③ He practiced too hard to learn difficult tricks.",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.148  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.148  ·  정답·해설 p.155",
+   "kr": "(의미가 다른 것) 그는 어려운 기술을 배우기에는 너무 열심히 연습했다."
   },
   {
    "id": "P2-37",
@@ -2077,7 +2197,8 @@
    "kind": "choice",
    "answer": "② She took a taxi so that she wouldn't be late for work.",
    "explanation": "‘목적’을 나타내고 있으므로 so that구문으로 바꿔 쓸 수 있다.",
-   "topic": "원본 문제 p.148  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.148  ·  정답·해설 p.155",
+   "kr": "그녀는 직장에 지각하지 않기 위해 택시를 탔다. = 그녀는 직장에 늦지 않도록 택시를 탔다."
   },
   {
    "id": "P2-38",
@@ -2094,7 +2215,8 @@
    "kind": "choice",
    "answer": "③ He got up early so that he could catch the first bus.",
    "explanation": "「so as to+동사원형」는 ‘~하기 위해서’라는 뜻으로 「so that+주어+can/could+동사원형」 으로 바꿔 쓸 수 있다.",
-   "topic": "원본 문제 p.148  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.148  ·  정답·해설 p.155",
+   "kr": "그는 첫 버스를 타기 위해 일찍 일어났다. = 그는 첫 버스를 탈 수 있도록 일찍 일어났다."
   },
   {
    "id": "P2-39",
@@ -2111,7 +2233,8 @@
    "kind": "choice",
    "answer": "⑤ He worked hard so that he might make more money.",
    "explanation": "‘그는 더 많은 돈을 벌기 위해서 열심히 일했 다’라는 뜻이다.\n① 그는 열심히 일해서 더 많은 돈을 벌 수 있었다.\n② 그가 더 많은 돈을 벌기란 어려웠다.\n③ 그가 열심히 일했음에도 불구하고, 그는 더 많은 돈을 벌 수 없었다.\n④ 그는 열심히 일했고, 그래서 더 많은 돈을 벌 수 있었다.",
-   "topic": "원본 문제 p.148  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.148  ·  정답·해설 p.155",
+   "kr": "그는 더 많은 돈을 벌기 위해 열심히 일했다. = 그는 더 많은 돈을 벌 수 있도록 열심히 일했다."
   },
   {
    "id": "P2-40",
@@ -2128,7 +2251,8 @@
    "kind": "choice",
    "answer": "① in order to take a long vacation. / ⑤ in order that we could take a long vacation.",
    "explanation": "주어진 문장의 밑줄 친 부분은 목적을 나 타내는 to부정사의 부사적 용법으로 ‘~하 기 위해서’라는 의미이므로 「in order to」나 「in order that」구문으로 나타낼 수 있다.",
-   "topic": "원본 문제 p.148  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.148  ·  정답·해설 p.155",
+   "kr": "① 긴 휴가를 가기 위해\n⑤ 우리가 긴 휴가를 갈 수 있도록"
   },
   {
    "id": "P2-41",
@@ -2145,7 +2269,8 @@
    "kind": "choice",
    "answer": "⑤ He saved so much money that he couldn‘t buy a bike.",
    "explanation": "주어진 문장과 보기들은 모두 ‘그는 자전거를 사기 위해서 돈을 모았다’라는 뜻이지만, ⑤번 보기는 ‘그는 너무 많은 돈을 저축해서 자전 거를 사지 못했다’라는 뜻이다.",
-   "topic": "원본 문제 p.148  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.148  ·  정답·해설 p.155",
+   "kr": "(의미가 다른 것) 그는 돈을 너무 많이 모아서 자전거를 살 수 없었다."
   },
   {
    "id": "P2-42",
@@ -2162,7 +2287,8 @@
    "kind": "choice",
    "answer": "⑤ She went to the mall, and she bought a new pair of shoes.",
    "explanation": "⑤는 ‘그녀는 몰에 가서 새 신발을 한 켤레 샀 다.’는 의미이나 나머지는 ‘그녀는 새 신발 한 켤레를 사기 위해 몰에 갔다.’는 의미이다.",
-   "topic": "원본 문제 p.149  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.149  ·  정답·해설 p.155",
+   "kr": "(의미가 다른 것) 그녀는 쇼핑몰에 갔고, 새 신발을 샀다."
   },
   {
    "id": "P2-43",
@@ -2179,7 +2305,8 @@
    "kind": "choice",
    "answer": "⑤ I left early to avoid the rush hour.\n= I left early, so I could avoid the rush hour.",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.149  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.149  ·  정답·해설 p.155",
+   "kr": "(적절하지 않은 것) 나는 혼잡 시간대를 피하기 위해 일찍 떠났다. = 나는 일찍 떠났고, 그래서 혼잡 시간대를 피할 수 있었다."
   },
   {
    "id": "P2-44",
@@ -2196,7 +2323,8 @@
    "kind": "choice",
    "answer": "③ Fasten your seat belt so that you may not get hurt.\n= Fasten your seat belt to get hurt.",
    "explanation": "to get hurt → not to get hurt",
-   "topic": "원본 문제 p.149  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.149  ·  정답·해설 p.155",
+   "kr": "(같은 의미가 아닌 것) 다치지 않도록 안전벨트를 매세요. = 다치기 위해 안전벨트를 매세요."
   },
   {
    "id": "P2-45",
@@ -2213,7 +2341,8 @@
    "kind": "choice",
    "answer": "① He turned down the radio so that I could get to sleep.\n= He turned down the radio in order to get to sleep.",
    "explanation": "• He turned down the radio so that I could get to sleep.(그는 내가 잘 수 있도록 라디오 를 줄여줬다.)\n• He turned down the radio in order to get to sleep.(그는 자기 위해서 라디오를 줄였다.)",
-   "topic": "원본 문제 p.149  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.149  ·  정답·해설 p.155",
+   "kr": "(서로 다른 것) 그는 내가 잠들 수 있도록 라디오 소리를 줄였다. = 그는 (자신이) 잠들기 위해 라디오 소리를 줄였다."
   },
   {
    "id": "P2-46",
@@ -2230,7 +2359,8 @@
    "kind": "choice",
    "answer": "② Many parents ask their children not to hang out with bad friends.",
    "explanation": "① not in order to → in order not to\n③ so as to → so as not to\n④ in order to → in order not to\n⑤ so as to not → so as not to",
-   "topic": "원본 문제 p.149  ·  정답·해설 p.156"
+   "topic": "원본 문제 p.149  ·  정답·해설 p.156",
+   "kr": "많은 부모들은 자녀들에게 나쁜 친구들과 어울려 다니지 말라고 말한다."
   },
   {
    "id": "P2-47",
@@ -2247,7 +2377,8 @@
    "kind": "choice",
    "answer": "② Turn the fish carefully so as to it won't burn.",
    "explanation": "so as to → so that[in order that]",
-   "topic": "원본 문제 p.149  ·  정답·해설 p.156"
+   "topic": "원본 문제 p.149  ·  정답·해설 p.156",
+   "kr": "(어색) 생선이 타지 않도록 조심해서 뒤집어라. (so as to it → so that it)"
   },
   {
    "id": "P2-48",
@@ -2264,7 +2395,8 @@
    "kind": "choice",
    "answer": "① Watch out so as not to falling.",
    "explanation": "falling → fall",
-   "topic": "원본 문제 p.149  ·  정답·해설 p.156"
+   "topic": "원본 문제 p.149  ·  정답·해설 p.156",
+   "kr": "(어색) 넘어지지 않도록 조심해라. (falling → fall)"
   },
   {
    "id": "P2-49",
@@ -2281,7 +2413,8 @@
    "kind": "choice",
    "answer": "⑤ He ran to the bus stop in order to he could catch.",
    "explanation": "in order to → in order that[so that]",
-   "topic": "원본 문제 p.150  ·  정답·해설 p.156"
+   "topic": "원본 문제 p.150  ·  정답·해설 p.156",
+   "kr": "(어색) 그는 버스를 탈 수 있도록 버스 정류장으로 달려갔다. (in order to he → in order that he)"
   },
   {
    "id": "P2-50",
@@ -2298,7 +2431,8 @@
    "kind": "choice",
    "answer": "① I woke up early so that I will not be late. / ② He was so wisdom that he was able to solve it.",
    "explanation": "① I woke up early so that I would not be late.가 올바른 문장이다.\n② He was so wise that he was able to solve it.이 올바른 문장이다.",
-   "topic": "원본 문제 p.150  ·  정답·해설 p.156"
+   "topic": "원본 문제 p.150  ·  정답·해설 p.156",
+   "kr": "① (어색) 나는 지각하지 않도록 일찍 일어났다. (will → would)\n② (어색) 그는 너무 지혜로워서 그것을 풀 수 있었다. (wisdom → wise)"
   },
   {
    "id": "P2-51",
@@ -2315,7 +2449,8 @@
    "kind": "choice",
    "answer": "② (A), (D)",
    "explanation": "(B) 주절의 시제가 과거이므로 종속절의 시제 도 과거형인 could로 써야 한다. (C) too는 so로 고쳐야 한다. (E) that 앞에 so를 써줘야 한다.",
-   "topic": "원본 문제 p.150  ·  정답·해설 p.156"
+   "topic": "원본 문제 p.150  ·  정답·해설 p.156",
+   "kr": "(A) 그녀는 매우 현명해서 모두가 그녀를 존경한다.\n(D) 그녀는 달걀을 떨어뜨리지 않도록 매우 조심했다."
   },
   {
    "id": "P2-52",
@@ -2332,7 +2467,8 @@
    "kind": "choice",
    "answer": "④ C, D, F",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.150  ·  정답·해설 p.156"
+   "topic": "원본 문제 p.150  ·  정답·해설 p.156",
+   "kr": ""
   },
   {
    "id": "P2-53",
@@ -2349,7 +2485,8 @@
    "kind": "choice",
    "answer": "⑤ ⓒ, ⓔ",
    "explanation": "ⓐ-ⓕ I started to practice dancing so that I could join the dance club.\nⓑ-ⓓ Andy went to bed early so that he could wake up early.",
-   "topic": "원본 문제 p.150  ·  정답·해설 p.156"
+   "topic": "원본 문제 p.150  ·  정답·해설 p.156",
+   "kr": ""
   }
  ]
 }
