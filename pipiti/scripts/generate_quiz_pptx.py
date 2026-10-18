@@ -276,6 +276,12 @@ def build_item_slide(prs, item, index, total):
 
     passage = item.get("passage")
     passage_lines = passage.split("\n") if passage else []
+    orig_passage_lines = passage_lines
+    # 정답이 빨갛게 채워진 본문(passage_ans) / 객관식 정답 번호 -> 클릭 시 본문 위에 덮어 보여 준다
+    ans_passage_lines = item["passage_ans"].split("\n") if item.get("passage_ans") else None
+    if ans_passage_lines and len(ans_passage_lines) > len(passage_lines):
+        passage_lines = ans_passage_lines  # 글자 크기는 더 긴 쪽 기준
+    marks = set(c for c in item.get("answer", "") if c in "①②③④⑤") if item.get("kind") == "choice" else set()
     prompt_lines = item["prompt"].split("\n")
     choice_lines = []
     for c in (item.get("choices") or []):
@@ -333,8 +339,8 @@ def build_item_slide(prs, item, index, total):
             set_paragraph(p, line, font_pt + 1, NAVY, bold=True)
             p.space_after = Pt(3)
 
-    def write_passage(tf, first):
-        for line in passage_lines:
+    def write_passage(tf, first, lines=None):
+        for line in (orig_passage_lines if lines is None else lines):
             p = tf.paragraphs[0] if first else tf.add_paragraph()
             first = False
             set_paragraph(p, line if line.strip() else " ", font_pt, DARK)
@@ -342,12 +348,13 @@ def build_item_slide(prs, item, index, total):
             pPr.set("marL", str(int(Inches(0.25))))
             p.space_after = Pt(2)
 
-    def write_choices(tf, first):
+    def write_choices(tf, first, marks_=()):
         for c in item["choices"]:
+            red = bool(marks_) and c[:1] in marks_
             for k, cl in enumerate(c.split("\n")):
                 p = tf.paragraphs[0] if first else tf.add_paragraph()
                 first = False
-                set_paragraph(p, cl if k == 0 else "      " + cl.strip(), font_pt, DARK)
+                set_paragraph(p, cl if k == 0 else "      " + cl.strip(), font_pt, ACCENT if red else DARK, bold=red)
                 p.space_after = Pt(3)
 
     if split:
@@ -366,6 +373,18 @@ def build_item_slide(prs, item, index, total):
         rtf.margin_left = rtf.margin_right = Inches(0.08)
         rtf.margin_top = Inches(0.08)
         write_choices(rtf, True)
+        if marks:  # 클릭하면 정답 보기가 빨갛게
+            ov = add_textbox(slide, margin + Inches(LEFT_W + 0.15), Inches(lower_top), Inches(RIGHT_W), Inches(lower_h), anchor=MSO_ANCHOR.TOP)
+            ov.fill.solid()
+            ov.fill.fore_color.rgb = GRAY_BG
+            set_shape_name(ov, "reveal_1_en_ov")
+            ov.line.fill.background()
+            otf = ov.text_frame
+            otf.word_wrap = True
+            otf.vertical_anchor = MSO_ANCHOR.TOP
+            otf.margin_left = otf.margin_right = Inches(0.08)
+            otf.margin_top = Inches(0.08)
+            write_choices(otf, True, marks)
     else:
         box = add_textbox(slide, margin, content_top, text_w, Inches(content_h_in), anchor=MSO_ANCHOR.TOP)
         tf = box.text_frame
@@ -378,6 +397,23 @@ def build_item_slide(prs, item, index, total):
             spacer = tf.add_paragraph()
             set_paragraph(spacer, " ", 8, GRAY_TXT)
             write_choices(tf, False)
+        if marks or ans_passage_lines:  # 클릭하면 정답이 빨갛게 들어간 본문이 원래 본문 위에 덮인다
+            ov = add_textbox(slide, margin, content_top, text_w, Inches(content_h_in), anchor=MSO_ANCHOR.TOP)
+            ov.fill.solid()
+            ov.fill.fore_color.rgb = WHITE
+            set_shape_name(ov, "reveal_1_en_ov")
+            ov.line.fill.background()
+            otf = ov.text_frame
+            write_prompt(otf)
+            plines_o = ans_passage_lines if ans_passage_lines else orig_passage_lines
+            if plines_o:
+                spacer = otf.add_paragraph()
+                set_paragraph(spacer, " ", 6, GRAY_TXT)
+                write_passage(otf, False, plines_o)
+            if choice_lines:
+                spacer = otf.add_paragraph()
+                set_paragraph(spacer, " ", 8, GRAY_TXT)
+                write_choices(otf, False, marks)
 
     if item.get("table"):
         add_table(slide, item["table"], margin + Inches(7.1), content_top + Inches(0.6), Inches(5.2), font_pt=14)
@@ -489,19 +525,10 @@ def build_cover_slide(prs, deck_title, book, n_items):
 P_NS = "http://schemas.openxmlformats.org/presentationml/2006/main"
 
 
-def appear_block(spid, ids):
-    a, b, c, d = ids
+def _effect(spid, c, d, node):
     return f'''
-        <p:par>
-          <p:cTn id="{a}" fill="hold">
-            <p:stCondLst><p:cond delay="indefinite"/></p:stCondLst>
-            <p:childTnLst>
-              <p:par>
-                <p:cTn id="{b}" fill="hold">
-                  <p:stCondLst><p:cond delay="0"/></p:stCondLst>
-                  <p:childTnLst>
                     <p:par>
-                      <p:cTn id="{c}" presetID="1" presetClass="entr" presetSubtype="0" fill="hold" grpId="0" nodeType="clickEffect">
+                      <p:cTn id="{c}" presetID="1" presetClass="entr" presetSubtype="0" fill="hold" grpId="0" nodeType="{node}">
                         <p:stCondLst><p:cond delay="0"/></p:stCondLst>
                         <p:childTnLst>
                           <p:set>
@@ -516,7 +543,22 @@ def appear_block(spid, ids):
                           </p:set>
                         </p:childTnLst>
                       </p:cTn>
-                    </p:par>
+                    </p:par>'''
+
+
+def appear_block(spids, base):
+    """spids: 한 번의 클릭에 동시에 나타날 도형들(첫 도형=클릭, 나머지=함께)."""
+    effects = "".join(_effect(sp, base + 2 + 2 * k, base + 3 + 2 * k, "clickEffect" if k == 0 else "withEffect")
+                      for k, sp in enumerate(spids))
+    return f'''
+        <p:par>
+          <p:cTn id="{base}" fill="hold">
+            <p:stCondLst><p:cond delay="indefinite"/></p:stCondLst>
+            <p:childTnLst>
+              <p:par>
+                <p:cTn id="{base + 1}" fill="hold">
+                  <p:stCondLst><p:cond delay="0"/></p:stCondLst>
+                  <p:childTnLst>{effects}
                   </p:childTnLst>
                 </p:cTn>
               </p:par>
@@ -525,14 +567,13 @@ def appear_block(spid, ids):
         </p:par>'''
 
 
-def build_timing_xml(reveals):
+def build_timing_xml(groups):
     blocks = []
     next_id = 10
-    for spid in reveals:
-        ids = [next_id + i for i in range(4)]
-        blocks.append(appear_block(spid, ids))
-        next_id += 10
-    bld = "".join(f'<p:bldP spid="{spid}" grpId="0" animBg="1"/>' for spid in reveals)
+    for spids in groups:
+        blocks.append(appear_block(spids, next_id))
+        next_id += 10 + 2 * len(spids)
+    bld = "".join(f'<p:bldP spid="{spid}" grpId="0" animBg="1"/>' for g in groups for spid in g)
     xml = f'''<p:timing xmlns:p="{P_NS}">
       <p:tnLst>
         <p:par>
@@ -561,15 +602,13 @@ def build_timing_xml(reveals):
 
 
 def find_reveal_spids(root):
-    items = []
+    """reveal_<순번>_en[_ov] 이름의 도형을 순번별 그룹으로 묶어 반환 (같은 순번 = 같은 클릭)."""
+    groups = {}
     for cNvPr in root.iter(f"{{{P_NS}}}cNvPr"):
-        m = None
-        name = cNvPr.get("name", "")
-        if name.startswith("reveal_") and name.endswith("_en"):
-            order = int(name.split("_")[1])
-            items.append((order, int(cNvPr.get("id"))))
-    items.sort(key=lambda t: t[0])
-    return [spid for _, spid in items]
+        m = _re.match(r"^reveal_(\d+)_en(_ov)?$", cNvPr.get("name", ""))
+        if m:
+            groups.setdefault(int(m.group(1)), []).append((1 if m.group(2) else 0, int(cNvPr.get("id"))))
+    return [[sp for _, sp in sorted(groups[k])] for k in sorted(groups)]
 
 
 def inject_click_animations(pptx_path):

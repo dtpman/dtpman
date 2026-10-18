@@ -17,7 +17,8 @@
    "kind": "choice",
    "answer": "⑤ had",
    "explanation": "현재 사실과 반대되는 것을 가정할 때 [If+주어 +동사의 과거형, 주어+조동사의 과거형+동사 원형]의 형태인 가정법 과거를 사용한다.",
-   "topic": "원본 문제 p.132  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.132  ·  정답·해설 p.151",
+   "passage_ans": "If I [[had]] some money, I would lend it to you."
   },
   {
    "id": "P1-02",
@@ -34,7 +35,8 @@
    "kind": "choice",
    "answer": "③ would",
    "explanation": "가정법 과거 문장으로 빈칸에는 조동사의 과거형이 들어가야 한다.",
-   "topic": "원본 문제 p.132  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.132  ·  정답·해설 p.151",
+   "passage_ans": "If I were you, I [[would]] tell her the truth."
   },
   {
    "id": "P1-03",
@@ -85,7 +87,8 @@
    "kind": "choice",
    "answer": "⑤ had been",
    "explanation": "'날씨가 더 좋았더라면, 나는 소풍을 갈 수 있었을 텐데.' 가정법 과거완료는 「If+주어+had p.p., 주어+조동사 과거형+have p.p」의 형태로 나타낸다. 주절에 ‘could have gone’이 온 것으로 보아 가정법 과거완료이므로 if절에는 과거완료 ‘had p.p.’가 와야 한다. ‘과거 사실에 대한 반대’를 나타내며, ‘만약 ~했더라면’이라고 해석한다.",
-   "topic": "원본 문제 p.132  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.132  ·  정답·해설 p.151",
+   "passage_ans": "If the weather [[had been]] better, I could have\ngone on a picnic."
   },
   {
    "id": "P1-06",
@@ -102,7 +105,8 @@
    "kind": "choice",
    "answer": "④ had known",
    "explanation": "가정법 과거완료 시제로 빈칸에는 had p.p. 형 태가 들어가야 한다.",
-   "topic": "원본 문제 p.132  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.132  ·  정답·해설 p.151",
+   "passage_ans": "As I didn't know your email address, I couldn't\nwrite to you.\n→ If I [[had known]] your email address, I could\nhave written to you."
   },
   {
    "id": "P1-07",
@@ -119,7 +123,8 @@
    "kind": "choice",
    "answer": "④ didn't have to",
    "explanation": "현재 사실과 반대되는 것을 가정할 때 [If+주어+ 동사의 과거형, 주어+조동사의 과거형+동사원 형]의 형태인 가정법 과거를 사용한다.",
-   "topic": "원본 문제 p.132  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.132  ·  정답·해설 p.151",
+   "passage_ans": "I have to go to class, so I can't go shopping with\nyou.\n→ If I [[didn't have to]] go to class, I could go\nshopping with you."
   },
   {
    "id": "P1-08",
@@ -136,7 +141,8 @@
    "kind": "choice",
    "answer": "⑤ if it were not raining",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.132  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.132  ·  정답·해설 p.151",
+   "passage_ans": "I would go out for dinner [[if it were not raining]], but\nit is raining outside."
   },
   {
    "id": "P1-09",
@@ -374,7 +380,8 @@
    "kind": "choice",
    "answer": "④ I would not know what to do",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.134  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.134  ·  정답·해설 p.151",
+   "passage_ans": "I don't know anything about cars. If the car broke\ndown, [[I would not know what to do]]."
   },
   {
    "id": "P1-23",
@@ -442,7 +449,8 @@
    "kind": "choice",
    "answer": "② I would call him if I knew his number.",
    "explanation": "가정법 과거 [If+주어+동사의 과거형, 주어+조 1 - 동사의 과거형+동사원형]을 이용하여 영작한 문장이 정답이다.",
-   "topic": "원본 문제 p.135  ·  정답·해설 p.151"
+   "topic": "원본 문제 p.135  ·  정답·해설 p.151",
+   "passage_ans": "Sue wants to phone Steven, but she can't because\nshe doesn't know his number. She says:\n[[I would call him if I knew his number.]]"
   },
   {
    "id": "P1-27",
@@ -459,7 +467,8 @@
    "kind": "choice",
    "answer": "④ I must start looking for it",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.135  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.135  ·  정답·해설 p.152",
+   "passage_ans": "If I were you, [[I must start looking for it]]."
   },
   {
    "id": "P1-28",
@@ -476,7 +485,8 @@
    "kind": "choice",
    "answer": "⑤ talk to him first",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.135  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.135  ·  정답·해설 p.152",
+   "passage_ans": "A: I wish I could make friends with Tom.\nB: If I were you, I'd [[talk to him first]]."
   },
   {
    "id": "P1-29",
@@ -493,7 +503,8 @@
    "kind": "choice",
    "answer": "③ the air would be clean",
    "explanation": "현재 사실의 반대를 가정하고 있으므로 가정법 과거의 형태가 되어야 함",
-   "topic": "원본 문제 p.135  ·  정답·해설 p.152"
+   "topic": "원본 문제 p.135  ·  정답·해설 p.152",
+   "passage_ans": "Air pollution is getting worse. If there weren't so\nmuch traffic, [[the air would be clean]]."
   },
   {
    "id": "P1-30",
@@ -1445,7 +1456,8 @@
    "kind": "choice",
    "answer": "⑤ so that",
    "explanation": "‘~하기 위해서’라는 의미의 목적을 나타내는 접 속사 자리이므로 'so that'이 적절하다. 「so that+주어+can/could+동사원형」 ‘~하기 위해서’",
-   "topic": "원본 문제 p.144  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.144  ·  정답·해설 p.154",
+   "passage_ans": "건강을 유지하기 위해 매일 운동을 한다.\n= He exercises every day [[so that]] he can stay healthy."
   },
   {
    "id": "P2-02",
@@ -1462,7 +1474,8 @@
    "kind": "choice",
    "answer": "② so that",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.144  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.144  ·  정답·해설 p.154",
+   "passage_ans": "He often walks his dog [[so that]] it can stay\nhealthy."
   },
   {
    "id": "P2-03",
@@ -1496,7 +1509,8 @@
    "kind": "choice",
    "answer": "② could",
    "explanation": "「so that+주어+can/could+동사원형」의 형태로, 주절의 시제가 과거이기 때문에 could가 들어 가야 한다.",
-   "topic": "원본 문제 p.144  ·  정답·해설 p.154"
+   "topic": "원본 문제 p.144  ·  정답·해설 p.154",
+   "passage_ans": "A: Wow! What a nice bike!\nB: I saved money so that I [[could]] buy this new bike."
   },
   {
    "id": "P2-05",
@@ -1547,7 +1561,8 @@
    "kind": "choice",
    "answer": "⑤ in order to",
    "explanation": "so as to = in order to ‘~하기 위해서’",
-   "topic": "원본 문제 p.144  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.144  ·  정답·해설 p.155",
+   "passage_ans": "She donated some money so as to help the poor.\n= She donated some money [[in order to]] help the poor."
   },
   {
    "id": "P2-08",
@@ -1564,7 +1579,8 @@
    "kind": "choice",
    "answer": "② so that",
    "explanation": "목적을 나타내는 so that은 「so that+주어 +can/could+동사원형」의 구조로 쓰인다.",
-   "topic": "원본 문제 p.144  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.144  ·  정답·해설 p.155",
+   "passage_ans": "All Koreans wanted to learn to read and write. So\nKing Sejong invented Hangeul.\n→ King Sejong invented Hangeul [[so that]] all Koreans could learn to read and write."
   },
   {
    "id": "P2-09",
@@ -1598,7 +1614,8 @@
    "kind": "choice",
    "answer": "⑤ talk to other people in different places",
    "explanation": "전화기의 발명으로 우리가 할 수 있게 된 것 은 ⑤번 보기의 내용이 적합하다.",
-   "topic": "원본 문제 p.145  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.145  ·  정답·해설 p.155",
+   "passage_ans": "A: Bell invented the telephone, didn't he?\nB: Yes, he invented it so that we can [[talk to other people in different places]]."
   },
   {
    "id": "P2-11",
@@ -1717,7 +1734,8 @@
    "kind": "choice",
    "answer": "⑤ we can understand you",
    "explanation": "의미상 ‘우리가 네 말을 알아들을 수 있도록 천천히 말해달라.’가 되어야 하므로 ⑤번이 정 답이 된다.",
-   "topic": "원본 문제 p.145  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.145  ·  정답·해설 p.155",
+   "passage_ans": "Please speak slowly so that [[we can understand you]]."
   },
   {
    "id": "P2-18",
@@ -1734,7 +1752,8 @@
    "kind": "choice",
    "answer": "④ so that I can help the poor children",
    "explanation": "can → could",
-   "topic": "원본 문제 p.145  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.145  ·  정답·해설 p.155",
+   "passage_ans": "I saved money [[so that I can help the poor children]]."
   },
   {
    "id": "P2-19",
@@ -1751,7 +1770,8 @@
    "kind": "choice",
    "answer": "⑤ I could focus on reading",
    "explanation": "(원문 정답지에 별도 해설 없음)",
-   "topic": "원본 문제 p.146  ·  정답·해설 p.155"
+   "topic": "원본 문제 p.146  ·  정답·해설 p.155",
+   "passage_ans": "I turned off the radio so that [[I could focus on reading]]."
   },
   {
    "id": "P2-20",

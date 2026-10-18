@@ -21,6 +21,66 @@ def clean(t):
     return re.sub(r'[ \t]*\t[ \t]*', '    ', t.replace('\xa0', ' ')).rstrip()
 
 
+def fill_answer(text, ans):
+    """문제 본문(text)에 정답(ans)을 [[빨간 표시]]로 채워 넣은 본문을 만든다.
+    1) 빈칸(____)  2) (A / B) 고르기  3) (verb) 형태 변환  4) 본문 속 어구 표시  5) 마지막 줄에 '→ 정답' 덧붙임"""
+    a = ans.strip()
+    blanks = list(re.finditer(r'_{3,}', text))
+    if blanks:
+        # (1)(2) 처럼 번호 붙은 답: 번호별로 해당 줄 빈칸에 넣는다
+        numbered = re.findall(r'^\((\d)\)\s*(.+)$', a, flags=re.M)
+        if numbered and len(numbered) == len(blanks):
+            pieces = [t.strip() for _, t in numbered]
+        else:
+            flat = re.sub(r'\s*\n\s*', ' ', a)
+            if ',' in flat and len([x for x in flat.split(',') if x.strip()]) == len(blanks):
+                pieces = [x.strip() for x in flat.split(',')]
+            elif len(blanks) == 1:
+                pieces = [flat]
+            elif len(flat.split()) == len(blanks):
+                pieces = flat.split()
+            else:
+                pieces = None
+        if pieces:
+            it = iter(pieces)
+            return re.sub(r'_{3,}( ?_{3,})*', lambda m: '[[' + next(it) + ']]', text) if False else \
+                _fill_blanks(text, pieces)
+    # (A / B) 고르기
+    parens = list(re.finditer(r'\(([^()]*/[^()]*)\)', text))
+    if parens:
+        flat = re.sub(r'\s*\n\s*', ' ', a)
+        pcs = [x.strip() for x in flat.split(',')] if len(parens) > 1 else [flat]
+        if len(pcs) == len(parens):
+            out, pos, ok = [], 0, True
+            for m, pc in zip(parens, pcs):
+                opts = [o.strip() for o in m.group(1).split('/')]
+                if pc not in opts:
+                    ok = False; break
+                out.append(text[pos:m.start()] + '(' + ' / '.join(('[[' + o + ']]') if o == pc else o for o in opts) + ')')
+                pos = m.end()
+            if ok:
+                return ''.join(out) + text[pos:]
+    # (verb) 형태 바꾸기
+    vp = list(re.finditer(r'\(([A-Za-z][A-Za-z ,\']*)\)', text))
+    if len(vp) == 1 and '\n' not in a and a.upper() != 'X':
+        m = vp[0]
+        return text[:m.start()] + '[[' + a + ']]' + text[m.end():]
+    # 본문 속 어구 표시 (생략 가능한 어구 등)
+    if a and a.upper() != 'X' and '\n' not in a and '→' not in a and a in text:
+        return text.replace(a, '[[' + a + ']]', 1)
+    # 그 밖: 정답을 한 줄 덧붙인다
+    lines = [x.strip() for x in a.split('\n') if x.strip()]
+    return text + '\n' + '\n'.join('→ [[' + x + ']]' for x in lines)
+
+
+def _fill_blanks(text, pieces):
+    out, pos, i = [], 0, 0
+    for m in re.finditer(r'_{3,}', text):
+        out.append(text[pos:m.start()]); out.append('[[' + pieces[i] + ']]'); pos = m.end(); i += 1
+    out.append(text[pos:])
+    return ''.join(out).replace(']] [[', ' ')
+
+
 # ---- Part 경계 ----
 starts = [i for i, (k, s, l, t) in enumerate(paras) if k == 'P' and l == 6 and re.fullmatch(r'Part \d+', t)]
 END = next(i for i, (k, s, l, t) in enumerate(paras) if k == 'P' and t == 'Grammar Build Up 워크북' and i > starts[-1])
@@ -83,11 +143,14 @@ for n, (a, b) in enumerate(bounds):
         if extras:
             body_lines += extras + ['']
         body_lines += g['q'] + post
+        filled = fill_answer('\n'.join(g['q'] + post), g['ans'])
+        ans_lines = (extras + [''] if extras else []) + filled.split('\n')
         item = dict(
             id=f'{pat}-{partno:02d}-{k:02d}',
             label=f'P{pat} · Part {partno} · {k:02d}번',
             topic=f'Pattern {pat}. {PATTERN[pat]}',
             passage='\n'.join(body_lines).strip('\n'),
+            passage_ans='\n'.join(ans_lines).strip('\n'),
             prompt=instr,
             choices=None,
             kind='text',
