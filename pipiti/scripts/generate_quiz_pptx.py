@@ -234,7 +234,8 @@ def build_item_slide(prs, item, index, total):
     full_w_in = 12.333
 
     # ---- 해설 패널 높이 먼저 결정 (긴 해설이면 패널을 키우고 위 영역을 줄인다) ----
-    expl_lines = item["explanation"].split("\n")
+    has_expl = bool((item.get("explanation") or "").strip())
+    expl_lines = item["explanation"].split("\n") if has_expl else []
     expl_inner_w = full_w_in - 0.5
     def expl_need(pt):
         n = sum(estimate_lines(plain(("정답 이유   " if i == 0 else "") + l), pt, expl_inner_w) for i, l in enumerate(expl_lines))
@@ -257,6 +258,10 @@ def build_item_slide(prs, item, index, total):
     bottom = 7.30
     expl_top = bottom - expl_h_in
     ans_h_in = 0.75
+    if not has_expl:  # 해설이 없는 자료: 정답 배너만 크게
+        expl_h_in = -0.12
+        ans_h_in = 1.1
+        expl_top = bottom - expl_h_in
     ans_top = expl_top - 0.12 - ans_h_in
     divider_y = ans_top - 0.15
 
@@ -423,6 +428,9 @@ def build_item_slide(prs, item, index, total):
             pPr = p._p.find(qn("a:pPr"))
             (pPr.addnext(r_el) if pPr is not None else p._p.insert(0, r_el))
         p.space_after = Pt(2)
+
+    if not has_expl:
+        expl_box._element.getparent().remove(expl_box._element)
 
     LAYOUT_LOG.append({"slide": len(prs.slides), "divider": divider_y, "split": split, "content_top": content_top_in,
                        "expl_top": expl_top, "font": font_pt, "expl_pt": expl_pt})
